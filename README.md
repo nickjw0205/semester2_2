@@ -5,14 +5,14 @@ This is a repository that I practiced during semester 2-2.
 
 | Lecture | Link |
 | - | - |
-| Advanced_Practices_of_Computer_Use | https://github.com/nickjw0205/semester2_2/tree/master/Advanced_Practices_of_Computer_Use |
-| Computational_Data_Analysis_Basic | https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic |
-| Computer_Statistics | https://github.com/nickjw0205/semester2_2/tree/master/Computer_Statistics |
-| Database | https://github.com/nickjw0205/semester2_2/tree/master/Database |
+| Advanced_Practices_of_Computer_Use | [github](https://github.com/nickjw0205/semester2_2/tree/master/Advanced_Practices_of_Computer_Use) |
+| Computational_Data_Analysis_Basic | [github](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic) |
+| Computer_Statistics | [github](https://github.com/nickjw0205/semester2_2/tree/master/Computer_Statistics) |
+| Database | [github](https://github.com/nickjw0205/semester2_2/tree/master/Database) |
 
 ------------
 
-## Advanced_Practices_of_Computer_Use (고급컴퓨터활용)
+### Advanced_Practices_of_Computer_Use *(고급컴퓨터활용)*
 
 | Week | Content |
 | - | - |
@@ -20,7 +20,7 @@ This is a repository that I practiced during semester 2-2.
 
 ----------
 
-## Computational_Data_Analysis_Basic (컴퓨팅데이터처리)
+### Computational_Data_Analysis_Basic *(컴퓨팅데이터처리)*
 
 | Week | Content |
 | - | - |
@@ -28,7 +28,7 @@ This is a repository that I practiced during semester 2-2.
 
 ----------
 
-## Computer_Statistics (전산통계학)
+### Computer_Statistics *(전산통계학)*
 
 | Week | Content |
 | - | - |
@@ -36,7 +36,7 @@ This is a repository that I practiced during semester 2-2.
 
 ---------
 
-## Database (데이터베이스)
+### Database *(데이터베이스)*
 
 | Week | Content |
 | - | - |
