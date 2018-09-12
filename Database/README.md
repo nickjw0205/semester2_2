@@ -3,7 +3,7 @@
 | Week | Content | File | HW |
 | - | - | - | - |
 | Week_1 | 1. Orientation | X | X |
-| Week_2 | | | |
+| Week_2 | 1. Install Oracle <br> 2. Connect SQL <br> 3. Set ID, PW | X | X |
 | Week_3 | | | |
 | Week_4 | | | |
 | Week_5 | | | |

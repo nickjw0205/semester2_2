@@ -2,7 +2,7 @@
 
 | Week | Content | File | HW |
 | - | - | - | - |
-| Week_1 | 1. Orientation | X | [Link]() |
+| Week_1 | 1. Orientation | X | [Link](https://github.com/nickjw0205/semester2_2/blob/master/Computational_Data_Analysis_Basic/Week_1/1%EC%B0%A8%EA%B3%BC%EC%A0%9C.pages) |
 | Week_2 | | | |
 | Week_3 | | | |
 | Week_4 | | | |
