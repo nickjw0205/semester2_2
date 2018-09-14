@@ -3,7 +3,7 @@
 | Week | Content | File | HW |
 | - | - | - | - |
 | Week_1 | 1. Orientation | X | X |
-| Week_2 | 1. SET <br> 2. MERGE <br> 3. KEEP & DROP<br> 4. IF & ELSE <br> 5. OPERATOR & FUNCTION | [link]() | [link]() |
+| Week_2 | 1. SET <br> 2. MERGE <br> 3. KEEP & DROP<br> 4. IF & ELSE <br> 5. OPERATOR & FUNCTION | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computer_Statistics/Week_2) | [link]() |
 | Week_3 | | | |
 | Week_4 | | | |
 | Week_5 | | | |
