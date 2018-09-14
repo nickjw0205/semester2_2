@@ -1,4 +1,4 @@
-## Advanced_Practices_of_Computer_Use.md
+## Advanced_Practices_of_Computer_Use.md *(고급컴퓨터활용)*
 
 | Week | Content | File | HW |
 | - | - | - | - |
