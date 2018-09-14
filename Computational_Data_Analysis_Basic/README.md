@@ -3,7 +3,7 @@
 | Week | Content | File | HW |
 | - | - | - | - |
 | Week_1 | 1. Orientation | X | [Link](https://github.com/nickjw0205/semester2_2/blob/master/Computational_Data_Analysis_Basic/Week_1/1%EC%B0%A8%EA%B3%BC%EC%A0%9C.pages) |
-| Week_2 | 1. Operator <br> 2. variable| | X |
+| Week_2 | 1. Operator <br> 2. variable| [link](https://github.com/nickjw0205/semester2_2/blob/master/Computational_Data_Analysis_Basic/Week_2/introduction.py) | X |
 | Week_3 | | | |
 | Week_4 | | | |
 | Week_5 | | | |
