@@ -1,0 +1,12 @@
+DATA SCORE1;
+	INFILE "/folders/myshortcuts/R_practice/Week_2/score1.txt";
+	INPUT GENDER$ KOR MAT ENG SCI;
+	
+DATA CSE_SCORE1;
+	SET SCORE1;
+	IF MAT >= 90 THEN GRADE="A";
+	ELSE IF MAT >= 80 THEN GRADE="B";
+	ELSE IF MAT >= 70 THEN GEADE="C";
+	ELSE GRADE="D";
+	
+RUN;
