@@ -1,0 +1,59 @@
+type(4/2) -> float형임
+
+a = "Python" -> type(a) --> str
+
+print(' "나는 말했다" ') --> "나는 말했다"
+
+print("""a
+a
+a
+a
+a
+a
+a""")  --> 'a\na\na\na\na\na\na'
+
+a = "Life is too short. You need Python"
+
+num1 = a[-0] -> L
+num2 = a[-1] -> n
+a[19:-17] = You need
+"나는 배 %s개와 사과 %d개를 먹습니다." %(num1,a) ->'나는 배 5개와 사과 3개를 먹습니다.'
+
+" 소수는 %f입니다. " %3.141592 -> ' 소수는 3.141592입니다. '
+
+" 소수는 %.2f입니다. " %3.141592 -> ' 소수는 3.14입니다. '
+
+" 소수는 %10.2f입니다. " %3.141592 -> ' 소수는       3.14입니다. '
+
+a = "hobby"  	a.count("b") -> 2
+				a.find("o") -> 1, o가 나오는 index를 나타냄.
+				a.find("k") -> -1(값이 없다.)
+				a.index("o") -> 1
+				a.index("k") -> 에러!
+
+
+a.upper() -> HOBBY
+a.low()
+a.replace("Life","Your leg")
+
+
+a = input("이름을 입력하세요: ")
+
+a = 10, b = 10, c = a + b
+print("a + b = ", c) -> a + b =  20
+
+name = input("당신의 이름은? ")
+print("당신의 이름은 ", name)
+
+
+
+
+
+
+
+
+
+
+
+
+
