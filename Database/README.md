@@ -5,7 +5,7 @@
 | Week_1 | 1. Orientation | X | X |
 | Week_2 | 1. Install Oracle <br> 2. Connect SQL <br> 3. Set ID, PW | X | X |
 | Week_3 | 1. 명령어 <br> 2. 실행방법 <br> 3. 편집 | X | X |
-| Week_4 | | | |
+| Week_4 | 추석 휴강 | X | X |
 | Week_5 | | | |
 | Week_6 | | | |
 | Week_7 | | | |
