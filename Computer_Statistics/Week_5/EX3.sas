@@ -1,0 +1,8 @@
+DATA CARS;
+	SET SASHELP.CARS;
+	KEEP MAKE TYPE;
+
+PROC SGPLOT DATA=CARS; 
+ 	VBAR MAKE / GROUP = TYPE; 
+ 	TITLE "Maker frequency of cars";
+RUN;
