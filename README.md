@@ -9,3 +9,4 @@ This is a repository that I practiced during semester 2-2.
 | Computational_Data_Analysis_Basic | [Link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic) |
 | Computer_Statistics | [Link](https://github.com/nickjw0205/semester2_2/tree/master/Computer_Statistics) |
 | Database | [Link](https://github.com/nickjw0205/semester2_2/tree/master/Database) |
+| Fortran | [Link](https://github.com/nickjw0205/semester2_2/tree/master/Fortran) |
