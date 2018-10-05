@@ -4,9 +4,9 @@
 | - | - | - | - |
 | Week_1 | 1. Orientation | X | [Link](https://github.com/nickjw0205/semester2_2/blob/master/Computational_Data_Analysis_Basic/Week_1/1%EC%B0%A8%EA%B3%BC%EC%A0%9C.pages) |
 | Week_2 | 1. Operator <br> 2. variable| [link](https://github.com/nickjw0205/semester2_2/blob/master/Computational_Data_Analysis_Basic/Week_2/introduction.py) | X |
-| Week_3 | | | |
-| Week_4 | | | |
-| Week_5 | | | |
+| Week_3 | 1. int <br> 2. float <br> 3. str <br> 4. boolean | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_3) | X |
+| Week_4 | 1. if <br> 2. else if <br> 3. if else | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_4) | X |
+| Week_5 | 1. Array <br> 2. Tuple | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_5) | X |
 | Week_6 | | | |
 | Week_7 | | | |
 | Week_8 | | | |
