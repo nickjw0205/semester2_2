@@ -7,7 +7,7 @@
 | Week_3 | 1. 서식복사 <br> 2. 연산수식 <br> 3. 특정 셀 선택 <br> 4. 병합 | [link](https://github.com/nickjw0205/semester2_2/tree/master/Advanced_Practices_of_Computer_Use/Week_2) | [link](https://github.com/nickjw0205/semester2_2/tree/master/Advanced_Practices_of_Computer_Use/Week_2/HW) |
 | Week_4 | 추석휴강 | X | X |
 | Week_5 | 휴강 | X | X |
-| Week_6 | 1. 조건부 서식 <br> 2. 소수점 조절 | [link]() | |
+| Week_6 | 1. 조건부 서식 <br> 2. 소수점 조절 | [link](https://github.com/nickjw0205/semester2_2/tree/master/Advanced_Practices_of_Computer_Use/Week_6) | X |
 | Week_7 | | | |
 | Week_8 | | | |
 | Week_9 | | | |
