@@ -8,8 +8,8 @@
 | Week_4 | 1. if <br> 2. else if <br> 3. if else | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_4) | X |
 | Week_5 | 1. Array <br> 2. Tuple | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_5) | X |
 | Week_6 | 1. for <br> 2. while | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_6) | X |
-| Week_7 | | | |
-| Week_8 | | | |
+| Week_7 | 1. for문의 활용 | | |
+| Week_8 | 중간고사 | X | X |
 | Week_9 | | | |
 | Week_10 | | | |
 | Week_11 | | | |

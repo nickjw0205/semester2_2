@@ -8,8 +8,8 @@
 | Week_4 | 추석휴강 | X | X |
 | Week_5 | 휴강 | X | X |
 | Week_6 | 1. 조건부 서식 <br> 2. 소수점 조절 | [link](https://github.com/nickjw0205/semester2_2/tree/master/Advanced_Practices_of_Computer_Use/Week_6) | X |
-| Week_7 | | | |
-| Week_8 | | | |
+| Week_7 | 1. 셀서식 <br> 2. 텍스트 나누기 | [link]() | X |
+| Week_8 | 중간고사 | X | X |
 | Week_9 | | | |
 | Week_10 | | | |
 | Week_11 | | | |
