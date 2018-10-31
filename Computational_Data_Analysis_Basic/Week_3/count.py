@@ -7,4 +7,4 @@ start = time.time()
 input("누르기")
 end = time.time()
 
-print("당신이 누른 시간은 %.2f 입니다." %(end - start))
+print("당신이 누른 시간은 ",abs(end - start), " 입니다.")
