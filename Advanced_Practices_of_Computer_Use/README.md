@@ -10,7 +10,7 @@
 | Week_6 | 1. 조건부 서식 <br> 2. 소수점 조절 | [link](https://github.com/nickjw0205/semester2_2/tree/master/Advanced_Practices_of_Computer_Use/Week_6) | X |
 | Week_7 | 1. 셀서식 <br> 2. 텍스트 나누기 | [link]() | X |
 | Week_8 | 중간고사 | X | X |
-| Week_9 | | | |
+| Week_9 | 1. 문자열 조작 <br> 2. 논리함수 <br> 3. if/else |[link]() | [link]() |
 | Week_10 | | | |
 | Week_11 | | | |
 | Week_12 | | | |

@@ -10,7 +10,7 @@
 | Week_6 | 1. for <br> 2. while | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_6) | X |
 | Week_7 | 1. for문의 활용 | | |
 | Week_8 | 중간고사 | X | X |
-| Week_9 | | | |
+| Week_9 | 1. 시험리뷰 | X | X |
 | Week_10 | | | |
 | Week_11 | | | |
 | Week_12 | | | |
