@@ -1,0 +1,301 @@
+Depth is fastest.
+ Depth = 25 || Best = 12 || Breath = 10
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  57     4     14.2
+   I 2 =  93    10      9.3
+   I 3 =  89    10      8.9
+   I 4 =  69     9      7.7
+   I 5 =  48     9      5.3
+
+
+
+ Depth = 29 || Best = 14 || Breath = 13
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  46     2     23.0
+   I 2 =  81     9      9.0
+   I 3 =  82    10      8.2
+   I 4 =  28     5      5.6
+   I 5 =  32     7      4.6
+
+
+
+ Depth = 23 || Best = 11 || Breath = 10
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  72     5     14.4
+   I 2 =  97     7     13.9
+   I 3 =  81    10      8.1
+   I 4 =  71     9      7.9
+   I 5 =   7     6      1.2
+
+
+
+ Depth = 23 || Best = 13 || Breath = 12
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  61     7      8.7
+   I 2 =  77     9      8.6
+   I 3 =  42     6      7.0
+   I 4 =  42     6      7.0
+   I 5 =  28     6      4.7
+
+
+
+ Depth = 25 || Best = 12 || Breath = 10
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  44     3     14.7
+   I 2 =  84    10      8.4
+   I 3 =  71     9      7.9
+   I 4 =  52     9      5.8
+   I 5 =  18    10      1.8
+
+
+
+ Depth = 25 || Best = 12 || Breath = 10
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  72     4     18.0
+   I 2 =  97     9     10.8
+   I 3 =  98    10      9.8
+   I 4 =  48     9      5.3
+   I 5 =  16     6      2.7
+
+
+
+ Depth = 21 || Best = 14 || Breath = 13
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  49     4     12.2
+   I 2 =  65    10      6.5
+   I 3 =  58     9      6.4
+   I 4 =  51     8      6.4
+   I 5 =  15     5      3.0
+
+
+
+ Depth = 13 || Best = 7 || Breath = 6
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  90    10      9.0
+   I 2 =  75     9      8.3
+   I 3 =  82    10      8.2
+   I 4 =  67     9      7.4
+   I 5 =  26     5      5.2
+
+
+
+ Depth = 25 || Best = 12 || Breath = 11
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  62     5     12.4
+   I 2 =  94    10      9.4
+   I 3 =  78     9      8.7
+   I 4 =  60     8      7.5
+   I 5 =  28     7      4.0
+
+
+
+ Depth = 23 || Best = 12 || Breath = 10
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  57     4     14.2
+   I 2 =  69     9      7.7
+   I 3 =  65    10      6.5
+   I 4 =  34     8      4.2
+   I 5 =   6     5      1.2
+
+
+
+ Depth = 25 || Best = 13 || Breath = 12
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  85     4     21.2
+   I 2 =  92     8     11.5
+   I 3 =  99     9     11.0
+   I 4 =  89    10      8.9
+   I 5 =  15    10      1.5
+
+
+
+ Depth = 25 || Best = 12 || Breath = 10
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  59     4     14.8
+   I 2 =  74     9      8.2
+   I 3 =  78    10      7.8
+   I 4 =  46    10      4.6
+   I 5 =  13    10      1.3
+
+
+
+ Depth = 25 || Best = 13 || Breath = 11
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  51     4     12.8
+   I 2 =  68     7      9.7
+   I 3 =  81    10      8.1
+   I 4 =  67    10      6.7
+   I 5 =  11     8      1.4
+
+
+
+ Depth = 23 || Best = 11 || Breath = 10
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  33     6      5.5
+   I 2 =  52    10      5.2
+   I 3 =  45     9      5.0
+   I 4 =  21     5      4.2
+   I 5 =  19     8      2.4
+
+
+
+ Depth = 23 || Best = 11 || Breath = 10
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  87     8     10.9
+   I 2 =  64     6     10.7
+   I 3 =  73     9      8.1
+   I 4 =  64     9      7.1
+   I 5 =  12     8      1.5
+
+
+
+ Depth = 21 || Best = 10 || Breath = 9
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  78     7     11.1
+   I 2 =  85    10      8.5
+   I 3 =  81    10      8.1
+   I 4 =  15     4      3.8
+   I 5 =   9     4      2.2
+
+
+
+ Depth = 29 || Best = 14 || Breath = 12
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  69     4     17.2
+   I 2 =  96     8     12.0
+   I 3 =  90     9     10.0
+   I 4 =  81     9      9.0
+   I 5 =  20     9      2.2
+
+
+
+ Depth = 15 || Best = 9 || Breath = 8
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  98     7     14.0
+   I 2 =  48     6      8.0
+   I 3 =  73    10      7.3
+   I 4 =  30     5      6.0
+   I 5 =   8     6      1.3
+
+
+
+ Depth = 31 || Best = 15 || Breath = 13
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  60     5     12.0
+   I 2 =  90    10      9.0
+   I 3 =  76     9      8.4
+   I 4 =  79    10      7.9
+   I 5 =  16     6      2.7
+
+
+
+ Depth = 15 || Best = 8 || Breath = 7
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  36     3     12.0
+   I 2 =  83     9      9.2
+   I 3 =  60    10      6.0
+   I 4 =  26     8      3.2
+   I 5 =  18    10      1.8
+
+
+
+ Depth = 19 || Best = 11 || Breath = 9
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  47     7      6.7
+   I 2 =  50     8      6.2
+   I 3 =  62    10      6.2
+   I 4 =  19     5      3.8
+   I 5 =  18     9      2.0
+
+
+
+ Depth = 25 || Best = 12 || Breath = 11
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  45     6      7.5
+   I 2 =  58     8      7.2
+   I 3 =  59     9      6.6
+   I 4 =  52    10      5.2
+   I 5 =   5     4      1.2
+
+
+
+ Depth = 17 || Best = 9 || Breath = 8
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  92     9     10.2
+   I 2 =  59     7      8.4
+   I 3 =  69    10      6.9
+   I 4 =  33     5      6.6
+   I 5 =   9     7      1.3
+
+
+
+ Depth = 33 || Best = 16 || Breath = 15
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  48     3     16.0
+   I 2 =  97     9     10.8
+   I 3 =  90    10      9.0
+   I 4 =  79     9      8.8
+   I 5 =  55     9      6.1
+
+
+
+ Depth = 23 || Best = 11 || Breath = 10
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  54     5     10.8
+   I 2 =  89     9      9.9
+   I 3 =  79     9      8.8
+   I 4 =  53     7      7.6
+   I 5 =  14     9      1.6
+
+
+
+ Depth = 15 || Best = 7 || Breath = 6
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  20     2     10.0
+   I 2 =  99    10      9.9
+   I 3 =  52    10      5.2
+   I 4 =  43    10      4.3
+   I 5 =   6     3      2.0
+
+
+
+ Depth = 25 || Best = 13 || Breath = 12
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  47     4     11.8
+   I 2 =  96    10      9.6
+   I 3 =  83     9      9.2
+   I 4 =  85    10      8.5
+   I 5 =   6     4      1.5
+
+
+
+ Depth = 13 || Best = 7 || Breath = 6
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  90    10      9.0
+   I 2 =  38     8      4.8
+   I 3 =  46    10      4.6
+   I 4 =  27     6      4.5
+   I 5 =  23     9      2.6
+
+
+
+ Depth = 25 || Best = 11 || Breath = 10
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  52     3     17.3
+   I 2 =  91     9     10.1
+   I 3 =  85    10      8.5
+   I 4 =  51     9      5.7
+   I 5 =  26    10      2.6
+
+
+
+ Depth = 17 || Best = 9 || Breath = 8
+ Item =  p[i]   w[i]  p[i]/w[i]
+   I 1 =  94     9     10.4
+   I 2 =  65     8      8.1
+   I 3 =  71    10      7.1
+   I 4 =  46    10      4.6
+   I 5 =  11    10      1.1
+
+
+

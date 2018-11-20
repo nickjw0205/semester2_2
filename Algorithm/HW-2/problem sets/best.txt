@@ -1,0 +1,6988 @@
+when depth is faster than best or same with best.
+Breadth is faster than Best.
+ Depth = 55 || Best = 24 || Breath = 23
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  10     1     10.0
+   I 2 =  91    10      9.1
+   I 3 =  76    10      7.6
+   I 4 =  18     3      6.0
+   I 5 =  34     7      4.9
+   I 6 =  43    10      4.3
+   I 7 =  17     4      4.2
+   I 8 =  33     8      4.1
+   I 9 =  25     8      3.1
+   I10 =  14    10      1.4
+
+Breadth is faster than Best.
+ Depth = 33 || Best = 14 || Breath = 13
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  73     5     14.6
+   I 2 =  82     9      9.1
+   I 3 =  53    10      5.3
+   I 4 =  40     9      4.4
+   I 5 =  28     7      4.0
+   I 6 =   8     3      2.7
+   I 7 =  23     9      2.6
+   I 8 =  17     9      1.9
+   I 9 =   7     4      1.8
+   I10 =   6     4      1.5
+
+Breadth is faster than Best.
+ Depth = 85 || Best = 46 || Breath = 44
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  52     1     52.0
+   I 2 =  70     4     17.5
+   I 3 =  85     7     12.1
+   I 4 =  98    10      9.8
+   I 5 =  83     9      9.2
+   I 6 =  85    10      8.5
+   I 7 =  83    10      8.3
+   I 8 =  36     9      4.0
+   I 9 =  22     9      2.4
+   I10 =  20    10      2.0
+
+Breadth is faster than Best.
+ Depth = 45 || Best = 25 || Breath = 23
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  54     3     18.0
+   I 2 =  100    10     10.0
+   I 3 =  94    10      9.4
+   I 4 =  75     9      8.3
+   I 5 =  64     9      7.1
+   I 6 =  44     8      5.5
+   I 7 =  44     9      4.9
+   I 8 =  18     6      3.0
+   I 9 =  22    10      2.2
+   I10 =  19    10      1.9
+
+Breadth is faster than Best.
+ Depth = 55 || Best = 20 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  92     8     11.5
+   I 2 =  90    10      9.0
+   I 3 =  58     7      8.3
+   I 4 =  49     7      7.0
+   I 5 =  56     8      7.0
+   I 6 =  47     8      5.9
+   I 7 =   6     2      3.0
+   I 8 =  29    10      2.9
+   I 9 =  16     6      2.7
+   I10 =  15     8      1.9
+
+Breadth is faster than Best.
+ Depth = 53 || Best = 30 || Breath = 29
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  21     1     21.0
+   I 2 =  63     4     15.8
+   I 3 =  99     9     11.0
+   I 4 =  39     8      4.9
+   I 5 =  39     9      4.3
+   I 6 =   8     2      4.0
+   I 7 =  30    10      3.0
+   I 8 =  16     7      2.3
+   I 9 =  15     7      2.1
+   I10 =   7     6      1.2
+
+Breadth is faster than Best.
+ Depth = 99 || Best = 59 || Breath = 55
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  54     2     27.0
+   I 2 =  67     5     13.4
+   I 3 =  78     6     13.0
+   I 4 =  100     9     11.1
+   I 5 =  100     9     11.1
+   I 6 =  100    10     10.0
+   I 7 =  81     9      9.0
+   I 8 =  49     8      6.1
+   I 9 =  53     9      5.9
+   I10 =  37     8      4.6
+
+Breadth is faster than Best.
+ Depth = 87 || Best = 42 || Breath = 41
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  64     6     10.7
+   I 2 =  93    10      9.3
+   I 3 =  91    10      9.1
+   I 4 =  52     6      8.7
+   I 5 =  37     5      7.4
+   I 6 =  68    10      6.8
+   I 7 =  50    10      5.0
+   I 8 =  29     8      3.6
+   I 9 =  17     5      3.4
+   I10 =  15     7      2.1
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 20 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  91     6     15.2
+   I 2 =  92     9     10.2
+   I 3 =  45     7      6.4
+   I 4 =  37     7      5.3
+   I 5 =  37     7      5.3
+   I 6 =  39     8      4.9
+   I 7 =  31     7      4.4
+   I 8 =  21     5      4.2
+   I 9 =  35    10      3.5
+   I10 =  14     9      1.6
+
+Breadth is faster than Best.
+ Depth = 57 || Best = 27 || Breath = 26
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  36     3     12.0
+   I 2 =  80    10      8.0
+   I 3 =  70     9      7.8
+   I 4 =  72    10      7.2
+   I 5 =  62     9      6.9
+   I 6 =  42    10      4.2
+   I 7 =  21     5      4.2
+   I 8 =  30     8      3.8
+   I 9 =  28    10      2.8
+   I10 =   8     3      2.7
+
+Breadth is faster than Best.
+ Depth = 27 || Best = 16 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  80     7     11.4
+   I 2 =  99    10      9.9
+   I 3 =  38     6      6.3
+   I 4 =  29     5      5.8
+   I 5 =  45     8      5.6
+   I 6 =  54    10      5.4
+   I 7 =  33     7      4.7
+   I 8 =  29     9      3.2
+   I 9 =   6     2      3.0
+   I10 =   6     5      1.2
+
+Breadth is faster than Best.
+ Depth = 113 || Best = 62 || Breath = 60
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  68     6     11.3
+   I 2 =  98    10      9.8
+   I 3 =  69     8      8.6
+   I 4 =  70     9      7.8
+   I 5 =  69     9      7.7
+   I 6 =  52     8      6.5
+   I 7 =  38     7      5.4
+   I 8 =  32     7      4.6
+   I 9 =  41     9      4.6
+   I10 =  20    10      2.0
+
+Breadth is faster than Best.
+ Depth = 117 || Best = 43 || Breath = 42
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  93     8     11.6
+   I 2 =  79     7     11.3
+   I 3 =  98    10      9.8
+   I 4 =  97    10      9.7
+   I 5 =  95    10      9.5
+   I 6 =  53     6      8.8
+   I 7 =   7     1      7.0
+   I 8 =  29     9      3.2
+   I 9 =  26    10      2.6
+   I10 =  14     9      1.6
+
+Breadth is faster than Best.
+ Depth = 49 || Best = 28 || Breath = 27
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  96     1     96.0
+   I 2 =  89     6     14.8
+   I 3 =  81     9      9.0
+   I 4 =  14     2      7.0
+   I 5 =  21     6      3.5
+   I 6 =  30     9      3.3
+   I 7 =  26     8      3.2
+   I 8 =  23     8      2.9
+   I 9 =  25    10      2.5
+   I10 =  11     7      1.6
+
+Breadth is faster than Best.
+ Depth = 109 || Best = 42 || Breath = 41
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  98     2     49.0
+   I 2 =  42     4     10.5
+   I 3 =  74    10      7.4
+   I 4 =  59     8      7.4
+   I 5 =  70    10      7.0
+   I 6 =  63     9      7.0
+   I 7 =  49     8      6.1
+   I 8 =  47     9      5.2
+   I 9 =  50    10      5.0
+   I10 =  13     9      1.4
+
+Breadth is faster than Best.
+ Depth = 99 || Best = 40 || Breath = 39
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  78     3     26.0
+   I 2 =  71     5     14.2
+   I 3 =  89     8     11.1
+   I 4 =  87     9      9.7
+   I 5 =  96    10      9.6
+   I 6 =  83     9      9.2
+   I 7 =  79     9      8.8
+   I 8 =  59    10      5.9
+   I 9 =  21     6      3.5
+   I10 =  15    10      1.5
+
+Breadth is faster than Best.
+ Depth = 121 || Best = 34 || Breath = 33
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  56     4     14.0
+   I 2 =  78     8      9.8
+   I 3 =  86    10      8.6
+   I 4 =  84    10      8.4
+   I 5 =  83    10      8.3
+   I 6 =  14     3      4.7
+   I 7 =  29     9      3.2
+   I 8 =  22    10      2.2
+   I 9 =  10     5      2.0
+   I10 =   6     4      1.5
+
+Breadth is faster than Best.
+ Depth = 131 || Best = 63 || Breath = 62
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  30     2     15.0
+   I 2 =  96     8     12.0
+   I 3 =  99     9     11.0
+   I 4 =  73     7     10.4
+   I 5 =  67     7      9.6
+   I 6 =  61     7      8.7
+   I 7 =  61     7      8.7
+   I 8 =  36     8      4.5
+   I 9 =  20    10      2.0
+   I10 =  12    10      1.2
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 20 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  91     8     11.4
+   I 2 =  58     7      8.3
+   I 3 =  57     7      8.1
+   I 4 =  27     4      6.8
+   I 5 =   6     1      6.0
+   I 6 =  40     8      5.0
+   I 7 =  23     5      4.6
+   I 8 =   3     1      3.0
+   I 9 =   8     4      2.0
+   I10 =  13     9      1.4
+
+Breadth is faster than Best.
+ Depth = 195 || Best = 68 || Breath = 65
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  62     2     31.0
+   I 2 =  76     5     15.2
+   I 3 =  78     7     11.1
+   I 4 =  95     9     10.6
+   I 5 =  89     9      9.9
+   I 6 =  79     9      8.8
+   I 7 =  73     9      8.1
+   I 8 =  64     9      7.1
+   I 9 =  59     9      6.6
+   I10 =  45    10      4.5
+
+Breadth is faster than Best.
+ Depth = 33 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  74     3     24.7
+   I 2 =  85     6     14.2
+   I 3 =  73     9      8.1
+   I 4 =  18     4      4.5
+   I 5 =  28     7      4.0
+   I 6 =  20     5      4.0
+   I 7 =  34     9      3.8
+   I 8 =  29    10      2.9
+   I 9 =  14     8      1.8
+   I10 =  17    10      1.7
+
+Breadth is faster than Best.
+ Depth = 101 || Best = 42 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  56     3     18.7
+   I 2 =  72     5     14.4
+   I 3 =  81     8     10.1
+   I 4 =  81     9      9.0
+   I 5 =  71     8      8.9
+   I 6 =  66     8      8.2
+   I 7 =  53     7      7.6
+   I 8 =  35     8      4.4
+   I 9 =  19    10      1.9
+   I10 =   9     7      1.3
+
+Breadth is faster than Best.
+ Depth = 77 || Best = 37 || Breath = 36
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  100     9     11.1
+   I 2 =  75     8      9.4
+   I 3 =  68     8      8.5
+   I 4 =  57     7      8.1
+   I 5 =  46     7      6.6
+   I 6 =  55     9      6.1
+   I 7 =  41     9      4.6
+   I 8 =  39    10      3.9
+   I 9 =  27     8      3.4
+   I10 =   2     1      2.0
+
+Breadth is faster than Best.
+ Depth = 65 || Best = 24 || Breath = 23
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  50     4     12.5
+   I 2 =  100    10     10.0
+   I 3 =  100    10     10.0
+   I 4 =  96    10      9.6
+   I 5 =  77     9      8.6
+   I 6 =  25     3      8.3
+   I 7 =  72    10      7.2
+   I 8 =  65    10      6.5
+   I 9 =  26     5      5.2
+   I10 =   9     3      3.0
+
+Breadth is faster than Best.
+ Depth = 81 || Best = 40 || Breath = 38
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  96     7     13.7
+   I 2 =  33     3     11.0
+   I 3 =  56     8      7.0
+   I 4 =  48     7      6.9
+   I 5 =  54     8      6.8
+   I 6 =  52     8      6.5
+   I 7 =  38     6      6.3
+   I 8 =  10     2      5.0
+   I 9 =  30     9      3.3
+   I10 =  12     9      1.3
+
+Breadth is faster than Best.
+ Depth = 129 || Best = 54 || Breath = 53
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  72     6     12.0
+   I 2 =  83     9      9.2
+   I 3 =  90    10      9.0
+   I 4 =  71     8      8.9
+   I 5 =  80    10      8.0
+   I 6 =  72     9      8.0
+   I 7 =  34     9      3.8
+   I 8 =  27     8      3.4
+   I 9 =  30     9      3.3
+   I10 =   2     1      2.0
+
+Breadth is faster than Best.
+ Depth = 91 || Best = 46 || Breath = 45
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  66     2     33.0
+   I 2 =  93     6     15.5
+   I 3 =  87     8     10.9
+   I 4 =  75     7     10.7
+   I 5 =  76     9      8.4
+   I 6 =  76    10      7.6
+   I 7 =  63    10      6.3
+   I 8 =  45     8      5.6
+   I 9 =  32     9      3.6
+   I10 =   5     2      2.5
+
+Breadth is faster than Best.
+ Depth = 41 || Best = 20 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  87     6     14.5
+   I 2 =  81    10      8.1
+   I 3 =  61     8      7.6
+   I 4 =  46     7      6.6
+   I 5 =  52     9      5.8
+   I 6 =  49     9      5.4
+   I 7 =   8     2      4.0
+   I 8 =  16     8      2.0
+   I 9 =  14    10      1.4
+   I10 =   7     5      1.4
+
+Breadth is faster than Best.
+ Depth = 71 || Best = 25 || Breath = 23
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  82     7     11.7
+   I 2 =  100    10     10.0
+   I 3 =  98    10      9.8
+   I 4 =  97    10      9.7
+   I 5 =  65     7      9.3
+   I 6 =  77    10      7.7
+   I 7 =  40     8      5.0
+   I 8 =  43     9      4.8
+   I 9 =  30     7      4.3
+   I10 =  12     8      1.5
+
+Breadth is faster than Best.
+ Depth = 75 || Best = 44 || Breath = 43
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  70     5     14.0
+   I 2 =  98     8     12.2
+   I 3 =  97    10      9.7
+   I 4 =  82     9      9.1
+   I 5 =  81     9      9.0
+   I 6 =  67     9      7.4
+   I 7 =  39     8      4.9
+   I 8 =  40     9      4.4
+   I 9 =   8     3      2.7
+   I10 =  12     7      1.7
+
+Breadth is faster than Best.
+ Depth = 89 || Best = 53 || Breath = 50
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  84     3     28.0
+   I 2 =  74     5     14.8
+   I 3 =  96     9     10.7
+   I 4 =  93     9     10.3
+   I 5 =  89     9      9.9
+   I 6 =  94    10      9.4
+   I 7 =  74     8      9.2
+   I 8 =  64     8      8.0
+   I 9 =  62    10      6.2
+   I10 =  11     3      3.7
+
+Breadth is faster than Best.
+ Depth = 47 || Best = 25 || Breath = 23
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  52     5     10.4
+   I 2 =  93    10      9.3
+   I 3 =  59    10      5.9
+   I 4 =  56    10      5.6
+   I 5 =  36     8      4.5
+   I 6 =  35     8      4.4
+   I 7 =  26     7      3.7
+   I 8 =  24    10      2.4
+   I 9 =  17     9      1.9
+   I10 =  11     8      1.4
+
+Breadth is faster than Best.
+ Depth = 107 || Best = 44 || Breath = 43
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  63     2     31.5
+   I 2 =  96     8     12.0
+   I 3 =  82     7     11.7
+   I 4 =  93     8     11.6
+   I 5 =  75     7     10.7
+   I 6 =  83     9      9.2
+   I 7 =  80    10      8.0
+   I 8 =  18     6      3.0
+   I 9 =  20     8      2.5
+   I10 =  19     8      2.4
+
+Breadth is faster than Best.
+ Depth = 77 || Best = 37 || Breath = 32
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  51     1     51.0
+   I 2 =  85     6     14.2
+   I 3 =  84     6     14.0
+   I 4 =  98     9     10.9
+   I 5 =  93     9     10.3
+   I 6 =  29     4      7.2
+   I 7 =  32     6      5.3
+   I 8 =  40     8      5.0
+   I 9 =  29     8      3.6
+   I10 =  32    10      3.2
+
+Breadth is faster than Best.
+ Depth = 27 || Best = 21 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  97     8     12.1
+   I 2 =  75     9      8.3
+   I 3 =  23     5      4.6
+   I 4 =  21     5      4.2
+   I 5 =  24     6      4.0
+   I 6 =  29     8      3.6
+   I 7 =   8     3      2.7
+   I 8 =  20     8      2.5
+   I 9 =  19     9      2.1
+   I10 =  19     9      2.1
+
+Breadth is faster than Best.
+ Depth = 63 || Best = 19 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  66     5     13.2
+   I 2 =  91    10      9.1
+   I 3 =  88    10      8.8
+   I 4 =  87    10      8.7
+   I 5 =  45     7      6.4
+   I 6 =  31     6      5.2
+   I 7 =   9     2      4.5
+   I 8 =  38    10      3.8
+   I 9 =   7     4      1.8
+   I10 =  14     9      1.6
+
+Breadth is faster than Best.
+ Depth = 63 || Best = 37 || Breath = 35
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  36     1     36.0
+   I 2 =  92     8     11.5
+   I 3 =  92     8     11.5
+   I 4 =  96     9     10.7
+   I 5 =  47     5      9.4
+   I 6 =  44     5      8.8
+   I 7 =  52     7      7.4
+   I 8 =  38     6      6.3
+   I 9 =   9     3      3.0
+   I10 =  16    10      1.6
+
+Breadth is faster than Best.
+ Depth = 99 || Best = 51 || Breath = 49
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  59     3     19.7
+   I 2 =  92     9     10.2
+   I 3 =  98    10      9.8
+   I 4 =  87    10      8.7
+   I 5 =  83    10      8.3
+   I 6 =  75    10      7.5
+   I 7 =  70    10      7.0
+   I 8 =  43     9      4.8
+   I 9 =  22     8      2.8
+   I10 =  20    10      2.0
+
+Breadth is faster than Best.
+ Depth = 91 || Best = 43 || Breath = 41
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  56     3     18.7
+   I 2 =  74     4     18.5
+   I 3 =  97     9     10.8
+   I 4 =  96     9     10.7
+   I 5 =  95     9     10.6
+   I 6 =  97    10      9.7
+   I 7 =   6     1      6.0
+   I 8 =  28     6      4.7
+   I 9 =   6     2      3.0
+   I10 =   2     1      2.0
+
+Breadth is faster than Best.
+ Depth = 33 || Best = 14 || Breath = 13
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  84     5     16.8
+   I 2 =  100     7     14.3
+   I 3 =  36     8      4.5
+   I 4 =  20     6      3.3
+   I 5 =  16     5      3.2
+   I 6 =  28    10      2.8
+   I 7 =  20     9      2.2
+   I 8 =  16     8      2.0
+   I 9 =   8     5      1.6
+   I10 =   8     6      1.3
+
+Breadth is faster than Best.
+ Depth = 209 || Best = 103 || Breath = 99
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  91     3     30.3
+   I 2 =  96     6     16.0
+   I 3 =  100     7     14.3
+   I 4 =  98     8     12.2
+   I 5 =  84     7     12.0
+   I 6 =  100     9     11.1
+   I 7 =  87     9      9.7
+   I 8 =  71     8      8.9
+   I 9 =  57     8      7.1
+   I10 =  46    10      4.6
+
+Breadth is faster than Best.
+ Depth = 81 || Best = 38 || Breath = 36
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  59     3     19.7
+   I 2 =  83     6     13.8
+   I 3 =  96     8     12.0
+   I 4 =  95     8     11.9
+   I 5 =  75     8      9.4
+   I 6 =  62     7      8.9
+   I 7 =  69     8      8.6
+   I 8 =  40     6      6.7
+   I 9 =  43     8      5.4
+   I10 =  27     7      3.9
+
+Breadth is faster than Best.
+ Depth = 37 || Best = 17 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  94     6     15.7
+   I 2 =  93     6     15.5
+   I 3 =  81     6     13.5
+   I 4 =  23     4      5.8
+   I 5 =  33    10      3.3
+   I 6 =   5     2      2.5
+   I 7 =  21     9      2.3
+   I 8 =   6     3      2.0
+   I 9 =   7     4      1.8
+   I10 =   7     6      1.2
+
+Breadth is faster than Best.
+ Depth = 107 || Best = 35 || Breath = 31
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  79     5     15.8
+   I 2 =  100    10     10.0
+   I 3 =  100    10     10.0
+   I 4 =  97    10      9.7
+   I 5 =  89    10      8.9
+   I 6 =  54     9      6.0
+   I 7 =  56    10      5.6
+   I 8 =   4     1      4.0
+   I 9 =  30     8      3.8
+   I10 =  22     9      2.4
+
+Breadth is faster than Best.
+ Depth = 91 || Best = 53 || Breath = 49
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  52     2     26.0
+   I 2 =  71     5     14.2
+   I 3 =  72     7     10.3
+   I 4 =  81    10      8.1
+   I 5 =  62     8      7.8
+   I 6 =  71    10      7.1
+   I 7 =  62     9      6.9
+   I 8 =  57    10      5.7
+   I 9 =  28     9      3.1
+   I10 =   8     5      1.6
+
+Breadth is faster than Best.
+ Depth = 39 || Best = 16 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  88     5     17.6
+   I 2 =  88     6     14.7
+   I 3 =  72     9      8.0
+   I 4 =  27     5      5.4
+   I 5 =  35     7      5.0
+   I 6 =  44    10      4.4
+   I 7 =  31     9      3.4
+   I 8 =  10     4      2.5
+   I 9 =  22     9      2.4
+   I10 =  16     7      2.3
+
+Breadth is faster than Best.
+ Depth = 31 || Best = 18 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  79     7     11.3
+   I 2 =  59     6      9.8
+   I 3 =  28     8      3.5
+   I 4 =  13     4      3.2
+   I 5 =  32    10      3.2
+   I 6 =  24     9      2.7
+   I 7 =  16     7      2.3
+   I 8 =  22    10      2.2
+   I 9 =  19     9      2.1
+   I10 =   9     5      1.8
+
+Breadth is faster than Best.
+ Depth = 75 || Best = 36 || Breath = 35
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  35     2     17.5
+   I 2 =  84     9      9.3
+   I 3 =  93    10      9.3
+   I 4 =  51     6      8.5
+   I 5 =  39     5      7.8
+   I 6 =  46     6      7.7
+   I 7 =  54     9      6.0
+   I 8 =  35     9      3.9
+   I 9 =  19     5      3.8
+   I10 =  10     4      2.5
+
+Breadth is faster than Best.
+ Depth = 83 || Best = 37 || Breath = 35
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  97     4     24.2
+   I 2 =  71     6     11.8
+   I 3 =  48     6      8.0
+   I 4 =  62     9      6.9
+   I 5 =  61    10      6.1
+   I 6 =   6     1      6.0
+   I 7 =  53     9      5.9
+   I 8 =  58    10      5.8
+   I 9 =  35    10      3.5
+   I10 =  30    10      3.0
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  99     5     19.8
+   I 2 =  81     7     11.6
+   I 3 =  72    10      7.2
+   I 4 =  24     4      6.0
+   I 5 =   5     1      5.0
+   I 6 =  33     7      4.7
+   I 7 =  47    10      4.7
+   I 8 =  23     6      3.8
+   I 9 =  26    10      2.6
+   I10 =   7     5      1.4
+
+Breadth is faster than Best.
+ Depth = 185 || Best = 92 || Breath = 91
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  79     6     13.2
+   I 2 =  92     8     11.5
+   I 3 =  95    10      9.5
+   I 4 =  93    10      9.3
+   I 5 =  92    10      9.2
+   I 6 =  88    10      8.8
+   I 7 =  54     7      7.7
+   I 8 =  53     7      7.6
+   I 9 =   9     3      3.0
+   I10 =  11     4      2.8
+
+Breadth is faster than Best.
+ Depth = 147 || Best = 61 || Breath = 53
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  32     2     16.0
+   I 2 =  49     5      9.8
+   I 3 =  92    10      9.2
+   I 4 =  91    10      9.1
+   I 5 =  90    10      9.0
+   I 6 =  85    10      8.5
+   I 7 =  46     6      7.7
+   I 8 =  43    10      4.3
+   I 9 =  31     8      3.9
+   I10 =   9     5      1.8
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 18 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  86     6     14.3
+   I 2 =  84     7     12.0
+   I 3 =  67     9      7.4
+   I 4 =  29     5      5.8
+   I 5 =  31     7      4.4
+   I 6 =  35     8      4.4
+   I 7 =  42    10      4.2
+   I 8 =  40    10      4.0
+   I 9 =  25     7      3.6
+   I10 =   3     1      3.0
+
+Breadth is faster than Best.
+ Depth = 59 || Best = 28 || Breath = 25
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  51     2     25.5
+   I 2 =  100    10     10.0
+   I 3 =  94    10      9.4
+   I 4 =  86    10      8.6
+   I 5 =  82    10      8.2
+   I 6 =  70    10      7.0
+   I 7 =   7     1      7.0
+   I 8 =  24    10      2.4
+   I 9 =  10     6      1.7
+   I10 =  14     9      1.6
+
+Breadth is faster than Best.
+ Depth = 49 || Best = 25 || Breath = 24
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  64     3     21.3
+   I 2 =  99    10      9.9
+   I 3 =  93    10      9.3
+   I 4 =  92    10      9.2
+   I 5 =  53     9      5.9
+   I 6 =  53    10      5.3
+   I 7 =  24     5      4.8
+   I 8 =  17     5      3.4
+   I 9 =  11     4      2.8
+   I10 =  11     9      1.2
+
+Breadth is faster than Best.
+ Depth = 211 || Best = 109 || Breath = 108
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  14     1     14.0
+   I 2 =  80     7     11.4
+   I 3 =  68     6     11.3
+   I 4 =  92     9     10.2
+   I 5 =  91     9     10.1
+   I 6 =  87     9      9.7
+   I 7 =  72     9      8.0
+   I 8 =  30     6      5.0
+   I 9 =  44     9      4.9
+   I10 =  48    10      4.8
+
+Breadth is faster than Best.
+ Depth = 67 || Best = 23 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  63     5     12.6
+   I 2 =  95    10      9.5
+   I 3 =  88    10      8.8
+   I 4 =  81    10      8.1
+   I 5 =  69    10      6.9
+   I 6 =  36     6      6.0
+   I 7 =  31     6      5.2
+   I 8 =  30     7      4.3
+   I 9 =  28     9      3.1
+   I10 =  19    10      1.9
+
+Breadth is faster than Best.
+ Depth = 93 || Best = 40 || Breath = 38
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  51     2     25.5
+   I 2 =  77     7     11.0
+   I 3 =  69     7      9.9
+   I 4 =  77     8      9.6
+   I 5 =  62     8      7.8
+   I 6 =  64    10      6.4
+   I 7 =  48     8      6.0
+   I 8 =  53     9      5.9
+   I 9 =  24    10      2.4
+   I10 =  13    10      1.3
+
+Breadth is faster than Best.
+ Depth = 55 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  82     7     11.7
+   I 2 =  97    10      9.7
+   I 3 =  96    10      9.6
+   I 4 =  89    10      8.9
+   I 5 =  37     5      7.4
+   I 6 =  29     5      5.8
+   I 7 =  31     9      3.4
+   I 8 =  31     9      3.4
+   I 9 =  26     8      3.2
+   I10 =  10     4      2.5
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  92     2     46.0
+   I 2 =  71    10      7.1
+   I 3 =  13     2      6.5
+   I 4 =  46    10      4.6
+   I 5 =  36     8      4.5
+   I 6 =  39     9      4.3
+   I 7 =  30     7      4.3
+   I 8 =  33     8      4.1
+   I 9 =  14     9      1.6
+   I10 =   9     7      1.3
+
+Breadth is faster than Best.
+ Depth = 129 || Best = 57 || Breath = 55
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  83     3     27.7
+   I 2 =  60     3     20.0
+   I 3 =  81     8     10.1
+   I 4 =  94    10      9.4
+   I 5 =  80     9      8.9
+   I 6 =  79     9      8.8
+   I 7 =  62     8      7.8
+   I 8 =  76    10      7.6
+   I 9 =  63    10      6.3
+   I10 =  10     7      1.4
+
+Breadth is faster than Best.
+ Depth = 113 || Best = 62 || Breath = 60
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  95     3     31.7
+   I 2 =  43     2     21.5
+   I 3 =  84     8     10.5
+   I 4 =  91    10      9.1
+   I 5 =  71     8      8.9
+   I 6 =  86    10      8.6
+   I 7 =  83    10      8.3
+   I 8 =  78    10      7.8
+   I 9 =  28     9      3.1
+   I10 =  13     7      1.9
+
+Breadth is faster than Best.
+ Depth = 125 || Best = 50 || Breath = 49
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  35     3     11.7
+   I 2 =  54     7      7.7
+   I 3 =  47     7      6.7
+   I 4 =  49     8      6.1
+   I 5 =  42     8      5.2
+   I 6 =  34     7      4.9
+   I 7 =  48    10      4.8
+   I 8 =  34     9      3.8
+   I 9 =  29     8      3.6
+   I10 =  16     6      2.7
+
+Breadth is faster than Best.
+ Depth = 95 || Best = 44 || Breath = 43
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  70     7     10.0
+   I 2 =  84     9      9.3
+   I 3 =  18     2      9.0
+   I 4 =  87    10      8.7
+   I 5 =  72     9      8.0
+   I 6 =  79    10      7.9
+   I 7 =  56     8      7.0
+   I 8 =  38     6      6.3
+   I 9 =  31     6      5.2
+   I10 =  12     8      1.5
+
+Breadth is faster than Best.
+ Depth = 47 || Best = 21 || Breath = 20
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  97     4     24.2
+   I 2 =  87    10      8.7
+   I 3 =  23     5      4.6
+   I 4 =  30     7      4.3
+   I 5 =  31     8      3.9
+   I 6 =  28    10      2.8
+   I 7 =  25     9      2.8
+   I 8 =  20    10      2.0
+   I 9 =  16    10      1.6
+   I10 =   9     6      1.5
+
+Breadth is faster than Best.
+ Depth = 73 || Best = 42 || Breath = 39
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  84     6     14.0
+   I 2 =  95     8     11.9
+   I 3 =  92     8     11.5
+   I 4 =  97     9     10.8
+   I 5 =  37     9      4.1
+   I 6 =   4     1      4.0
+   I 7 =  39    10      3.9
+   I 8 =  26     8      3.2
+   I 9 =  20     7      2.9
+   I10 =  16     9      1.8
+
+Breadth is faster than Best.
+ Depth = 67 || Best = 30 || Breath = 28
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  99     7     14.1
+   I 2 =  100    10     10.0
+   I 3 =  71     8      8.9
+   I 4 =  46     6      7.7
+   I 5 =  66     9      7.3
+   I 6 =  61     9      6.8
+   I 7 =  58     9      6.4
+   I 8 =  62    10      6.2
+   I 9 =  30     9      3.3
+   I10 =  14     8      1.8
+
+Breadth is faster than Best.
+ Depth = 63 || Best = 25 || Breath = 23
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  60     4     15.0
+   I 2 =  93    10      9.3
+   I 3 =  83    10      8.3
+   I 4 =  76    10      7.6
+   I 5 =  51     8      6.4
+   I 6 =  45     9      5.0
+   I 7 =  41     9      4.6
+   I 8 =  36     8      4.5
+   I 9 =  28     7      4.0
+   I10 =  17    10      1.7
+
+Breadth is faster than Best.
+ Depth = 101 || Best = 41 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  85    10      8.5
+   I 2 =  70     9      7.8
+   I 3 =  53     7      7.6
+   I 4 =  43     6      7.2
+   I 5 =  56     8      7.0
+   I 6 =  53     8      6.6
+   I 7 =  45     8      5.6
+   I 8 =  34    10      3.4
+   I 9 =  23     9      2.6
+   I10 =  14    10      1.4
+
+Breadth is faster than Best.
+ Depth = 29 || Best = 15 || Breath = 14
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  73     3     24.3
+   I 2 =  98     5     19.6
+   I 3 =  90    10      9.0
+   I 4 =  33     7      4.7
+   I 5 =  36     9      4.0
+   I 6 =   9     3      3.0
+   I 7 =  17     7      2.4
+   I 8 =  13     6      2.2
+   I 9 =  14    10      1.4
+   I10 =   9     7      1.3
+
+Breadth is faster than Best.
+ Depth = 157 || Best = 77 || Breath = 68
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  66     1     66.0
+   I 2 =  97     7     13.9
+   I 3 =  88     7     12.6
+   I 4 =  84     7     12.0
+   I 5 =  90     9     10.0
+   I 6 =  87     9      9.7
+   I 7 =  92    10      9.2
+   I 8 =  44     9      4.9
+   I 9 =  41     9      4.6
+   I10 =  15     8      1.9
+
+Breadth is faster than Best.
+ Depth = 97 || Best = 48 || Breath = 43
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  23     1     23.0
+   I 2 =  80    10      8.0
+   I 3 =  80    10      8.0
+   I 4 =  75    10      7.5
+   I 5 =  29     4      7.2
+   I 6 =  43     6      7.2
+   I 7 =  41     7      5.9
+   I 8 =  45     8      5.6
+   I 9 =  37     9      4.1
+   I10 =   9     5      1.8
+
+Breadth is faster than Best.
+ Depth = 41 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  100     3     33.3
+   I 2 =  74     4     18.5
+   I 3 =  88     7     12.6
+   I 4 =   9     2      4.5
+   I 5 =  28     8      3.5
+   I 6 =   3     1      3.0
+   I 7 =  19     8      2.4
+   I 8 =  18    10      1.8
+   I 9 =  16     9      1.8
+   I10 =  11     9      1.2
+
+Breadth is faster than Best.
+ Depth = 107 || Best = 41 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  78     8      9.8
+   I 2 =  67     7      9.6
+   I 3 =  63     7      9.0
+   I 4 =  81    10      8.1
+   I 5 =  76    10      7.6
+   I 6 =  51     9      5.7
+   I 7 =  11     6      1.8
+   I 8 =  10     6      1.7
+   I 9 =   4     3      1.3
+   I10 =  11     9      1.2
+
+Breadth is faster than Best.
+ Depth = 73 || Best = 21 || Breath = 20
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  58     4     14.5
+   I 2 =  98    10      9.8
+   I 3 =  97    10      9.7
+   I 4 =  89    10      8.9
+   I 5 =  84    10      8.4
+   I 6 =  32     7      4.6
+   I 7 =  28     8      3.5
+   I 8 =  33    10      3.3
+   I 9 =  12     8      1.5
+   I10 =   9     8      1.1
+
+Breadth is faster than Best.
+ Depth = 57 || Best = 29 || Breath = 25
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  52     4     13.0
+   I 2 =  80     7     11.4
+   I 3 =  85     8     10.6
+   I 4 =  86     9      9.6
+   I 5 =  86     9      9.6
+   I 6 =  42     8      5.2
+   I 7 =  15     3      5.0
+   I 8 =   3     1      3.0
+   I 9 =  12     4      3.0
+   I10 =  29    10      2.9
+
+Breadth is faster than Best.
+ Depth = 105 || Best = 45 || Breath = 42
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  75     6     12.5
+   I 2 =  98    10      9.8
+   I 3 =  88     9      9.8
+   I 4 =  84     9      9.3
+   I 5 =  70     8      8.8
+   I 6 =  68     8      8.5
+   I 7 =  34     9      3.8
+   I 8 =  25    10      2.5
+   I 9 =  15     6      2.5
+   I10 =  12    10      1.2
+
+Breadth is faster than Best.
+ Depth = 97 || Best = 35 || Breath = 34
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  64     3     21.3
+   I 2 =  69     6     11.5
+   I 3 =  92     9     10.2
+   I 4 =  91     9     10.1
+   I 5 =  90     9     10.0
+   I 6 =  89     9      9.9
+   I 7 =  47     5      9.4
+   I 8 =  39     6      6.5
+   I 9 =  56     9      6.2
+   I10 =  30     7      4.3
+
+Breadth is faster than Best.
+ Depth = 93 || Best = 48 || Breath = 47
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  15     1     15.0
+   I 2 =  91     8     11.4
+   I 3 =  90     8     11.2
+   I 4 =  98     9     10.9
+   I 5 =  94     9     10.4
+   I 6 =  73     9      8.1
+   I 7 =  26     5      5.2
+   I 8 =  31     8      3.9
+   I 9 =  21     6      3.5
+   I10 =  24    10      2.4
+
+Breadth is faster than Best.
+ Depth = 47 || Best = 26 || Breath = 25
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  49     4     12.2
+   I 2 =  97    10      9.7
+   I 3 =  85    10      8.5
+   I 4 =  73     9      8.1
+   I 5 =  64     8      8.0
+   I 6 =  40     9      4.4
+   I 7 =  26     9      2.9
+   I 8 =  17     6      2.8
+   I 9 =  22     8      2.8
+   I10 =   6     4      1.5
+
+Breadth is faster than Best.
+ Depth = 31 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  92     8     11.5
+   I 2 =  92    10      9.2
+   I 3 =  29     5      5.8
+   I 4 =  52    10      5.2
+   I 5 =  46     9      5.1
+   I 6 =  28     6      4.7
+   I 7 =  17     7      2.4
+   I 8 =  11     7      1.6
+   I 9 =   7     6      1.2
+   I10 =   8     7      1.1
+
+Breadth is faster than Best.
+ Depth = 53 || Best = 24 || Breath = 23
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  65     5     13.0
+   I 2 =  88    10      8.8
+   I 3 =  68     8      8.5
+   I 4 =  67     8      8.4
+   I 5 =  52    10      5.2
+   I 6 =  40     9      4.4
+   I 7 =  25     8      3.1
+   I 8 =  15     6      2.5
+   I 9 =   6     3      2.0
+   I10 =  12     8      1.5
+
+Breadth is faster than Best.
+ Depth = 55 || Best = 20 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  62     4     15.5
+   I 2 =  89    10      8.9
+   I 3 =  88    10      8.8
+   I 4 =  81    10      8.1
+   I 5 =  40     7      5.7
+   I 6 =   9     2      4.5
+   I 7 =  28     8      3.5
+   I 8 =  15     8      1.9
+   I 9 =  15    10      1.5
+   I10 =  10     7      1.4
+
+Breadth is faster than Best.
+ Depth = 81 || Best = 25 || Breath = 24
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  72     7     10.3
+   I 2 =  97    10      9.7
+   I 3 =  94    10      9.4
+   I 4 =  93    10      9.3
+   I 5 =  59     7      8.4
+   I 6 =  60     8      7.5
+   I 7 =  59     8      7.4
+   I 8 =  20     7      2.9
+   I 9 =  17     7      2.4
+   I10 =  22    10      2.2
+
+Breadth is faster than Best.
+ Depth = 93 || Best = 43 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  85     4     21.2
+   I 2 =  97     7     13.9
+   I 3 =  95     7     13.6
+   I 4 =  94     7     13.4
+   I 5 =  64     6     10.7
+   I 6 =  95     9     10.6
+   I 7 =  51     7      7.3
+   I 8 =  40     7      5.7
+   I 9 =  14     7      2.0
+   I10 =  11     9      1.2
+
+Breadth is faster than Best.
+ Depth = 125 || Best = 50 || Breath = 48
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  56     3     18.7
+   I 2 =  73     6     12.2
+   I 3 =  90     8     11.2
+   I 4 =  73     8      9.1
+   I 5 =  69     8      8.6
+   I 6 =  68     8      8.5
+   I 7 =  69    10      6.9
+   I 8 =  67    10      6.7
+   I 9 =  30     8      3.8
+   I10 =   9     6      1.5
+
+Breadth is faster than Best.
+ Depth = 69 || Best = 40 || Breath = 36
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  99     6     16.5
+   I 2 =  89     9      9.9
+   I 3 =  62     8      7.8
+   I 4 =  60     8      7.5
+   I 5 =  49     8      6.1
+   I 6 =   6     1      6.0
+   I 7 =  60    10      6.0
+   I 8 =  36     9      4.0
+   I 9 =  33    10      3.3
+   I10 =  18     7      2.6
+
+Breadth is faster than Best.
+ Depth = 129 || Best = 69 || Breath = 67
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  16     1     16.0
+   I 2 =  60     4     15.0
+   I 3 =  85    10      8.5
+   I 4 =  85    10      8.5
+   I 5 =  71     9      7.9
+   I 6 =  71    10      7.1
+   I 7 =   7     1      7.0
+   I 8 =  49     9      5.4
+   I 9 =  53    10      5.3
+   I10 =  31     8      3.9
+
+Breadth is faster than Best.
+ Depth = 27 || Best = 16 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  99     3     33.0
+   I 2 =  91     4     22.8
+   I 3 =  90     9     10.0
+   I 4 =  19     4      4.8
+   I 5 =  32     7      4.6
+   I 6 =  43    10      4.3
+   I 7 =  21     5      4.2
+   I 8 =  21     6      3.5
+   I 9 =   6     4      1.5
+   I10 =   9     6      1.5
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 25 || Breath = 24
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  81     7     11.6
+   I 2 =  97    10      9.7
+   I 3 =  90    10      9.0
+   I 4 =  84    10      8.4
+   I 5 =  66    10      6.6
+   I 6 =  36     6      6.0
+   I 7 =  26     5      5.2
+   I 8 =  19     5      3.8
+   I 9 =  30     8      3.8
+   I10 =  14     5      2.8
+
+Breadth is faster than Best.
+ Depth = 37 || Best = 21 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  23     1     23.0
+   I 2 =  95     5     19.0
+   I 3 =  73     7     10.4
+   I 4 =  83     9      9.2
+   I 5 =  41     9      4.6
+   I 6 =   4     1      4.0
+   I 7 =  32     9      3.6
+   I 8 =   6     3      2.0
+   I 9 =   6     3      2.0
+   I10 =  10     5      2.0
+
+Breadth is faster than Best.
+ Depth = 129 || Best = 56 || Breath = 55
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  40     2     20.0
+   I 2 =  14     1     14.0
+   I 3 =  96    10      9.6
+   I 4 =  95    10      9.5
+   I 5 =  89    10      8.9
+   I 6 =  87    10      8.7
+   I 7 =  69    10      6.9
+   I 8 =  25     5      5.0
+   I 9 =  38     9      4.2
+   I10 =  31     9      3.4
+
+Breadth is faster than Best.
+ Depth = 73 || Best = 41 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  85     7     12.1
+   I 2 =  83    10      8.3
+   I 3 =  83    10      8.3
+   I 4 =  80    10      8.0
+   I 5 =  48     6      8.0
+   I 6 =  80    10      8.0
+   I 7 =  46     7      6.6
+   I 8 =  25     6      4.2
+   I 9 =  25     7      3.6
+   I10 =  18     8      2.2
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 25 || Breath = 24
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  91     8     11.4
+   I 2 =  99     9     11.0
+   I 3 =  80     8     10.0
+   I 4 =  45     6      7.5
+   I 5 =  57     8      7.1
+   I 6 =  45     8      5.6
+   I 7 =  43     8      5.4
+   I 8 =  30     6      5.0
+   I 9 =  32     7      4.6
+   I10 =  29     7      4.1
+
+Breadth is faster than Best.
+ Depth = 127 || Best = 64 || Breath = 61
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  29     1     29.0
+   I 2 =  46     5      9.2
+   I 3 =  86    10      8.6
+   I 4 =  84    10      8.4
+   I 5 =  81    10      8.1
+   I 6 =  35     5      7.0
+   I 7 =  67    10      6.7
+   I 8 =  55    10      5.5
+   I 9 =  30     8      3.8
+   I10 =  26     9      2.9
+
+Breadth is faster than Best.
+ Depth = 61 || Best = 30 || Breath = 29
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  54     4     13.5
+   I 2 =  86    10      8.6
+   I 3 =  74     9      8.2
+   I 4 =  69    10      6.9
+   I 5 =  53     9      5.9
+   I 6 =  14     4      3.5
+   I 7 =  23     9      2.6
+   I 8 =  10     4      2.5
+   I 9 =  17    10      1.7
+   I10 =  12     8      1.5
+
+Breadth is faster than Best.
+ Depth = 63 || Best = 22 || Breath = 20
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  61     5     12.2
+   I 2 =  92    10      9.2
+   I 3 =  91    10      9.1
+   I 4 =  68     9      7.6
+   I 5 =  75    10      7.5
+   I 6 =  41    10      4.1
+   I 7 =  26    10      2.6
+   I 8 =  17     9      1.9
+   I 9 =  13     8      1.6
+   I10 =  15    10      1.5
+
+Breadth is faster than Best.
+ Depth = 55 || Best = 17 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  63     5     12.6
+   I 2 =  92    10      9.2
+   I 3 =  89    10      8.9
+   I 4 =  82    10      8.2
+   I 5 =  62    10      6.2
+   I 6 =  27     7      3.9
+   I 7 =  34     9      3.8
+   I 8 =  34    10      3.4
+   I 9 =  22     8      2.8
+   I10 =   9     6      1.5
+
+Breadth is faster than Best.
+ Depth = 57 || Best = 25 || Breath = 24
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  56     4     14.0
+   I 2 =  98     9     10.9
+   I 3 =  99    10      9.9
+   I 4 =  70     8      8.8
+   I 5 =  49     8      6.1
+   I 6 =  26     8      3.2
+   I 7 =  18     6      3.0
+   I 8 =  27    10      2.7
+   I 9 =  16     7      2.3
+   I10 =  21    10      2.1
+
+Breadth is faster than Best.
+ Depth = 75 || Best = 35 || Breath = 32
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  66     5     13.2
+   I 2 =  93    10      9.3
+   I 3 =  57     8      7.1
+   I 4 =  57     9      6.3
+   I 5 =  42     8      5.2
+   I 6 =  44    10      4.4
+   I 7 =  41    10      4.1
+   I 8 =  30     8      3.8
+   I 9 =  37    10      3.7
+   I10 =  23    10      2.3
+
+Breadth is faster than Best.
+ Depth = 53 || Best = 29 || Breath = 27
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  82     7     11.7
+   I 2 =  86     8     10.8
+   I 3 =  83     8     10.4
+   I 4 =  96    10      9.6
+   I 5 =  53    10      5.3
+   I 6 =  41     8      5.1
+   I 7 =  45     9      5.0
+   I 8 =  25     7      3.6
+   I 9 =  17     9      1.9
+   I10 =   4     3      1.3
+
+Breadth is faster than Best.
+ Depth = 173 || Best = 73 || Breath = 66
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  58     3     19.3
+   I 2 =  84     7     12.0
+   I 3 =  89     8     11.1
+   I 4 =  70     7     10.0
+   I 5 =  76     8      9.5
+   I 6 =  75     8      9.4
+   I 7 =  80     9      8.9
+   I 8 =  71    10      7.1
+   I 9 =  50     9      5.6
+   I10 =  16     6      2.7
+
+Breadth is faster than Best.
+ Depth = 167 || Best = 83 || Breath = 74
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  72     4     18.0
+   I 2 =  10     1     10.0
+   I 3 =  91    10      9.1
+   I 4 =  84    10      8.4
+   I 5 =  84    10      8.4
+   I 6 =  78    10      7.8
+   I 7 =  68    10      6.8
+   I 8 =  50    10      5.0
+   I 9 =  20     7      2.9
+   I10 =  18    10      1.8
+
+Breadth is faster than Best.
+ Depth = 37 || Best = 16 || Breath = 14
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  57     5     11.4
+   I 2 =  79    10      7.9
+   I 3 =  76    10      7.6
+   I 4 =  74    10      7.4
+   I 5 =  38     7      5.4
+   I 6 =  19     6      3.2
+   I 7 =  22     8      2.8
+   I 8 =  11     5      2.2
+   I 9 =  20    10      2.0
+   I10 =  12    10      1.2
+
+Breadth is faster than Best.
+ Depth = 143 || Best = 70 || Breath = 68
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  56     6      9.3
+   I 2 =  76    10      7.6
+   I 3 =  65     9      7.2
+   I 4 =  64     9      7.1
+   I 5 =  70    10      7.0
+   I 6 =  56     9      6.2
+   I 7 =  53     9      5.9
+   I 8 =  33     7      4.7
+   I 9 =   8     4      2.0
+   I10 =  14     9      1.6
+
+Breadth is faster than Best.
+ Depth = 197 || Best = 105 || Breath = 100
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  82     7     11.7
+   I 2 =  43     4     10.8
+   I 3 =  47     5      9.4
+   I 4 =  93    10      9.3
+   I 5 =  92    10      9.2
+   I 6 =  43     5      8.6
+   I 7 =  84    10      8.4
+   I 8 =  66    10      6.6
+   I 9 =  57     9      6.3
+   I10 =  20     8      2.5
+
+Breadth is faster than Best.
+ Depth = 115 || Best = 56 || Breath = 55
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  69     2     34.5
+   I 2 =  89     6     14.8
+   I 3 =  78     6     13.0
+   I 4 =  93     9     10.3
+   I 5 =  89     9      9.9
+   I 6 =  91    10      9.1
+   I 7 =  75    10      7.5
+   I 8 =  71    10      7.1
+   I 9 =  22     9      2.4
+   I10 =   2     1      2.0
+
+Breadth is faster than Best.
+ Depth = 89 || Best = 41 || Breath = 39
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  57     3     19.0
+   I 2 =  88     7     12.6
+   I 3 =  98     8     12.2
+   I 4 =  81     7     11.6
+   I 5 =  73     8      9.1
+   I 6 =  79     9      8.8
+   I 7 =  69     8      8.6
+   I 8 =  54     8      6.8
+   I 9 =  23     6      3.8
+   I10 =   6     4      1.5
+
+Breadth is faster than Best.
+ Depth = 125 || Best = 56 || Breath = 52
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  87     5     17.4
+   I 2 =  97     7     13.9
+   I 3 =  95     7     13.6
+   I 4 =  98     8     12.2
+   I 5 =  97     8     12.1
+   I 6 =  82     7     11.7
+   I 7 =  98    10      9.8
+   I 8 =  56     7      8.0
+   I 9 =  43     9      4.8
+   I10 =   7     4      1.8
+
+Breadth is faster than Best.
+ Depth = 37 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  96     2     48.0
+   I 2 =  41     4     10.2
+   I 3 =  100    10     10.0
+   I 4 =  49     8      6.1
+   I 5 =  51    10      5.1
+   I 6 =  27     8      3.4
+   I 7 =  33    10      3.3
+   I 8 =  20    10      2.0
+   I 9 =  14     9      1.6
+   I10 =   8     6      1.3
+
+Breadth is faster than Best.
+ Depth = 189 || Best = 81 || Breath = 77
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  78     7     11.1
+   I 2 =  63     6     10.5
+   I 3 =  83     9      9.2
+   I 4 =  92    10      9.2
+   I 5 =   9     1      9.0
+   I 6 =  83    10      8.3
+   I 7 =  76    10      7.6
+   I 8 =  54    10      5.4
+   I 9 =  16    10      1.6
+   I10 =   9     6      1.5
+
+Breadth is faster than Best.
+ Depth = 55 || Best = 25 || Breath = 24
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  85     8     10.6
+   I 2 =  88     9      9.8
+   I 3 =  96    10      9.6
+   I 4 =  36     4      9.0
+   I 5 =  54     7      7.7
+   I 6 =  54     9      6.0
+   I 7 =  26     6      4.3
+   I 8 =  28     7      4.0
+   I 9 =  22    10      2.2
+   I10 =  13     7      1.9
+
+Breadth is faster than Best.
+ Depth = 81 || Best = 36 || Breath = 32
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  95     6     15.8
+   I 2 =  90     8     11.2
+   I 3 =  30     5      6.0
+   I 4 =  40     7      5.7
+   I 5 =  43     8      5.4
+   I 6 =  42     8      5.2
+   I 7 =  52    10      5.2
+   I 8 =  22     6      3.7
+   I 9 =  27     9      3.0
+   I10 =  11    10      1.1
+
+Breadth is faster than Best.
+ Depth = 207 || Best = 58 || Breath = 55
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  58     3     19.3
+   I 2 =  84     7     12.0
+   I 3 =  82     7     11.7
+   I 4 =  89     8     11.1
+   I 5 =  84     8     10.5
+   I 6 =  81     8     10.1
+   I 7 =  82    10      8.2
+   I 8 =  44     6      7.3
+   I 9 =  50     9      5.6
+   I10 =  39    10      3.9
+
+Breadth is faster than Best.
+ Depth = 37 || Best = 18 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  66     1     66.0
+   I 2 =  96     4     24.0
+   I 3 =  76     9      8.4
+   I 4 =  17     4      4.2
+   I 5 =  26     7      3.7
+   I 6 =  33     9      3.7
+   I 7 =  26     8      3.2
+   I 8 =  26     9      2.9
+   I 9 =   9     5      1.8
+   I10 =  10     6      1.7
+
+Breadth is faster than Best.
+ Depth = 95 || Best = 57 || Breath = 55
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  77     7     11.0
+   I 2 =  81     8     10.1
+   I 3 =  98    10      9.8
+   I 4 =  87     9      9.7
+   I 5 =  90    10      9.0
+   I 6 =  61     8      7.6
+   I 7 =  55     8      6.9
+   I 8 =  23     5      4.6
+   I 9 =  18     5      3.6
+   I10 =   6     3      2.0
+
+Breadth is faster than Best.
+ Depth = 23 || Best = 12 || Breath = 11
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  83     6     13.8
+   I 2 =  81     9      9.0
+   I 3 =  42     6      7.0
+   I 4 =  22     8      2.8
+   I 5 =  24     9      2.7
+   I 6 =  15     6      2.5
+   I 7 =  19     8      2.4
+   I 8 =  18     8      2.2
+   I 9 =  15     8      1.9
+   I10 =  13     7      1.9
+
+Breadth is faster than Best.
+ Depth = 149 || Best = 51 || Breath = 47
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  77     3     25.7
+   I 2 =  58     5     11.6
+   I 3 =  71     8      8.9
+   I 4 =  77     9      8.6
+   I 5 =  77     9      8.6
+   I 6 =  75     9      8.3
+   I 7 =  80    10      8.0
+   I 8 =  24     9      2.7
+   I 9 =  10     6      1.7
+   I10 =  12     9      1.3
+
+Breadth is faster than Best.
+ Depth = 61 || Best = 34 || Breath = 33
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  84     6     14.0
+   I 2 =  75     6     12.5
+   I 3 =  95    10      9.5
+   I 4 =  84     9      9.3
+   I 5 =  63    10      6.3
+   I 6 =   4     1      4.0
+   I 7 =  32     9      3.6
+   I 8 =  24     9      2.7
+   I 9 =  14     6      2.3
+   I10 =  16     9      1.8
+
+Breadth is faster than Best.
+ Depth = 175 || Best = 93 || Breath = 87
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  96    10      9.6
+   I 2 =  75     8      9.4
+   I 3 =  78     9      8.7
+   I 4 =  76     9      8.4
+   I 5 =  76     9      8.4
+   I 6 =  56     7      8.0
+   I 7 =  55     7      7.9
+   I 8 =  23     4      5.8
+   I 9 =  57    10      5.7
+   I10 =   6     4      1.5
+
+Breadth is faster than Best.
+ Depth = 47 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  65     7      9.3
+   I 2 =  78    10      7.8
+   I 3 =  76    10      7.6
+   I 4 =  68    10      6.8
+   I 5 =  52     9      5.8
+   I 6 =  28     6      4.7
+   I 7 =  34    10      3.4
+   I 8 =  20     6      3.3
+   I 9 =  19     8      2.4
+   I10 =   9     7      1.3
+
+Breadth is faster than Best.
+ Depth = 43 || Best = 27 || Breath = 26
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  93     9     10.3
+   I 2 =  83     9      9.2
+   I 3 =  74     9      8.2
+   I 4 =  71     9      7.9
+   I 5 =  34     5      6.8
+   I 6 =  47     7      6.7
+   I 7 =  59     9      6.6
+   I 8 =  42     7      6.0
+   I 9 =  35     9      3.9
+   I10 =   7     3      2.3
+
+Breadth is faster than Best.
+ Depth = 103 || Best = 47 || Breath = 46
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  53     1     53.0
+   I 2 =  78     7     11.1
+   I 3 =  76     7     10.9
+   I 4 =  84     8     10.5
+   I 5 =  73     8      9.1
+   I 6 =  83    10      8.3
+   I 7 =  67    10      6.7
+   I 8 =  14     8      1.8
+   I 9 =  13    10      1.3
+   I10 =   7     6      1.2
+
+Breadth is faster than Best.
+ Depth = 55 || Best = 26 || Breath = 25
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  78     7     11.1
+   I 2 =  94    10      9.4
+   I 3 =  83    10      8.3
+   I 4 =  81    10      8.1
+   I 5 =  51     7      7.3
+   I 6 =  56    10      5.6
+   I 7 =  50    10      5.0
+   I 8 =  15     4      3.8
+   I 9 =  22     7      3.1
+   I10 =   9     8      1.1
+
+Breadth is faster than Best.
+ Depth = 99 || Best = 40 || Breath = 39
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  41     2     20.5
+   I 2 =  72     4     18.0
+   I 3 =  100     8     12.5
+   I 4 =  99    10      9.9
+   I 5 =  98    10      9.8
+   I 6 =  94    10      9.4
+   I 7 =  61     9      6.8
+   I 8 =  39     8      4.9
+   I 9 =  27     7      3.9
+   I10 =  25     9      2.8
+
+Breadth is faster than Best.
+ Depth = 53 || Best = 26 || Breath = 25
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  98     2     49.0
+   I 2 =  40     2     20.0
+   I 3 =  84    10      8.4
+   I 4 =  62     8      7.8
+   I 5 =  57    10      5.7
+   I 6 =  50     9      5.6
+   I 7 =  47     9      5.2
+   I 8 =  30     9      3.3
+   I 9 =  10     6      1.7
+   I10 =   5     4      1.2
+
+Breadth is faster than Best.
+ Depth = 143 || Best = 55 || Breath = 49
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  49     2     24.5
+   I 2 =  63     5     12.6
+   I 3 =  76     9      8.4
+   I 4 =  67     8      8.4
+   I 5 =  67     8      8.4
+   I 6 =  62     8      7.8
+   I 7 =  57     9      6.3
+   I 8 =  46    10      4.6
+   I 9 =  17     8      2.1
+   I10 =  11     7      1.6
+
+Breadth is faster than Best.
+ Depth = 49 || Best = 23 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  82     7     11.7
+   I 2 =  100    10     10.0
+   I 3 =  83     9      9.2
+   I 4 =  81     9      9.0
+   I 5 =  29     5      5.8
+   I 6 =  33     6      5.5
+   I 7 =  26     5      5.2
+   I 8 =  20     8      2.5
+   I 9 =  19     9      2.1
+   I10 =  13     9      1.4
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 17 || Breath = 16
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  92     6     15.3
+   I 2 =  96     7     13.7
+   I 3 =  76     8      9.5
+   I 4 =  27     4      6.8
+   I 5 =  39     8      4.9
+   I 6 =  41     9      4.6
+   I 7 =  28     7      4.0
+   I 8 =  22    10      2.2
+   I 9 =  18     9      2.0
+   I10 =  15     8      1.9
+
+Breadth is faster than Best.
+ Depth = 85 || Best = 44 || Breath = 43
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  66     6     11.0
+   I 2 =  83     8     10.4
+   I 3 =  20     2     10.0
+   I 4 =  100    10     10.0
+   I 5 =  71     8      8.9
+   I 6 =  63     8      7.9
+   I 7 =  52     8      6.5
+   I 8 =  53     9      5.9
+   I 9 =  36     9      4.0
+   I10 =  30     8      3.8
+
+Breadth is faster than Best.
+ Depth = 121 || Best = 58 || Breath = 57
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  69     5     13.8
+   I 2 =  88     9      9.8
+   I 3 =  96    10      9.6
+   I 4 =  81     9      9.0
+   I 5 =  88    10      8.8
+   I 6 =  58     8      7.2
+   I 7 =  65    10      6.5
+   I 8 =  51     8      6.4
+   I 9 =  29     7      4.1
+   I10 =  16     8      2.0
+
+Breadth is faster than Best.
+ Depth = 29 || Best = 16 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  93     9     10.3
+   I 2 =  80     9      8.9
+   I 3 =  54     9      6.0
+   I 4 =  46     8      5.8
+   I 5 =  27     7      3.9
+   I 6 =  36    10      3.6
+   I 7 =  14     4      3.5
+   I 8 =  34    10      3.4
+   I 9 =  20    10      2.0
+   I10 =  10     9      1.1
+
+Breadth is faster than Best.
+ Depth = 89 || Best = 47 || Breath = 45
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  62     3     20.7
+   I 2 =  15     1     15.0
+   I 3 =  97    10      9.7
+   I 4 =  94    10      9.4
+   I 5 =  81     9      9.0
+   I 6 =  83    10      8.3
+   I 7 =  52     9      5.8
+   I 8 =  22     8      2.8
+   I 9 =   9     5      1.8
+   I10 =   5     4      1.2
+
+Breadth is faster than Best.
+ Depth = 191 || Best = 95 || Breath = 93
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =   9     1      9.0
+   I 2 =  52     6      8.7
+   I 3 =  49     6      8.2
+   I 4 =  68     9      7.6
+   I 5 =  69    10      6.9
+   I 6 =  68    10      6.8
+   I 7 =  58    10      5.8
+   I 8 =  56    10      5.6
+   I 9 =  13     3      4.3
+   I10 =  36     9      4.0
+
+Breadth is faster than Best.
+ Depth = 41 || Best = 22 || Breath = 20
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  98     6     16.3
+   I 2 =  92     9     10.2
+   I 3 =  78     9      8.7
+   I 4 =   8     1      8.0
+   I 5 =  12     2      6.0
+   I 6 =  30     6      5.0
+   I 7 =  48    10      4.8
+   I 8 =  36     8      4.5
+   I 9 =  26     6      4.3
+   I10 =  16    10      1.6
+
+Breadth is faster than Best.
+ Depth = 107 || Best = 62 || Breath = 57
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  70     2     35.0
+   I 2 =  84     6     14.0
+   I 3 =  90     7     12.9
+   I 4 =  97     8     12.1
+   I 5 =  96     9     10.7
+   I 6 =  94     9     10.4
+   I 7 =  79     9      8.8
+   I 8 =  46     8      5.8
+   I 9 =  23     7      3.3
+   I10 =  17     6      2.8
+
+Breadth is faster than Best.
+ Depth = 451 || Best = 206 || Breath = 184
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  49     2     24.5
+   I 2 =  73     5     14.6
+   I 3 =  89     8     11.1
+   I 4 =  89     8     11.1
+   I 5 =  88     8     11.0
+   I 6 =  88     8     11.0
+   I 7 =  87     8     10.9
+   I 8 =  89     9      9.9
+   I 9 =  74     8      9.2
+   I10 =  26     9      2.9
+
+Breadth is faster than Best.
+ Depth = 83 || Best = 40 || Breath = 39
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  71     7     10.1
+   I 2 =  100    10     10.0
+   I 3 =  59     7      8.4
+   I 4 =  79    10      7.9
+   I 5 =  74    10      7.4
+   I 6 =  49     7      7.0
+   I 7 =  53     8      6.6
+   I 8 =  37     8      4.6
+   I 9 =  31     9      3.4
+   I10 =   9     5      1.8
+
+Breadth is faster than Best.
+ Depth = 95 || Best = 42 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  79     5     15.8
+   I 2 =  58     5     11.6
+   I 3 =  87     9      9.7
+   I 4 =  74     8      9.2
+   I 5 =  73     8      9.1
+   I 6 =  69     8      8.6
+   I 7 =  77     9      8.6
+   I 8 =  55     8      6.9
+   I 9 =  38    10      3.8
+   I10 =  18    10      1.8
+
+Breadth is faster than Best.
+ Depth = 165 || Best = 71 || Breath = 70
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  33     2     16.5
+   I 2 =  99     9     11.0
+   I 3 =  51     5     10.2
+   I 4 =  96    10      9.6
+   I 5 =  94    10      9.4
+   I 6 =  92    10      9.2
+   I 7 =  40     6      6.7
+   I 8 =  39     7      5.6
+   I 9 =  55    10      5.5
+   I10 =  23     9      2.6
+
+Breadth is faster than Best.
+ Depth = 59 || Best = 33 || Breath = 30
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  95     9     10.6
+   I 2 =  48     5      9.6
+   I 3 =  42     8      5.2
+   I 4 =   8     2      4.0
+   I 5 =  10     3      3.3
+   I 6 =  13     4      3.2
+   I 7 =  14     5      2.8
+   I 8 =  22     8      2.8
+   I 9 =  14     7      2.0
+   I10 =  13     7      1.9
+
+Breadth is faster than Best.
+ Depth = 61 || Best = 31 || Breath = 26
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  51     3     17.0
+   I 2 =  89    10      8.9
+   I 3 =  82    10      8.2
+   I 4 =  75    10      7.5
+   I 5 =  73    10      7.3
+   I 6 =  65    10      6.5
+   I 7 =  44    10      4.4
+   I 8 =  17     5      3.4
+   I 9 =  23     9      2.6
+   I10 =  24    10      2.4
+
+Breadth is faster than Best.
+ Depth = 41 || Best = 21 || Breath = 20
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  57     5     11.4
+   I 2 =  96    10      9.6
+   I 3 =  95    10      9.5
+   I 4 =  94    10      9.4
+   I 5 =  64     8      8.0
+   I 6 =  50     7      7.1
+   I 7 =  57     8      7.1
+   I 8 =  29     5      5.8
+   I 9 =  19     7      2.7
+   I10 =   8     4      2.0
+
+Breadth is faster than Best.
+ Depth = 75 || Best = 35 || Breath = 34
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  82     1     82.0
+   I 2 =  78     9      8.7
+   I 3 =  58     7      8.3
+   I 4 =  59     8      7.4
+   I 5 =  65    10      6.5
+   I 6 =  62    10      6.2
+   I 7 =  22     6      3.7
+   I 8 =  16     8      2.0
+   I 9 =  12     8      1.5
+   I10 =  11     8      1.4
+
+Breadth is faster than Best.
+ Depth = 97 || Best = 48 || Breath = 47
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  32     2     16.0
+   I 2 =  30     3     10.0
+   I 3 =  81    10      8.1
+   I 4 =  72     9      8.0
+   I 5 =  79    10      7.9
+   I 6 =  73    10      7.3
+   I 7 =  24    10      2.4
+   I 8 =  20     9      2.2
+   I 9 =  21    10      2.1
+   I10 =   6     3      2.0
+
+Breadth is faster than Best.
+ Depth = 41 || Best = 17 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  61     7      8.7
+   I 2 =  80    10      8.0
+   I 3 =  76    10      7.6
+   I 4 =  69    10      6.9
+   I 5 =  58     9      6.4
+   I 6 =  23     6      3.8
+   I 7 =  21     8      2.6
+   I 8 =   4     2      2.0
+   I 9 =  14     9      1.6
+   I10 =  10     9      1.1
+
+Breadth is faster than Best.
+ Depth = 49 || Best = 23 || Breath = 22
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  100    10     10.0
+   I 2 =  100    10     10.0
+   I 3 =  59     7      8.4
+   I 4 =  66     9      7.3
+   I 5 =  66     9      7.3
+   I 6 =  71    10      7.1
+   I 7 =  71    10      7.1
+   I 8 =  62    10      6.2
+   I 9 =  22     8      2.8
+   I10 =  13     6      2.2
+
+Breadth is faster than Best.
+ Depth = 113 || Best = 42 || Breath = 41
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  92     2     46.0
+   I 2 =  63     4     15.8
+   I 3 =  93     8     11.6
+   I 4 =  100    10     10.0
+   I 5 =  99    10      9.9
+   I 6 =  88     9      9.8
+   I 7 =  89    10      8.9
+   I 8 =  65     9      7.2
+   I 9 =  65    10      6.5
+   I10 =  15     8      1.9
+
+Breadth is faster than Best.
+ Depth = 79 || Best = 33 || Breath = 32
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  74     8      9.2
+   I 2 =  89    10      8.9
+   I 3 =  84    10      8.4
+   I 4 =  49     6      8.2
+   I 5 =  79    10      7.9
+   I 6 =  28     4      7.0
+   I 7 =  49     8      6.1
+   I 8 =  50     9      5.6
+   I 9 =  41     8      5.1
+   I10 =  26    10      2.6
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 20 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  78     6     13.0
+   I 2 =  65     6     10.8
+   I 3 =  53     9      5.9
+   I 4 =  20     5      4.0
+   I 5 =  19     5      3.8
+   I 6 =  26     9      2.9
+   I 7 =  12     5      2.4
+   I 8 =  11     5      2.2
+   I 9 =  13     6      2.2
+   I10 =  10     9      1.1
+
+Breadth is faster than Best.
+ Depth = 109 || Best = 52 || Breath = 51
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  96     9     10.7
+   I 2 =  52     6      8.7
+   I 3 =  69     8      8.6
+   I 4 =  67     9      7.4
+   I 5 =  58     8      7.2
+   I 6 =  57     8      7.1
+   I 7 =  48     9      5.3
+   I 8 =  25     8      3.1
+   I 9 =  10     5      2.0
+   I10 =  11     6      1.8
+
+Breadth is faster than Best.
+ Depth = 39 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  89     5     17.8
+   I 2 =  100    10     10.0
+   I 3 =  98    10      9.8
+   I 4 =   8     1      8.0
+   I 5 =  44     7      6.3
+   I 6 =  12     2      6.0
+   I 7 =  17     3      5.7
+   I 8 =  28     5      5.6
+   I 9 =  33     7      4.7
+   I10 =  28    10      2.8
+
+Breadth is faster than Best.
+ Depth = 79 || Best = 27 || Breath = 26
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  58     4     14.5
+   I 2 =  91    10      9.1
+   I 3 =  88    10      8.8
+   I 4 =  82    10      8.2
+   I 5 =  54     7      7.7
+   I 6 =  46     7      6.6
+   I 7 =  56    10      5.6
+   I 8 =  12     7      1.7
+   I 9 =  14     9      1.6
+   I10 =   9     6      1.5
+
+Breadth is faster than Best.
+ Depth = 87 || Best = 45 || Breath = 42
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  72     5     14.4
+   I 2 =  14     1     14.0
+   I 3 =  90     8     11.2
+   I 4 =  100    10     10.0
+   I 5 =  89    10      8.9
+   I 6 =  78     9      8.7
+   I 7 =  44    10      4.4
+   I 8 =  41    10      4.1
+   I 9 =  20    10      2.0
+   I10 =  10     6      1.7
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 18 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  79     4     19.8
+   I 2 =  72    10      7.2
+   I 3 =  35     6      5.8
+   I 4 =  25     7      3.6
+   I 5 =  29     9      3.2
+   I 6 =  31    10      3.1
+   I 7 =  24     9      2.7
+   I 8 =  22    10      2.2
+   I 9 =  11     7      1.6
+   I10 =   6     4      1.5
+
+Breadth is faster than Best.
+ Depth = 123 || Best = 59 || Breath = 54
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  58     2     29.0
+   I 2 =  74     5     14.8
+   I 3 =  80     7     11.4
+   I 4 =  79     9      8.8
+   I 5 =  75     9      8.3
+   I 6 =  79    10      7.9
+   I 7 =  68     9      7.6
+   I 8 =  66    10      6.6
+   I 9 =   9     5      1.8
+   I10 =  11     9      1.2
+
+Breadth is faster than Best.
+ Depth = 29 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  50     2     25.0
+   I 2 =  95    10      9.5
+   I 3 =  53     9      5.9
+   I 4 =  22     4      5.5
+   I 5 =  22     6      3.7
+   I 6 =  28     9      3.1
+   I 7 =  23    10      2.3
+   I 8 =  22    10      2.2
+   I 9 =  14     7      2.0
+   I10 =   6     4      1.5
+
+Breadth is faster than Best.
+ Depth = 29 || Best = 18 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  96     7     13.7
+   I 2 =  94    10      9.4
+   I 3 =  59     8      7.4
+   I 4 =  62    10      6.2
+   I 5 =  41     7      5.9
+   I 6 =  33     6      5.5
+   I 7 =  47    10      4.7
+   I 8 =  13     5      2.6
+   I 9 =  16     7      2.3
+   I10 =  14     8      1.8
+
+Breadth is faster than Best.
+ Depth = 43 || Best = 25 || Breath = 24
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  83     5     16.6
+   I 2 =  71     6     11.8
+   I 3 =  54     7      7.7
+   I 4 =  23     5      4.6
+   I 5 =  28     8      3.5
+   I 6 =   3     1      3.0
+   I 7 =  15     8      1.9
+   I 8 =  10     7      1.4
+   I 9 =  14    10      1.4
+   I10 =   8     7      1.1
+
+Breadth is faster than Best.
+ Depth = 23 || Best = 8 || Breath = 7
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  100    10     10.0
+   I 2 =  98    10      9.8
+   I 3 =  36     8      4.5
+   I 4 =  42    10      4.2
+   I 5 =  34    10      3.4
+   I 6 =  12     4      3.0
+   I 7 =  23     9      2.6
+   I 8 =  10     4      2.5
+   I 9 =   5     3      1.7
+   I10 =  15    10      1.5
+
+Breadth is faster than Best.
+ Depth = 67 || Best = 36 || Breath = 34
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  97     6     16.2
+   I 2 =  99     9     11.0
+   I 3 =  99    10      9.9
+   I 4 =  62     7      8.9
+   I 5 =  41     6      6.8
+   I 6 =  40     6      6.7
+   I 7 =  58    10      5.8
+   I 8 =  45     8      5.6
+   I 9 =  19     7      2.7
+   I10 =  15     9      1.7
+
+Breadth is faster than Best.
+ Depth = 137 || Best = 67 || Breath = 66
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  64     6     10.7
+   I 2 =  85     9      9.4
+   I 3 =  84     9      9.3
+   I 4 =  83     9      9.2
+   I 5 =  88    10      8.8
+   I 6 =  53     7      7.6
+   I 7 =  25     4      6.2
+   I 8 =  45     8      5.6
+   I 9 =  10     7      1.4
+   I10 =   7     5      1.4
+
+Breadth is faster than Best.
+ Depth = 73 || Best = 36 || Breath = 35
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  70     4     17.5
+   I 2 =  91     7     13.0
+   I 3 =  94    10      9.4
+   I 4 =  26     3      8.7
+   I 5 =  83    10      8.3
+   I 6 =  79    10      7.9
+   I 7 =  34     8      4.2
+   I 8 =  28     7      4.0
+   I 9 =  21     7      3.0
+   I10 =  27    10      2.7
+
+Breadth is faster than Best.
+ Depth = 53 || Best = 25 || Breath = 24
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  77     9      8.6
+   I 2 =  68     8      8.5
+   I 3 =  80    10      8.0
+   I 4 =  50     7      7.1
+   I 5 =  32     5      6.4
+   I 6 =  40     7      5.7
+   I 7 =  29     8      3.6
+   I 8 =  27     8      3.4
+   I 9 =  22    10      2.2
+   I10 =   7     5      1.4
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  72     2     36.0
+   I 2 =  100     5     20.0
+   I 3 =  82     8     10.2
+   I 4 =  15     3      5.0
+   I 5 =  24     6      4.0
+   I 6 =  31     8      3.9
+   I 7 =  29     9      3.2
+   I 8 =  22    10      2.2
+   I 9 =  22    10      2.2
+   I10 =   7     5      1.4
+
+Breadth is faster than Best.
+ Depth = 37 || Best = 14 || Breath = 13
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  93     3     31.0
+   I 2 =  97    10      9.7
+   I 3 =  28     4      7.0
+   I 4 =  36     7      5.1
+   I 5 =  43    10      4.3
+   I 6 =  23     8      2.9
+   I 7 =  15     7      2.1
+   I 8 =  19     9      2.1
+   I 9 =  17    10      1.7
+   I10 =  13     8      1.6
+
+Breadth is faster than Best.
+ Depth = 57 || Best = 26 || Breath = 25
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  64     2     32.0
+   I 2 =  90     9     10.0
+   I 3 =  63     9      7.0
+   I 4 =  25     6      4.2
+   I 5 =   4     1      4.0
+   I 6 =  27     7      3.9
+   I 7 =  37    10      3.7
+   I 8 =  30    10      3.0
+   I 9 =  20     7      2.9
+   I10 =  14     9      1.6
+
+Breadth is faster than Best.
+ Depth = 45 || Best = 20 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  85     2     42.5
+   I 2 =  60     5     12.0
+   I 3 =  92    10      9.2
+   I 4 =  68     9      7.6
+   I 5 =  67     9      7.4
+   I 6 =  39    10      3.9
+   I 7 =  26     9      2.9
+   I 8 =   4     2      2.0
+   I 9 =  15    10      1.5
+   I10 =   6     5      1.2
+
+Breadth is faster than Best.
+ Depth = 77 || Best = 42 || Breath = 41
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  56     5     11.2
+   I 2 =  28     3      9.3
+   I 3 =  83     9      9.2
+   I 4 =  85    10      8.5
+   I 5 =  75     9      8.3
+   I 6 =  57     8      7.1
+   I 7 =  43     9      4.8
+   I 8 =  43    10      4.3
+   I 9 =  25     9      2.8
+   I10 =  11     4      2.8
+
+Breadth is faster than Best.
+ Depth = 47 || Best = 20 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  67     4     16.8
+   I 2 =  100     6     16.7
+   I 3 =  37     6      6.2
+   I 4 =  49    10      4.9
+   I 5 =  49    10      4.9
+   I 6 =  25     6      4.2
+   I 7 =  19     5      3.8
+   I 8 =  30    10      3.0
+   I 9 =  28    10      2.8
+   I10 =  21     9      2.3
+
+Breadth is faster than Best.
+ Depth = 109 || Best = 50 || Breath = 48
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  48     2     24.0
+   I 2 =  70     5     14.0
+   I 3 =  88     9      9.8
+   I 4 =  86     9      9.6
+   I 5 =  63     7      9.0
+   I 6 =  84    10      8.4
+   I 7 =  71     9      7.9
+   I 8 =  50     9      5.6
+   I 9 =  24     7      3.4
+   I10 =  17    10      1.7
+
+Breadth is faster than Best.
+ Depth = 77 || Best = 37 || Breath = 35
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  67     5     13.4
+   I 2 =  46     4     11.5
+   I 3 =  86     8     10.8
+   I 4 =  89     9      9.9
+   I 5 =  71     9      7.9
+   I 6 =  39     6      6.5
+   I 7 =  32     5      6.4
+   I 8 =  38     6      6.3
+   I 9 =  33     6      5.5
+   I10 =  30     8      3.8
+
+Breadth is faster than Best.
+ Depth = 153 || Best = 63 || Breath = 62
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  63     3     21.0
+   I 2 =  83     6     13.8
+   I 3 =  77     7     11.0
+   I 4 =  94     9     10.4
+   I 5 =  82     8     10.2
+   I 6 =  77     8      9.6
+   I 7 =  77     9      8.6
+   I 8 =  76    10      7.6
+   I 9 =  64    10      6.4
+   I10 =   5     2      2.5
+
+Breadth is faster than Best.
+ Depth = 31 || Best = 17 || Breath = 16
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  100    10     10.0
+   I 2 =  72     8      9.0
+   I 3 =  79     9      8.8
+   I 4 =  69     8      8.6
+   I 5 =  23     4      5.8
+   I 6 =  26     5      5.2
+   I 7 =  46     9      5.1
+   I 8 =  45    10      4.5
+   I 9 =  26     6      4.3
+   I10 =  27     9      3.0
+
+Breadth is faster than Best.
+ Depth = 167 || Best = 72 || Breath = 65
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  30     1     30.0
+   I 2 =  65     7      9.3
+   I 3 =  65     7      9.3
+   I 4 =  72     8      9.0
+   I 5 =  71     8      8.9
+   I 6 =  83    10      8.3
+   I 7 =  59     8      7.4
+   I 8 =  61    10      6.1
+   I 9 =  29     7      4.1
+   I10 =  14     9      1.6
+
+Breadth is faster than Best.
+ Depth = 67 || Best = 36 || Breath = 35
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  80     3     26.7
+   I 2 =  100    10     10.0
+   I 3 =  39     6      6.5
+   I 4 =  37     7      5.3
+   I 5 =  41     8      5.1
+   I 6 =  42     9      4.7
+   I 7 =  32     7      4.6
+   I 8 =  27     8      3.4
+   I 9 =  18    10      1.8
+   I10 =   6     4      1.5
+
+Breadth is faster than Best.
+ Depth = 61 || Best = 39 || Breath = 38
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  61     6     10.2
+   I 2 =  80     8     10.0
+   I 3 =  84     9      9.3
+   I 4 =  93    10      9.3
+   I 5 =  86    10      8.6
+   I 6 =  43     7      6.1
+   I 7 =  54    10      5.4
+   I 8 =  17     6      2.8
+   I 9 =  16     9      1.8
+   I10 =   9     8      1.1
+
+Breadth is faster than Best.
+ Depth = 139 || Best = 60 || Breath = 55
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  31     2     15.5
+   I 2 =  44     4     11.0
+   I 3 =  95    10      9.5
+   I 4 =  92    10      9.2
+   I 5 =  88    10      8.8
+   I 6 =  81    10      8.1
+   I 7 =  51     7      7.3
+   I 8 =  48     7      6.9
+   I 9 =  29     6      4.8
+   I10 =  22     9      2.4
+
+Breadth is faster than Best.
+ Depth = 31 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  54     3     18.0
+   I 2 =  99    10      9.9
+   I 3 =  97    10      9.7
+   I 4 =  88    10      8.8
+   I 5 =  74    10      7.4
+   I 6 =  41     8      5.1
+   I 7 =  30     7      4.3
+   I 8 =  30     7      4.3
+   I 9 =  38    10      3.8
+   I10 =  22     9      2.4
+
+Breadth is faster than Best.
+ Depth = 25 || Best = 13 || Breath = 12
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  84     9      9.3
+   I 2 =  58     8      7.2
+   I 3 =  45     9      5.0
+   I 4 =  23     5      4.6
+   I 5 =  34     8      4.2
+   I 6 =  20     6      3.3
+   I 7 =  15     5      3.0
+   I 8 =  12     5      2.4
+   I 9 =  20     9      2.2
+   I10 =   5     4      1.2
+
+Breadth is faster than Best.
+ Depth = 33 || Best = 17 || Breath = 16
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  100     9     11.1
+   I 2 =  74     8      9.2
+   I 3 =  57     9      6.3
+   I 4 =  43     7      6.1
+   I 5 =  49     8      6.1
+   I 6 =  22     6      3.7
+   I 7 =  18     6      3.0
+   I 8 =  21    10      2.1
+   I 9 =   6     3      2.0
+   I10 =  15     9      1.7
+
+Breadth is faster than Best.
+ Depth = 73 || Best = 35 || Breath = 34
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  79     7     11.3
+   I 2 =  96     9     10.7
+   I 3 =  85     9      9.4
+   I 4 =  49     6      8.2
+   I 5 =  75    10      7.5
+   I 6 =  35     6      5.8
+   I 7 =  28     6      4.7
+   I 8 =  34     9      3.8
+   I 9 =  29     9      3.2
+   I10 =  21     7      3.0
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  90    10      9.0
+   I 2 =  61     7      8.7
+   I 3 =  77    10      7.7
+   I 4 =  42     6      7.0
+   I 5 =  25     4      6.2
+   I 6 =  53     9      5.9
+   I 7 =  34     6      5.7
+   I 8 =  37     9      4.1
+   I 9 =  16     8      2.0
+   I10 =  18     9      2.0
+
+Breadth is faster than Best.
+ Depth = 203 || Best = 96 || Breath = 93
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  81     8     10.1
+   I 2 =  30     3     10.0
+   I 3 =  27     3      9.0
+   I 4 =  62     7      8.9
+   I 5 =  88    10      8.8
+   I 6 =  61     7      8.7
+   I 7 =  85    10      8.5
+   I 8 =  75    10      7.5
+   I 9 =  22     6      3.7
+   I10 =  10     4      2.5
+
+Breadth is faster than Best.
+ Depth = 73 || Best = 38 || Breath = 37
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  27     2     13.5
+   I 2 =  70     6     11.7
+   I 3 =  91     9     10.1
+   I 4 =  95    10      9.5
+   I 5 =  78     9      8.7
+   I 6 =  68     8      8.5
+   I 7 =  55     7      7.9
+   I 8 =  64    10      6.4
+   I 9 =  35     8      4.4
+   I10 =   8     6      1.3
+
+Breadth is faster than Best.
+ Depth = 43 || Best = 18 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  76     2     38.0
+   I 2 =  88     8     11.0
+   I 3 =  66    10      6.6
+   I 4 =   7     2      3.5
+   I 5 =  20     6      3.3
+   I 6 =  33    10      3.3
+   I 7 =  19     6      3.2
+   I 8 =  24     8      3.0
+   I 9 =  21    10      2.1
+   I10 =   4     3      1.3
+
+Breadth is faster than Best.
+ Depth = 83 || Best = 40 || Breath = 39
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  28     1     28.0
+   I 2 =  42     2     21.0
+   I 3 =  99    10      9.9
+   I 4 =  91    10      9.1
+   I 5 =  88    10      8.8
+   I 6 =  71    10      7.1
+   I 7 =  36     9      4.0
+   I 8 =  30    10      3.0
+   I 9 =  22     8      2.8
+   I10 =  10     7      1.4
+
+Breadth is faster than Best.
+ Depth = 89 || Best = 45 || Breath = 44
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  36     2     18.0
+   I 2 =  24     2     12.0
+   I 3 =  81    10      8.1
+   I 4 =  80    10      8.0
+   I 5 =  74    10      7.4
+   I 6 =   9     2      4.5
+   I 7 =  39     9      4.3
+   I 8 =  29     7      4.1
+   I 9 =  22     8      2.8
+   I10 =  10     5      2.0
+
+Breadth is faster than Best.
+ Depth = 19 || Best = 13 || Breath = 12
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  68     7      9.7
+   I 2 =  95    10      9.5
+   I 3 =  92    10      9.2
+   I 4 =  74    10      7.4
+   I 5 =  40     7      5.7
+   I 6 =  36     8      4.5
+   I 7 =  18     5      3.6
+   I 8 =  10     5      2.0
+   I 9 =   6     3      2.0
+   I10 =  16     9      1.8
+
+Breadth is faster than Best.
+ Depth = 159 || Best = 84 || Breath = 77
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  51     2     25.5
+   I 2 =  75     6     12.5
+   I 3 =  90     8     11.2
+   I 4 =  88     8     11.0
+   I 5 =  86     8     10.8
+   I 6 =  96    10      9.6
+   I 7 =  65     7      9.3
+   I 8 =  79     9      8.8
+   I 9 =  66     8      8.2
+   I10 =  31     5      6.2
+
+Breadth is faster than Best.
+ Depth = 69 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  68     4     17.0
+   I 2 =  100     9     11.1
+   I 3 =  97    10      9.7
+   I 4 =  93    10      9.3
+   I 5 =  61     9      6.8
+   I 6 =  55    10      5.5
+   I 7 =   5     1      5.0
+   I 8 =  23     8      2.9
+   I 9 =  25     9      2.8
+   I10 =   5     4      1.2
+
+Breadth is faster than Best.
+ Depth = 139 || Best = 55 || Breath = 51
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  46     1     46.0
+   I 2 =  59     4     14.8
+   I 3 =  90     9     10.0
+   I 4 =  66     8      8.2
+   I 5 =  72     9      8.0
+   I 6 =  69     9      7.7
+   I 7 =  64    10      6.4
+   I 8 =  50    10      5.0
+   I 9 =  26     9      2.9
+   I10 =  15     9      1.7
+
+Breadth is faster than Best.
+ Depth = 45 || Best = 26 || Breath = 25
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  96     4     24.0
+   I 2 =  93     6     15.5
+   I 3 =  99     9     11.0
+   I 4 =   7     1      7.0
+   I 5 =  12     2      6.0
+   I 6 =  12     2      6.0
+   I 7 =  46    10      4.6
+   I 8 =  24    10      2.4
+   I 9 =  14     8      1.8
+   I10 =   5     4      1.2
+
+Breadth is faster than Best.
+ Depth = 33 || Best = 21 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  81     5     16.2
+   I 2 =  86    10      8.6
+   I 3 =  23     5      4.6
+   I 4 =  34     8      4.2
+   I 5 =  20     5      4.0
+   I 6 =  18     5      3.6
+   I 7 =  25     7      3.6
+   I 8 =  13     5      2.6
+   I 9 =  20    10      2.0
+   I10 =   8     6      1.3
+
+Breadth is faster than Best.
+ Depth = 139 || Best = 50 || Breath = 48
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  37     2     18.5
+   I 2 =  90     7     12.9
+   I 3 =  58     6      9.7
+   I 4 =  54     8      6.8
+   I 5 =  60     9      6.7
+   I 6 =  58     9      6.4
+   I 7 =  53     9      5.9
+   I 8 =  45     8      5.6
+   I 9 =  43     9      4.8
+   I10 =  28    10      2.8
+
+Breadth is faster than Best.
+ Depth = 79 || Best = 35 || Breath = 34
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  13     1     13.0
+   I 2 =  59     5     11.8
+   I 3 =  95    10      9.5
+   I 4 =  85    10      8.5
+   I 5 =  80    10      8.0
+   I 6 =  61    10      6.1
+   I 7 =  30     6      5.0
+   I 8 =  28     9      3.1
+   I 9 =  13     6      2.2
+   I10 =  16     8      2.0
+
+Breadth is faster than Best.
+ Depth = 43 || Best = 24 || Breath = 22
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  94     5     18.8
+   I 2 =  90     6     15.0
+   I 3 =  36     5      7.2
+   I 4 =  45     9      5.0
+   I 5 =  48    10      4.8
+   I 6 =  42    10      4.2
+   I 7 =  28     7      4.0
+   I 8 =  22     7      3.1
+   I 9 =  16     7      2.3
+   I10 =   4     3      1.3
+
+Breadth is faster than Best.
+ Depth = 55 || Best = 30 || Breath = 29
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  94     1     94.0
+   I 2 =  97     6     16.2
+   I 3 =  61     7      8.7
+   I 4 =  21     4      5.2
+   I 5 =   9     2      4.5
+   I 6 =  25     7      3.6
+   I 7 =  24     7      3.4
+   I 8 =  24     8      3.0
+   I 9 =  19     8      2.4
+   I10 =   7     6      1.2
+
+Breadth is faster than Best.
+ Depth = 73 || Best = 49 || Breath = 44
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  59     2     29.5
+   I 2 =  76     3     25.3
+   I 3 =  92     8     11.5
+   I 4 =  95    10      9.5
+   I 5 =  92    10      9.2
+   I 6 =  92    10      9.2
+   I 7 =  71    10      7.1
+   I 8 =  10     3      3.3
+   I 9 =  16     7      2.3
+   I10 =  10     8      1.2
+
+Breadth is faster than Best.
+ Depth = 101 || Best = 44 || Breath = 42
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  80     7     11.4
+   I 2 =  99     9     11.0
+   I 3 =  98    10      9.8
+   I 4 =  87    10      8.7
+   I 5 =  86    10      8.6
+   I 6 =  48     6      8.0
+   I 7 =  52     7      7.4
+   I 8 =  22     5      4.4
+   I 9 =  26     6      4.3
+   I10 =  20     7      2.9
+
+Breadth is faster than Best.
+ Depth = 25 || Best = 14 || Breath = 13
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  87     7     12.4
+   I 2 =  89    10      8.9
+   I 3 =  65    10      6.5
+   I 4 =  11     2      5.5
+   I 5 =  26     5      5.2
+   I 6 =  15     3      5.0
+   I 7 =  42     9      4.7
+   I 8 =  32     8      4.0
+   I 9 =  20     7      2.9
+   I10 =  17    10      1.7
+
+Breadth is faster than Best.
+ Depth = 37 || Best = 18 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  74     7     10.6
+   I 2 =  100    10     10.0
+   I 3 =  89    10      8.9
+   I 4 =  79    10      7.9
+   I 5 =  45     8      5.6
+   I 6 =  46     9      5.1
+   I 7 =  24     5      4.8
+   I 8 =  35     9      3.9
+   I 9 =  30    10      3.0
+   I10 =   9     8      1.1
+
+Breadth is faster than Best.
+ Depth = 153 || Best = 65 || Breath = 63
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  23     1     23.0
+   I 2 =  71     6     11.8
+   I 3 =  96    10      9.6
+   I 4 =  83     9      9.2
+   I 5 =  92    10      9.2
+   I 6 =  78     9      8.7
+   I 7 =  84    10      8.4
+   I 8 =  83    10      8.3
+   I 9 =  72    10      7.2
+   I10 =  59    10      5.9
+
+Breadth is faster than Best.
+ Depth = 67 || Best = 36 || Breath = 34
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  79     7     11.3
+   I 2 =  100     9     11.1
+   I 3 =  72     8      9.0
+   I 4 =  59     7      8.4
+   I 5 =  62     8      7.8
+   I 6 =  59     8      7.4
+   I 7 =  64     9      7.1
+   I 8 =  40    10      4.0
+   I 9 =  13     7      1.9
+   I10 =   3     2      1.5
+
+Breadth is faster than Best.
+ Depth = 53 || Best = 29 || Breath = 28
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  87     9      9.7
+   I 2 =  96    10      9.6
+   I 3 =  15     3      5.0
+   I 4 =  30     6      5.0
+   I 5 =  45    10      4.5
+   I 6 =  30     7      4.3
+   I 7 =  26     7      3.7
+   I 8 =  17     5      3.4
+   I 9 =  15     7      2.1
+   I10 =  10     7      1.4
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  10     1     10.0
+   I 2 =  57     6      9.5
+   I 3 =  75     9      8.3
+   I 4 =  18     5      3.6
+   I 5 =  36    10      3.6
+   I 6 =  34    10      3.4
+   I 7 =  21     8      2.6
+   I 8 =  16     8      2.0
+   I 9 =  17     9      1.9
+   I10 =  14     9      1.6
+
+Breadth is faster than Best.
+ Depth = 55 || Best = 31 || Breath = 29
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  49     4     12.2
+   I 2 =  94     9     10.4
+   I 3 =  69     9      7.7
+   I 4 =  13     2      6.5
+   I 5 =  59    10      5.9
+   I 6 =  43     9      4.8
+   I 7 =  42     9      4.7
+   I 8 =  40    10      4.0
+   I 9 =  31    10      3.1
+   I10 =   6     5      1.2
+
+Breadth is faster than Best.
+ Depth = 129 || Best = 56 || Breath = 52
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  73     3     24.3
+   I 2 =  84     6     14.0
+   I 3 =  86     7     12.3
+   I 4 =  88     8     11.0
+   I 5 =  92     9     10.2
+   I 6 =  68     7      9.7
+   I 7 =  73     9      8.1
+   I 8 =  49     8      6.1
+   I 9 =  33     9      3.7
+   I10 =  20     9      2.2
+
+Breadth is faster than Best.
+ Depth = 105 || Best = 57 || Breath = 55
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  63     3     21.0
+   I 2 =  87     5     17.4
+   I 3 =  95     9     10.6
+   I 4 =  92     9     10.2
+   I 5 =  92     9     10.2
+   I 6 =  93    10      9.3
+   I 7 =  86    10      8.6
+   I 8 =  46     6      7.7
+   I 9 =   3     2      1.5
+   I10 =  11     9      1.2
+
+Breadth is faster than Best.
+ Depth = 67 || Best = 34 || Breath = 33
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  81     7     11.6
+   I 2 =  100    10     10.0
+   I 3 =  65     8      8.1
+   I 4 =  55     7      7.9
+   I 5 =  46     8      5.8
+   I 6 =  46     8      5.8
+   I 7 =  42     8      5.2
+   I 8 =  46     9      5.1
+   I 9 =  14     8      1.8
+   I10 =   9     7      1.3
+
+Breadth is faster than Best.
+ Depth = 57 || Best = 27 || Breath = 26
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  88     5     17.6
+   I 2 =  79     7     11.3
+   I 3 =  56     5     11.2
+   I 4 =  14     3      4.7
+   I 5 =  20     5      4.0
+   I 6 =  22     6      3.7
+   I 7 =  28     8      3.5
+   I 8 =  31    10      3.1
+   I 9 =   5     3      1.7
+   I10 =   7     5      1.4
+
+Breadth is faster than Best.
+ Depth = 119 || Best = 53 || Breath = 49
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  76     1     76.0
+   I 2 =  61     6     10.2
+   I 3 =  64     7      9.1
+   I 4 =  72     9      8.0
+   I 5 =  79    10      7.9
+   I 6 =  71    10      7.1
+   I 7 =  40     8      5.0
+   I 8 =  40    10      4.0
+   I 9 =  33    10      3.3
+   I10 =  16     7      2.3
+
+Breadth is faster than Best.
+ Depth = 141 || Best = 66 || Breath = 62
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  67     3     22.3
+   I 2 =  100     8     12.5
+   I 3 =  72     6     12.0
+   I 4 =  87     8     10.9
+   I 5 =  76     8      9.5
+   I 6 =  76     9      8.4
+   I 7 =  59     7      8.4
+   I 8 =  64     8      8.0
+   I 9 =  66    10      6.6
+   I10 =  44     9      4.9
+
+Breadth is faster than Best.
+ Depth = 89 || Best = 48 || Breath = 47
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  20     1     20.0
+   I 2 =  67     4     16.8
+   I 3 =  79     9      8.8
+   I 4 =  75    10      7.5
+   I 5 =  72    10      7.2
+   I 6 =  49     8      6.1
+   I 7 =   4     1      4.0
+   I 8 =  28     8      3.5
+   I 9 =  16     7      2.3
+   I10 =  13     7      1.9
+
+Breadth is faster than Best.
+ Depth = 45 || Best = 22 || Breath = 20
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  76     3     25.3
+   I 2 =  59     7      8.4
+   I 3 =  57    10      5.7
+   I 4 =  20     6      3.3
+   I 5 =  20     6      3.3
+   I 6 =  24     8      3.0
+   I 7 =  28    10      2.8
+   I 8 =  11     5      2.2
+   I 9 =   8     5      1.6
+   I10 =  11     9      1.2
+
+Breadth is faster than Best.
+ Depth = 55 || Best = 30 || Breath = 29
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  100     8     12.5
+   I 2 =  93     8     11.6
+   I 3 =  39     6      6.5
+   I 4 =  25     4      6.2
+   I 5 =  28     5      5.6
+   I 6 =  52    10      5.2
+   I 7 =  44     9      4.9
+   I 8 =  44     9      4.9
+   I 9 =  46    10      4.6
+   I10 =  12     6      2.0
+
+Breadth is faster than Best.
+ Depth = 101 || Best = 51 || Breath = 49
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  78     4     19.5
+   I 2 =  35     2     17.5
+   I 3 =  98     9     10.9
+   I 4 =  91     9     10.1
+   I 5 =  98    10      9.8
+   I 6 =  88     9      9.8
+   I 7 =  51     9      5.7
+   I 8 =  37     8      4.6
+   I 9 =  26     8      3.2
+   I10 =   9     6      1.5
+
+Breadth is faster than Best.
+ Depth = 197 || Best = 63 || Breath = 56
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  43     1     43.0
+   I 2 =  62     6     10.3
+   I 3 =  77     8      9.6
+   I 4 =  75     8      9.4
+   I 5 =  73     8      9.1
+   I 6 =  76    10      7.6
+   I 7 =  58     8      7.2
+   I 8 =  57    10      5.7
+   I 9 =  41    10      4.1
+   I10 =  29     9      3.2
+
+Breadth is faster than Best.
+ Depth = 39 || Best = 24 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  93     8     11.6
+   I 2 =  53     5     10.6
+   I 3 =  95    10      9.5
+   I 4 =  63     9      7.0
+   I 5 =  55     8      6.9
+   I 6 =  53     8      6.6
+   I 7 =   5     1      5.0
+   I 8 =  21     7      3.0
+   I 9 =  12     5      2.4
+   I10 =  15    10      1.5
+
+Breadth is faster than Best.
+ Depth = 111 || Best = 52 || Breath = 51
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  56     2     28.0
+   I 2 =  88     9      9.8
+   I 3 =  66     7      9.4
+   I 4 =  64     7      9.1
+   I 5 =  60     7      8.6
+   I 6 =  62     9      6.9
+   I 7 =  58    10      5.8
+   I 8 =  53    10      5.3
+   I 9 =  20     7      2.9
+   I10 =  12     8      1.5
+
+Breadth is faster than Best.
+ Depth = 165 || Best = 63 || Breath = 57
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  83     2     41.5
+   I 2 =  42     4     10.5
+   I 3 =  69     9      7.7
+   I 4 =  69     9      7.7
+   I 5 =  76    10      7.6
+   I 6 =  53     7      7.6
+   I 7 =  75    10      7.5
+   I 8 =  66     9      7.3
+   I 9 =  17     3      5.7
+   I10 =  53    10      5.3
+
+Breadth is faster than Best.
+ Depth = 45 || Best = 31 || Breath = 30
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  46     5      9.2
+   I 2 =  70    10      7.0
+   I 3 =  31     7      4.4
+   I 4 =   4     1      4.0
+   I 5 =  35     9      3.9
+   I 6 =   6     2      3.0
+   I 7 =  19     8      2.4
+   I 8 =   9     5      1.8
+   I 9 =  16     9      1.8
+   I10 =  11     7      1.6
+
+Breadth is faster than Best.
+ Depth = 105 || Best = 32 || Breath = 31
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  66     5     13.2
+   I 2 =  92     8     11.5
+   I 3 =  96    10      9.6
+   I 4 =  95    10      9.5
+   I 5 =  90    10      9.0
+   I 6 =  25     8      3.1
+   I 7 =  24     8      3.0
+   I 8 =   9     4      2.2
+   I 9 =  18    10      1.8
+   I10 =  10     6      1.7
+
+Breadth is faster than Best.
+ Depth = 113 || Best = 29 || Breath = 28
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  33     3     11.0
+   I 2 =  84     9      9.3
+   I 3 =  92    10      9.2
+   I 4 =  91    10      9.1
+   I 5 =  89    10      8.9
+   I 6 =  35     5      7.0
+   I 7 =   3     1      3.0
+   I 8 =  14     6      2.3
+   I 9 =   8     5      1.6
+   I10 =   8     7      1.1
+
+Breadth is faster than Best.
+ Depth = 139 || Best = 76 || Breath = 67
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  99     3     33.0
+   I 2 =  53     3     17.7
+   I 3 =  79     8      9.9
+   I 4 =  88     9      9.8
+   I 5 =  87     9      9.7
+   I 6 =  76     8      9.5
+   I 7 =  89    10      8.9
+   I 8 =  79    10      7.9
+   I 9 =  18     4      4.5
+   I10 =  21    10      2.1
+
+Breadth is faster than Best.
+ Depth = 117 || Best = 49 || Breath = 47
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  100     1    100.0
+   I 2 =  56     4     14.0
+   I 3 =  78     8      9.8
+   I 4 =  95    10      9.5
+   I 5 =  90    10      9.0
+   I 6 =  88    10      8.8
+   I 7 =  84    10      8.4
+   I 8 =  38     9      4.2
+   I 9 =   8     7      1.1
+   I10 =  10     9      1.1
+
+Breadth is faster than Best.
+ Depth = 87 || Best = 45 || Breath = 44
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  74     7     10.6
+   I 2 =  80     8     10.0
+   I 3 =  99    10      9.9
+   I 4 =  81    10      8.1
+   I 5 =  53     7      7.6
+   I 6 =  58     8      7.2
+   I 7 =  64     9      7.1
+   I 8 =  28     6      4.7
+   I 9 =  40    10      4.0
+   I10 =  20     8      2.5
+
+Breadth is faster than Best.
+ Depth = 57 || Best = 19 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  67     6     11.2
+   I 2 =  96    10      9.6
+   I 3 =  91    10      9.1
+   I 4 =  85    10      8.5
+   I 5 =  67     9      7.4
+   I 6 =  40     8      5.0
+   I 7 =  37     8      4.6
+   I 8 =  29     8      3.6
+   I 9 =  20     7      2.9
+   I10 =  13    10      1.3
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 30 || Breath = 29
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  92     6     15.3
+   I 2 =  74     6     12.3
+   I 3 =  93    10      9.3
+   I 4 =  74     9      8.2
+   I 5 =  76    10      7.6
+   I 6 =  33     9      3.7
+   I 7 =  31    10      3.1
+   I 8 =  28    10      2.8
+   I 9 =  21    10      2.1
+   I10 =  11     6      1.8
+
+Breadth is faster than Best.
+ Depth = 117 || Best = 51 || Breath = 49
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  64     1     64.0
+   I 2 =  62     4     15.5
+   I 3 =  91     9     10.1
+   I 4 =  97    10      9.7
+   I 5 =  97    10      9.7
+   I 6 =  95    10      9.5
+   I 7 =   8     1      8.0
+   I 8 =  74    10      7.4
+   I 9 =  32     9      3.6
+   I10 =  13     7      1.9
+
+Breadth is faster than Best.
+ Depth = 27 || Best = 15 || Breath = 14
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  96     7     13.7
+   I 2 =  64     9      7.1
+   I 3 =  54    10      5.4
+   I 4 =  28     6      4.7
+   I 5 =  37     8      4.6
+   I 6 =  29     7      4.1
+   I 7 =   9     3      3.0
+   I 8 =  23    10      2.3
+   I 9 =  10     5      2.0
+   I10 =  12     8      1.5
+
+Breadth is faster than Best.
+ Depth = 63 || Best = 30 || Breath = 29
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  83     4     20.8
+   I 2 =  59     3     19.7
+   I 3 =  84     9      9.3
+   I 4 =  84     9      9.3
+   I 5 =  72     8      9.0
+   I 6 =  56     8      7.0
+   I 7 =   9     2      4.5
+   I 8 =  36     9      4.0
+   I 9 =  31     9      3.4
+   I10 =  29     9      3.2
+
+Breadth is faster than Best.
+ Depth = 57 || Best = 30 || Breath = 29
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  59     3     19.7
+   I 2 =  80     9      8.9
+   I 3 =  84    10      8.4
+   I 4 =  71    10      7.1
+   I 5 =  57     9      6.3
+   I 6 =  13     4      3.2
+   I 7 =  19    10      1.9
+   I 8 =  12     7      1.7
+   I 9 =   8     5      1.6
+   I10 =   6     5      1.2
+
+Breadth is faster than Best.
+ Depth = 57 || Best = 26 || Breath = 25
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  80     7     11.4
+   I 2 =  94     9     10.4
+   I 3 =  100    10     10.0
+   I 4 =  66     7      9.4
+   I 5 =  40     5      8.0
+   I 6 =  56    10      5.6
+   I 7 =  41     8      5.1
+   I 8 =   7     2      3.5
+   I 9 =  12     6      2.0
+   I10 =   8     7      1.1
+
+Breadth is faster than Best.
+ Depth = 103 || Best = 34 || Breath = 33
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  58     5     11.6
+   I 2 =  91     9     10.1
+   I 3 =  95    10      9.5
+   I 4 =  93    10      9.3
+   I 5 =  91    10      9.1
+   I 6 =  51     9      5.7
+   I 7 =  34     9      3.8
+   I 8 =  12     5      2.4
+   I 9 =   9     4      2.2
+   I10 =  12     7      1.7
+
+Breadth is faster than Best.
+ Depth = 59 || Best = 25 || Breath = 23
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  96    10      9.6
+   I 2 =  45     7      6.4
+   I 3 =  23     4      5.8
+   I 4 =  54    10      5.4
+   I 5 =  25     5      5.0
+   I 6 =   3     1      3.0
+   I 7 =  27     9      3.0
+   I 8 =  28    10      2.8
+   I 9 =   9     5      1.8
+   I10 =   6     5      1.2
+
+Breadth is faster than Best.
+ Depth = 89 || Best = 38 || Breath = 37
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  31     3     10.3
+   I 2 =   9     1      9.0
+   I 3 =  66     9      7.3
+   I 4 =  44    10      4.4
+   I 5 =  44    10      4.4
+   I 6 =  35    10      3.5
+   I 7 =  34    10      3.4
+   I 8 =  29    10      2.9
+   I 9 =  18    10      1.8
+   I10 =   9     8      1.1
+
+Breadth is faster than Best.
+ Depth = 79 || Best = 39 || Breath = 37
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  93     7     13.3
+   I 2 =  35     4      8.8
+   I 3 =  64     8      8.0
+   I 4 =  36     5      7.2
+   I 5 =  40     7      5.7
+   I 6 =  41     8      5.1
+   I 7 =  23     9      2.6
+   I 8 =  16     8      2.0
+   I 9 =  16     8      2.0
+   I10 =   8     6      1.3
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 17 || Breath = 16
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  97    10      9.7
+   I 2 =  94    10      9.4
+   I 3 =  50     6      8.3
+   I 4 =  60     9      6.7
+   I 5 =  28     5      5.6
+   I 6 =   5     1      5.0
+   I 7 =  31     7      4.4
+   I 8 =  44    10      4.4
+   I 9 =  14     6      2.3
+   I10 =  21    10      2.1
+
+Breadth is faster than Best.
+ Depth = 137 || Best = 62 || Breath = 54
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  47     1     47.0
+   I 2 =  80     7     11.4
+   I 3 =  80     7     11.4
+   I 4 =  78     7     11.1
+   I 5 =  90     9     10.0
+   I 6 =  88     9      9.8
+   I 7 =  87    10      8.7
+   I 8 =   9     3      3.0
+   I 9 =   7     4      1.8
+   I10 =  12     9      1.3
+
+Breadth is faster than Best.
+ Depth = 205 || Best = 79 || Breath = 71
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  62     4     15.5
+   I 2 =  85     7     12.1
+   I 3 =  81     7     11.6
+   I 4 =  92     8     11.5
+   I 5 =  89     8     11.1
+   I 6 =  85     8     10.6
+   I 7 =  84     8     10.5
+   I 8 =  69     7      9.9
+   I 9 =  50    10      5.0
+   I10 =  11     7      1.6
+
+Breadth is faster than Best.
+ Depth = 47 || Best = 23 || Breath = 22
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  99     2     49.5
+   I 2 =  72     9      8.0
+   I 3 =  56     8      7.0
+   I 4 =  60     9      6.7
+   I 5 =  60    10      6.0
+   I 6 =  60    10      6.0
+   I 7 =  15     3      5.0
+   I 8 =  16     4      4.0
+   I 9 =  11     5      2.2
+   I10 =   7     4      1.8
+
+Breadth is faster than Best.
+ Depth = 43 || Best = 17 || Breath = 16
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  45     3     15.0
+   I 2 =  92    10      9.2
+   I 3 =  80    10      8.0
+   I 4 =  74    10      7.4
+   I 5 =  19     3      6.3
+   I 6 =  26     6      4.3
+   I 7 =  11     5      2.2
+   I 8 =  21    10      2.1
+   I 9 =   9     6      1.5
+   I10 =   3     2      1.5
+
+Breadth is faster than Best.
+ Depth = 43 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  80     7     11.4
+   I 2 =  96     9     10.7
+   I 3 =  82     8     10.2
+   I 4 =  82     8     10.2
+   I 5 =  36     5      7.2
+   I 6 =  35     8      4.4
+   I 7 =  17     5      3.4
+   I 8 =  10     4      2.5
+   I 9 =  20    10      2.0
+   I10 =  19    10      1.9
+
+Breadth is faster than Best.
+ Depth = 43 || Best = 24 || Breath = 23
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  69     1     69.0
+   I 2 =  90     8     11.2
+   I 3 =  72    10      7.2
+   I 4 =  28     7      4.0
+   I 5 =  27     7      3.9
+   I 6 =  33    10      3.3
+   I 7 =  21     7      3.0
+   I 8 =  14     5      2.8
+   I 9 =  22     8      2.8
+   I10 =   7     6      1.2
+
+Breadth is faster than Best.
+ Depth = 101 || Best = 45 || Breath = 42
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  51     1     51.0
+   I 2 =  74     6     12.3
+   I 3 =  91     9     10.1
+   I 4 =  80     8     10.0
+   I 5 =  60     7      8.6
+   I 6 =  73    10      7.3
+   I 7 =  63    10      6.3
+   I 8 =  54    10      5.4
+   I 9 =  39    10      3.9
+   I10 =  26     8      3.2
+
+Breadth is faster than Best.
+ Depth = 103 || Best = 59 || Breath = 55
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  58     2     29.0
+   I 2 =  100     4     25.0
+   I 3 =  95     8     11.9
+   I 4 =  95     9     10.6
+   I 5 =  87     9      9.7
+   I 6 =  82     9      9.1
+   I 7 =  77     9      8.6
+   I 8 =  75     9      8.3
+   I 9 =  71     9      7.9
+   I10 =  21     5      4.2
+
+Breadth is faster than Best.
+ Depth = 157 || Best = 78 || Breath = 74
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  68     2     34.0
+   I 2 =  87     7     12.4
+   I 3 =  90     8     11.2
+   I 4 =  86     8     10.8
+   I 5 =  72     7     10.3
+   I 6 =  87     9      9.7
+   I 7 =  76     8      9.5
+   I 8 =  42     9      4.7
+   I 9 =  33     9      3.7
+   I10 =  20     7      2.9
+
+Breadth is faster than Best.
+ Depth = 77 || Best = 42 || Breath = 41
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  52     3     17.3
+   I 2 =  88     9      9.8
+   I 3 =  82     9      9.1
+   I 4 =  85    10      8.5
+   I 5 =  33     6      5.5
+   I 6 =  20     4      5.0
+   I 7 =  38     9      4.2
+   I 8 =  31     8      3.9
+   I 9 =  23     7      3.3
+   I10 =  15     9      1.7
+
+Breadth is faster than Best.
+ Depth = 201 || Best = 97 || Breath = 95
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  66     4     16.5
+   I 2 =  79     6     13.2
+   I 3 =  95     8     11.9
+   I 4 =  91     8     11.4
+   I 5 =  79     7     11.3
+   I 6 =  86     8     10.8
+   I 7 =  99    10      9.9
+   I 8 =  86     9      9.6
+   I 9 =  65     7      9.3
+   I10 =  51     8      6.4
+
+Breadth is faster than Best.
+ Depth = 33 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  100     5     20.0
+   I 2 =  98     8     12.2
+   I 3 =  70     8      8.8
+   I 4 =  36     6      6.0
+   I 5 =  30     5      6.0
+   I 6 =  42     9      4.7
+   I 7 =  23     5      4.6
+   I 8 =  30     7      4.3
+   I 9 =  17     8      2.1
+   I10 =  12     9      1.3
+
+Breadth is faster than Best.
+ Depth = 65 || Best = 29 || Breath = 26
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  87     2     43.5
+   I 2 =  84    10      8.4
+   I 3 =  30     7      4.3
+   I 4 =  24     6      4.0
+   I 5 =  36     9      4.0
+   I 6 =  33     9      3.7
+   I 7 =  32     9      3.6
+   I 8 =   9     3      3.0
+   I 9 =  28    10      2.8
+   I10 =  25     9      2.8
+
+Breadth is faster than Best.
+ Depth = 47 || Best = 23 || Breath = 22
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  67     5     13.4
+   I 2 =  100    10     10.0
+   I 3 =  89    10      8.9
+   I 4 =  86    10      8.6
+   I 5 =  72    10      7.2
+   I 6 =  61     9      6.8
+   I 7 =  28     8      3.5
+   I 8 =  23     9      2.6
+   I 9 =   9     5      1.8
+   I10 =   9     6      1.5
+
+Breadth is faster than Best.
+ Depth = 33 || Best = 21 || Breath = 20
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  49     5      9.8
+   I 2 =  61     7      8.7
+   I 3 =  78     9      8.7
+   I 4 =  85    10      8.5
+   I 5 =  46     9      5.1
+   I 6 =  41    10      4.1
+   I 7 =  15     7      2.1
+   I 8 =  18    10      1.8
+   I 9 =   3     2      1.5
+   I10 =   4     3      1.3
+
+Breadth is faster than Best.
+ Depth = 39 || Best = 16 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  94    10      9.4
+   I 2 =  68     8      8.5
+   I 3 =  78    10      7.8
+   I 4 =  76    10      7.6
+   I 5 =  57     9      6.3
+   I 6 =  16     3      5.3
+   I 7 =  43    10      4.3
+   I 8 =  36     9      4.0
+   I 9 =  18    10      1.8
+   I10 =  10     7      1.4
+
+Breadth is faster than Best.
+ Depth = 251 || Best = 118 || Breath = 117
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  71     3     23.7
+   I 2 =  76     5     15.2
+   I 3 =  89     8     11.1
+   I 4 =  80     8     10.0
+   I 5 =  79     8      9.9
+   I 6 =  81     9      9.0
+   I 7 =  71     8      8.9
+   I 8 =  77     9      8.6
+   I 9 =  52     7      7.4
+   I10 =  22     9      2.4
+
+Breadth is faster than Best.
+ Depth = 91 || Best = 50 || Breath = 48
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  54     1     54.0
+   I 2 =  82     7     11.7
+   I 3 =  69     6     11.5
+   I 4 =  91     9     10.1
+   I 5 =  79     8      9.9
+   I 6 =  78    10      7.8
+   I 7 =  70    10      7.0
+   I 8 =  52     9      5.8
+   I 9 =  37    10      3.7
+   I10 =  11     4      2.8
+
+Breadth is faster than Best.
+ Depth = 49 || Best = 24 || Breath = 22
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  64     6     10.7
+   I 2 =  94    10      9.4
+   I 3 =  86    10      8.6
+   I 4 =  75    10      7.5
+   I 5 =  45     6      7.5
+   I 6 =  51     8      6.4
+   I 7 =  47     8      5.9
+   I 8 =  28     6      4.7
+   I 9 =  36     9      4.0
+   I10 =  20     8      2.5
+
+Breadth is faster than Best.
+ Depth = 61 || Best = 30 || Breath = 29
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  99     8     12.4
+   I 2 =  88     9      9.8
+   I 3 =  47     8      5.9
+   I 4 =  47     8      5.9
+   I 5 =  35     6      5.8
+   I 6 =  17     3      5.7
+   I 7 =  21     4      5.2
+   I 8 =  46     9      5.1
+   I 9 =  12     3      4.0
+   I10 =  12     5      2.4
+
+Breadth is faster than Best.
+ Depth = 81 || Best = 45 || Breath = 44
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  98     7     14.0
+   I 2 =  80    10      8.0
+   I 3 =  76    10      7.6
+   I 4 =  68     9      7.6
+   I 5 =  70    10      7.0
+   I 6 =  45     7      6.4
+   I 7 =  36     6      6.0
+   I 8 =  41     7      5.9
+   I 9 =  30     8      3.8
+   I10 =  14     5      2.8
+
+Breadth is faster than Best.
+ Depth = 47 || Best = 21 || Breath = 20
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  81     5     16.2
+   I 2 =  82    10      8.2
+   I 3 =  68     9      7.6
+   I 4 =  46     7      6.6
+   I 5 =  54     9      6.0
+   I 6 =  49     9      5.4
+   I 7 =  33     9      3.7
+   I 8 =  22     9      2.4
+   I 9 =  10     9      1.1
+   I10 =  11    10      1.1
+
+Breadth is faster than Best.
+ Depth = 107 || Best = 42 || Breath = 41
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  71     2     35.5
+   I 2 =  87     6     14.5
+   I 3 =  86     6     14.3
+   I 4 =  94     9     10.4
+   I 5 =  85     9      9.4
+   I 6 =  78     9      8.7
+   I 7 =  63     8      7.9
+   I 8 =  24    10      2.4
+   I 9 =  21     9      2.3
+   I10 =  18    10      1.8
+
+Breadth is faster than Best.
+ Depth = 41 || Best = 18 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  81     3     27.0
+   I 2 =  99     8     12.4
+   I 3 =  36     7      5.1
+   I 4 =  43     9      4.8
+   I 5 =  45    10      4.5
+   I 6 =  34     8      4.2
+   I 7 =  39    10      3.9
+   I 8 =  10     6      1.7
+   I 9 =   7     5      1.4
+   I10 =  11     9      1.2
+
+Breadth is faster than Best.
+ Depth = 95 || Best = 49 || Breath = 48
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  71     7     10.1
+   I 2 =  90    10      9.0
+   I 3 =  63     7      9.0
+   I 4 =  77     9      8.6
+   I 5 =  72    10      7.2
+   I 6 =  61     9      6.8
+   I 7 =  32     7      4.6
+   I 8 =  39    10      3.9
+   I 9 =  13     5      2.6
+   I10 =  13    10      1.3
+
+Breadth is faster than Best.
+ Depth = 41 || Best = 23 || Breath = 22
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  71     6     11.8
+   I 2 =  86     9      9.6
+   I 3 =  88    10      8.8
+   I 4 =  59     7      8.4
+   I 5 =  65    10      6.5
+   I 6 =  33     8      4.1
+   I 7 =  40    10      4.0
+   I 8 =  25     8      3.1
+   I 9 =  16     7      2.3
+   I10 =   4     3      1.3
+
+Breadth is faster than Best.
+ Depth = 115 || Best = 42 || Breath = 41
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  37     3     12.3
+   I 2 =  87     9      9.7
+   I 3 =  84     9      9.3
+   I 4 =  85    10      8.5
+   I 5 =  84    10      8.4
+   I 6 =  31     6      5.2
+   I 7 =  28    10      2.8
+   I 8 =   7     5      1.4
+   I 9 =  12     9      1.3
+   I10 =   9     7      1.3
+
+Breadth is faster than Best.
+ Depth = 115 || Best = 50 || Breath = 48
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  55     3     18.3
+   I 2 =  79     7     11.3
+   I 3 =  78     7     11.1
+   I 4 =  78     8      9.8
+   I 5 =  61     8      7.6
+   I 6 =  65     9      7.2
+   I 7 =  55     8      6.9
+   I 8 =  36     6      6.0
+   I 9 =  47     8      5.9
+   I10 =  57    10      5.7
+
+Breadth is faster than Best.
+ Depth = 93 || Best = 45 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  48     4     12.0
+   I 2 =  94    10      9.4
+   I 3 =  68     9      7.6
+   I 4 =  55     8      6.9
+   I 5 =  51     9      5.7
+   I 6 =  51     9      5.7
+   I 7 =  56    10      5.6
+   I 8 =  34     9      3.8
+   I 9 =  24     9      2.7
+   I10 =  18     9      2.0
+
+Breadth is faster than Best.
+ Depth = 61 || Best = 35 || Breath = 32
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  60     6     10.0
+   I 2 =  95    10      9.5
+   I 3 =  58     8      7.2
+   I 4 =  48     7      6.9
+   I 5 =  57     9      6.3
+   I 6 =  38     8      4.8
+   I 7 =  35     9      3.9
+   I 8 =  30     9      3.3
+   I 9 =  16     8      2.0
+   I10 =   6     4      1.5
+
+Breadth is faster than Best.
+ Depth = 201 || Best = 75 || Breath = 74
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  67     4     16.8
+   I 2 =  79     6     13.2
+   I 3 =  79     6     13.2
+   I 4 =  100     8     12.5
+   I 5 =  93     8     11.6
+   I 6 =  83     8     10.4
+   I 7 =  92     9     10.2
+   I 8 =  48     8      6.0
+   I 9 =  28     8      3.5
+   I10 =  10     8      1.2
+
+Breadth is faster than Best.
+ Depth = 71 || Best = 34 || Breath = 33
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  66     5     13.2
+   I 2 =  100     8     12.5
+   I 3 =  82     8     10.2
+   I 4 =  88    10      8.8
+   I 5 =  20     5      4.0
+   I 6 =  39    10      3.9
+   I 7 =  25     7      3.6
+   I 8 =  23     7      3.3
+   I 9 =  27     9      3.0
+   I10 =   7     3      2.3
+
+Breadth is faster than Best.
+ Depth = 93 || Best = 29 || Breath = 26
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  70     7     10.0
+   I 2 =  91    10      9.1
+   I 3 =  91    10      9.1
+   I 4 =  86    10      8.6
+   I 5 =  48     6      8.0
+   I 6 =  71    10      7.1
+   I 7 =  56     8      7.0
+   I 8 =  61     9      6.8
+   I 9 =  61    10      6.1
+   I10 =  38     8      4.8
+
+Breadth is faster than Best.
+ Depth = 69 || Best = 39 || Breath = 37
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  92     2     46.0
+   I 2 =  59     5     11.8
+   I 3 =  90     9     10.0
+   I 4 =  86     9      9.6
+   I 5 =  93    10      9.3
+   I 6 =  73     8      9.1
+   I 7 =  80     9      8.9
+   I 8 =  68    10      6.8
+   I 9 =  47     9      5.2
+   I10 =  20     4      5.0
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 20 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  91     6     15.2
+   I 2 =  85    10      8.5
+   I 3 =  59     8      7.4
+   I 4 =  64     9      7.1
+   I 5 =   6     1      6.0
+   I 6 =  23     6      3.8
+   I 7 =  36    10      3.6
+   I 8 =  22     7      3.1
+   I 9 =  23    10      2.3
+   I10 =  14     7      2.0
+
+Breadth is faster than Best.
+ Depth = 69 || Best = 46 || Breath = 39
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  48     5      9.6
+   I 2 =  75    10      7.5
+   I 3 =  74    10      7.4
+   I 4 =  71    10      7.1
+   I 5 =  63     9      7.0
+   I 6 =  46     7      6.6
+   I 7 =  51     8      6.4
+   I 8 =  59    10      5.9
+   I 9 =  16     5      3.2
+   I10 =  13     6      2.2
+
+Breadth is faster than Best.
+ Depth = 41 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  47     4     11.8
+   I 2 =  90     9     10.0
+   I 3 =  99    10      9.9
+   I 4 =  21     3      7.0
+   I 5 =  54     8      6.8
+   I 6 =  23     5      4.6
+   I 7 =  20     6      3.3
+   I 8 =  14     8      1.8
+   I 9 =  12     7      1.7
+   I10 =   3     2      1.5
+
+Breadth is faster than Best.
+ Depth = 59 || Best = 31 || Breath = 30
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  48     4     12.0
+   I 2 =  90    10      9.0
+   I 3 =  71     8      8.9
+   I 4 =  87    10      8.7
+   I 5 =  72    10      7.2
+   I 6 =  22     5      4.4
+   I 7 =  14     4      3.5
+   I 8 =  10     3      3.3
+   I 9 =  17     7      2.4
+   I10 =  15     9      1.7
+
+Breadth is faster than Best.
+ Depth = 131 || Best = 62 || Breath = 61
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  65     3     21.7
+   I 2 =  76     7     10.9
+   I 3 =  81     8     10.1
+   I 4 =  70     7     10.0
+   I 5 =  75     8      9.4
+   I 6 =  76    10      7.6
+   I 7 =  53     7      7.6
+   I 8 =  55    10      5.5
+   I 9 =  45     9      5.0
+   I10 =  17     8      2.1
+
+Breadth is faster than Best.
+ Depth = 29 || Best = 20 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  93    10      9.3
+   I 2 =  48     7      6.9
+   I 3 =  13     2      6.5
+   I 4 =  26     6      4.3
+   I 5 =  29     7      4.1
+   I 6 =   4     1      4.0
+   I 7 =  16     5      3.2
+   I 8 =  30    10      3.0
+   I 9 =  25    10      2.5
+   I10 =  17     7      2.4
+
+Breadth is faster than Best.
+ Depth = 79 || Best = 32 || Breath = 31
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  66     2     33.0
+   I 2 =  83     5     16.6
+   I 3 =  100     8     12.5
+   I 4 =  86     8     10.8
+   I 5 =  80     9      8.9
+   I 6 =  68     9      7.6
+   I 7 =  48     9      5.3
+   I 8 =  38    10      3.8
+   I 9 =  28     9      3.1
+   I10 =  11     8      1.4
+
+Breadth is faster than Best.
+ Depth = 163 || Best = 62 || Breath = 61
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  67     2     33.5
+   I 2 =  88     5     17.6
+   I 3 =  97     7     13.9
+   I 4 =  82     8     10.2
+   I 5 =  76     9      8.4
+   I 6 =  82    10      8.2
+   I 7 =  69    10      6.9
+   I 8 =  67    10      6.7
+   I 9 =  60    10      6.0
+   I10 =  52     9      5.8
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 21 || Breath = 20
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  97     2     48.5
+   I 2 =  98     5     19.6
+   I 3 =  51     7      7.3
+   I 4 =  43     9      4.8
+   I 5 =  13     3      4.3
+   I 6 =   7     2      3.5
+   I 7 =  24     7      3.4
+   I 8 =  27     9      3.0
+   I 9 =  24    10      2.4
+   I10 =  14    10      1.4
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 16 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  95     3     31.7
+   I 2 =  86     3     28.7
+   I 3 =  94     8     11.8
+   I 4 =  19     4      4.8
+   I 5 =  29     8      3.6
+   I 6 =  26     8      3.2
+   I 7 =  15     5      3.0
+   I 8 =  16     9      1.8
+   I 9 =   9     7      1.3
+   I10 =   9     7      1.3
+
+Breadth is faster than Best.
+ Depth = 103 || Best = 42 || Breath = 34
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  56     4     14.0
+   I 2 =  72     7     10.3
+   I 3 =  80    10      8.0
+   I 4 =  78    10      7.8
+   I 5 =  22     6      3.7
+   I 6 =  22     6      3.7
+   I 7 =  22     6      3.7
+   I 8 =  23     7      3.3
+   I 9 =  10     7      1.4
+   I10 =  10     8      1.2
+
+Breadth is faster than Best.
+ Depth = 63 || Best = 30 || Breath = 28
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  69     5     13.8
+   I 2 =  98     9     10.9
+   I 3 =  74     9      8.2
+   I 4 =  76    10      7.6
+   I 5 =  59     8      7.4
+   I 6 =  38    10      3.8
+   I 7 =  27     8      3.4
+   I 8 =  33    10      3.3
+   I 9 =   8     5      1.6
+   I10 =  13    10      1.3
+
+Breadth is faster than Best.
+ Depth = 117 || Best = 69 || Breath = 65
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  60     5     12.0
+   I 2 =  92    10      9.2
+   I 3 =  63     9      7.0
+   I 4 =  63     9      7.0
+   I 5 =  66    10      6.6
+   I 6 =  65    10      6.5
+   I 7 =  54    10      5.4
+   I 8 =  39    10      3.9
+   I 9 =   8     6      1.3
+   I10 =   7     6      1.2
+
+Breadth is faster than Best.
+ Depth = 57 || Best = 30 || Breath = 29
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  46     3     15.3
+   I 2 =  78    10      7.8
+   I 3 =  77    10      7.7
+   I 4 =  61     8      7.6
+   I 5 =  49    10      4.9
+   I 6 =  13     3      4.3
+   I 7 =  19     8      2.4
+   I 8 =  14     6      2.3
+   I 9 =  12     7      1.7
+   I10 =  13     8      1.6
+
+Breadth is faster than Best.
+ Depth = 159 || Best = 73 || Breath = 68
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  27     2     13.5
+   I 2 =  61     6     10.2
+   I 3 =  68     8      8.5
+   I 4 =  72     9      8.0
+   I 5 =  72     9      8.0
+   I 6 =  72     9      8.0
+   I 7 =  38     7      5.4
+   I 8 =  44    10      4.4
+   I 9 =  19     7      2.7
+   I10 =  20    10      2.0
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 28 || Breath = 27
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  99     9     11.0
+   I 2 =  60     8      7.5
+   I 3 =  61     9      6.8
+   I 4 =  57     9      6.3
+   I 5 =  31     6      5.2
+   I 6 =  31     7      4.4
+   I 7 =  20     6      3.3
+   I 8 =  18     6      3.0
+   I 9 =  12     9      1.3
+   I10 =   8     7      1.1
+
+Breadth is faster than Best.
+ Depth = 131 || Best = 87 || Breath = 85
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  26     1     26.0
+   I 2 =  65     3     21.7
+   I 3 =  86     9      9.6
+   I 4 =  89    10      8.9
+   I 5 =  87    10      8.7
+   I 6 =  85    10      8.5
+   I 7 =  83    10      8.3
+   I 8 =  66     9      7.3
+   I 9 =  23     6      3.8
+   I10 =  25     7      3.6
+
+Breadth is faster than Best.
+ Depth = 129 || Best = 48 || Breath = 45
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  51     2     25.5
+   I 2 =  76     6     12.7
+   I 3 =  86     7     12.3
+   I 4 =  77     9      8.6
+   I 5 =  66     8      8.2
+   I 6 =  72     9      8.0
+   I 7 =  67     9      7.4
+   I 8 =  51     9      5.7
+   I 9 =  25    10      2.5
+   I10 =  15     9      1.7
+
+Breadth is faster than Best.
+ Depth = 85 || Best = 33 || Breath = 27
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  57     5     11.4
+   I 2 =  89    10      8.9
+   I 3 =  78    10      7.8
+   I 4 =  76    10      7.6
+   I 5 =  75    10      7.5
+   I 6 =  59     8      7.4
+   I 7 =  23     6      3.8
+   I 8 =  25     7      3.6
+   I 9 =  24     9      2.7
+   I10 =  15     6      2.5
+
+Breadth is faster than Best.
+ Depth = 39 || Best = 16 || Breath = 14
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  69     5     13.8
+   I 2 =  97    10      9.7
+   I 3 =  95    10      9.5
+   I 4 =  95    10      9.5
+   I 5 =  49     6      8.2
+   I 6 =  50    10      5.0
+   I 7 =  41    10      4.1
+   I 8 =  20     5      4.0
+   I 9 =  27     9      3.0
+   I10 =  13     7      1.9
+
+Breadth is faster than Best.
+ Depth = 65 || Best = 29 || Breath = 26
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  15     1     15.0
+   I 2 =  56     6      9.3
+   I 3 =  68     9      7.6
+   I 4 =  23     7      3.3
+   I 5 =  23     8      2.9
+   I 6 =  21     9      2.3
+   I 7 =  21     9      2.3
+   I 8 =  18     8      2.2
+   I 9 =  11     9      1.2
+   I10 =  10     9      1.1
+
+Breadth is faster than Best.
+ Depth = 81 || Best = 55 || Breath = 52
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  53     1     53.0
+   I 2 =  98     7     14.0
+   I 3 =  84     7     12.0
+   I 4 =  83     8     10.4
+   I 5 =  76     8      9.5
+   I 6 =  79     9      8.8
+   I 7 =  64     9      7.1
+   I 8 =  56     9      6.2
+   I 9 =  59    10      5.9
+   I10 =  21     5      4.2
+
+Breadth is faster than Best.
+ Depth = 71 || Best = 23 || Breath = 22
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  60     7      8.6
+   I 2 =  75    10      7.5
+   I 3 =  74    10      7.4
+   I 4 =  72    10      7.2
+   I 5 =  41     6      6.8
+   I 6 =  44     8      5.5
+   I 7 =  21     6      3.5
+   I 8 =  21     7      3.0
+   I 9 =  17     6      2.8
+   I10 =  24     9      2.7
+
+Breadth is faster than Best.
+ Depth = 69 || Best = 34 || Breath = 32
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  97    10      9.7
+   I 2 =  76     8      9.5
+   I 3 =  47     6      7.8
+   I 4 =  46     7      6.6
+   I 5 =  38     7      5.4
+   I 6 =  51    10      5.1
+   I 7 =  50    10      5.0
+   I 8 =  26     9      2.9
+   I 9 =  21     8      2.6
+   I10 =  18    10      1.8
+
+Breadth is faster than Best.
+ Depth = 189 || Best = 109 || Breath = 105
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  35     2     17.5
+   I 2 =  81     5     16.2
+   I 3 =  98     9     10.9
+   I 4 =  98     9     10.9
+   I 5 =  86     8     10.8
+   I 6 =  92     9     10.2
+   I 7 =  98    10      9.8
+   I 8 =  65     8      8.1
+   I 9 =  70    10      7.0
+   I10 =   6     2      3.0
+
+Breadth is faster than Best.
+ Depth = 139 || Best = 67 || Breath = 65
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  33     3     11.0
+   I 2 =  68     7      9.7
+   I 3 =  65     7      9.3
+   I 4 =  78     9      8.7
+   I 5 =  76     9      8.4
+   I 6 =  70     9      7.8
+   I 7 =  33     5      6.6
+   I 8 =  27     5      5.4
+   I 9 =  37     9      4.1
+   I10 =  33     9      3.7
+
+Breadth is faster than Best.
+ Depth = 259 || Best = 100 || Breath = 94
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  70     3     23.3
+   I 2 =  95     7     13.6
+   I 3 =  95     7     13.6
+   I 4 =  73     6     12.2
+   I 5 =  94     8     11.8
+   I 6 =  91     8     11.4
+   I 7 =  97     9     10.8
+   I 8 =  84    10      8.4
+   I 9 =  47     8      5.9
+   I10 =  38     8      4.8
+
+Breadth is faster than Best.
+ Depth = 73 || Best = 41 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  68     2     34.0
+   I 2 =  100     7     14.3
+   I 3 =  95     7     13.6
+   I 4 =  89     7     12.7
+   I 5 =  11     1     11.0
+   I 6 =  95     9     10.6
+   I 7 =  58    10      5.8
+   I 8 =  25     7      3.6
+   I 9 =  10     4      2.5
+   I10 =   7     6      1.2
+
+Breadth is faster than Best.
+ Depth = 29 || Best = 18 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  98     8     12.2
+   I 2 =  85     7     12.1
+   I 3 =  57     5     11.4
+   I 4 =  40     8      5.0
+   I 5 =  39     8      4.9
+   I 6 =  44    10      4.4
+   I 7 =  34     8      4.2
+   I 8 =  35     9      3.9
+   I 9 =  14     7      2.0
+   I10 =   4     2      2.0
+
+Breadth is faster than Best.
+ Depth = 119 || Best = 51 || Breath = 48
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  61     2     30.5
+   I 2 =  85     6     14.2
+   I 3 =  84     6     14.0
+   I 4 =  100     9     11.1
+   I 5 =  77     9      8.6
+   I 6 =  77     9      8.6
+   I 7 =  72     9      8.0
+   I 8 =  59     9      6.6
+   I 9 =  35     8      4.4
+   I10 =  10     9      1.1
+
+Breadth is faster than Best.
+ Depth = 91 || Best = 37 || Breath = 36
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  43     1     43.0
+   I 2 =  98    10      9.8
+   I 3 =  95    10      9.5
+   I 4 =  87    10      8.7
+   I 5 =  74    10      7.4
+   I 6 =  73    10      7.3
+   I 7 =  27     4      6.8
+   I 8 =  66    10      6.6
+   I 9 =   8     2      4.0
+   I10 =  34    10      3.4
+
+Breadth is faster than Best.
+ Depth = 195 || Best = 61 || Breath = 57
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  61     3     20.3
+   I 2 =  92     7     13.1
+   I 3 =  91     7     13.0
+   I 4 =  99     8     12.4
+   I 5 =  98     8     12.2
+   I 6 =  92     8     11.5
+   I 7 =  76     8      9.5
+   I 8 =  81     9      9.0
+   I 9 =  41     8      5.1
+   I10 =  28    10      2.8
+
+Breadth is faster than Best.
+ Depth = 41 || Best = 20 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  91     1     91.0
+   I 2 =  95     5     19.0
+   I 3 =  79     7     11.3
+   I 4 =  65    10      6.5
+   I 5 =   4     1      4.0
+   I 6 =   3     1      3.0
+   I 7 =  18     7      2.6
+   I 8 =  23     9      2.6
+   I 9 =  15     7      2.1
+   I10 =  21    10      2.1
+
+Breadth is faster than Best.
+ Depth = 25 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  93     5     18.6
+   I 2 =  96     9     10.7
+   I 3 =  32     6      5.3
+   I 4 =  10     3      3.3
+   I 5 =  25     8      3.1
+   I 6 =   3     1      3.0
+   I 7 =  17     6      2.8
+   I 8 =  13     6      2.2
+   I 9 =  18     9      2.0
+   I10 =  13    10      1.3
+
+Breadth is faster than Best.
+ Depth = 193 || Best = 97 || Breath = 95
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  19     1     19.0
+   I 2 =  73     4     18.2
+   I 3 =  88     9      9.8
+   I 4 =  79     9      8.8
+   I 5 =  79    10      7.9
+   I 6 =  70     9      7.8
+   I 7 =  72    10      7.2
+   I 8 =  69    10      6.9
+   I 9 =  30     9      3.3
+   I10 =  11     9      1.2
+
+Breadth is faster than Best.
+ Depth = 39 || Best = 17 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  74     1     74.0
+   I 2 =  100     9     11.1
+   I 3 =  67    10      6.7
+   I 4 =  32     6      5.3
+   I 5 =  41     9      4.6
+   I 6 =  45    10      4.5
+   I 7 =  29     8      3.6
+   I 8 =   7     2      3.5
+   I 9 =  30    10      3.0
+   I10 =  24     9      2.7
+
+Breadth is faster than Best.
+ Depth = 103 || Best = 45 || Breath = 44
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  64     8      8.0
+   I 2 =  77    10      7.7
+   I 3 =  23     3      7.7
+   I 4 =  69    10      6.9
+   I 5 =  68    10      6.8
+   I 6 =  66    10      6.6
+   I 7 =  23     4      5.8
+   I 8 =  35     8      4.4
+   I 9 =  15     4      3.8
+   I10 =   8     4      2.0
+
+Breadth is faster than Best.
+ Depth = 41 || Best = 27 || Breath = 26
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  47     4     11.8
+   I 2 =  86     9      9.6
+   I 3 =  94    10      9.4
+   I 4 =  87    10      8.7
+   I 5 =  79    10      7.9
+   I 6 =  31     7      4.4
+   I 7 =  11     4      2.8
+   I 8 =  18     8      2.2
+   I 9 =  18     9      2.0
+   I10 =  11     6      1.8
+
+Breadth is faster than Best.
+ Depth = 93 || Best = 53 || Breath = 46
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  33     1     33.0
+   I 2 =  68     3     22.7
+   I 3 =  88     9      9.8
+   I 4 =  92    10      9.2
+   I 5 =  91    10      9.1
+   I 6 =  87    10      8.7
+   I 7 =  61    10      6.1
+   I 8 =  37     9      4.1
+   I 9 =  25     9      2.8
+   I10 =  13     6      2.2
+
+Breadth is faster than Best.
+ Depth = 87 || Best = 42 || Breath = 35
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  78     7     11.1
+   I 2 =  94    10      9.4
+   I 3 =  89    10      8.9
+   I 4 =  86    10      8.6
+   I 5 =  85    10      8.5
+   I 6 =  65     9      7.2
+   I 7 =  60     9      6.7
+   I 8 =  28     5      5.6
+   I 9 =  25     9      2.8
+   I10 =  13    10      1.3
+
+Breadth is faster than Best.
+ Depth = 25 || Best = 13 || Breath = 12
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  87     8     10.9
+   I 2 =  54     8      6.8
+   I 3 =  58    10      5.8
+   I 4 =   9     2      4.5
+   I 5 =  30     9      3.3
+   I 6 =  13     4      3.2
+   I 7 =  13     5      2.6
+   I 8 =  16     8      2.0
+   I 9 =  16     8      2.0
+   I10 =  11     9      1.2
+
+Breadth is faster than Best.
+ Depth = 113 || Best = 47 || Breath = 46
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  85     6     14.2
+   I 2 =  99     9     11.0
+   I 3 =  99    10      9.9
+   I 4 =  95    10      9.5
+   I 5 =  86    10      8.6
+   I 6 =  75    10      7.5
+   I 7 =  50     7      7.1
+   I 8 =  38     6      6.3
+   I 9 =  22     7      3.1
+   I10 =  14    10      1.4
+
+Breadth is faster than Best.
+ Depth = 59 || Best = 25 || Breath = 24
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  84     7     12.0
+   I 2 =  71     6     11.8
+   I 3 =  97    10      9.7
+   I 4 =  88    10      8.8
+   I 5 =  24     4      6.0
+   I 6 =  59    10      5.9
+   I 7 =  22     5      4.4
+   I 8 =  13     7      1.9
+   I 9 =  11     9      1.2
+   I10 =  10     9      1.1
+
+Breadth is faster than Best.
+ Depth = 45 || Best = 26 || Breath = 22
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  54     5     10.8
+   I 2 =  85    10      8.5
+   I 3 =  67     9      7.4
+   I 4 =  65     9      7.2
+   I 5 =  41     7      5.9
+   I 6 =  14     3      4.7
+   I 7 =  29     9      3.2
+   I 8 =  19     7      2.7
+   I 9 =  21     9      2.3
+   I10 =   6     3      2.0
+
+Breadth is faster than Best.
+ Depth = 31 || Best = 12 || Breath = 11
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  100    10     10.0
+   I 2 =  91    10      9.1
+   I 3 =  49     7      7.0
+   I 4 =  63    10      6.3
+   I 5 =   5     1      5.0
+   I 6 =  43     9      4.8
+   I 7 =  45    10      4.5
+   I 8 =  30     9      3.3
+   I 9 =   3     1      3.0
+   I10 =  17     8      2.1
+
+Breadth is faster than Best.
+ Depth = 53 || Best = 26 || Breath = 25
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  84     4     21.0
+   I 2 =  100    10     10.0
+   I 3 =  97    10      9.7
+   I 4 =  96    10      9.6
+   I 5 =  66     8      8.2
+   I 6 =  46     9      5.1
+   I 7 =  40     8      5.0
+   I 8 =  15     7      2.1
+   I 9 =   2     1      2.0
+   I10 =   6     5      1.2
+
+Breadth is faster than Best.
+ Depth = 59 || Best = 25 || Breath = 23
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  63     5     12.6
+   I 2 =  88    10      8.8
+   I 3 =  80    10      8.0
+   I 4 =  76    10      7.6
+   I 5 =  51     9      5.7
+   I 6 =  49     9      5.4
+   I 7 =  31     7      4.4
+   I 8 =  24     7      3.4
+   I 9 =  23     8      2.9
+   I10 =   9     7      1.3
+
+Breadth is faster than Best.
+ Depth = 105 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  54     5     10.8
+   I 2 =  87    10      8.7
+   I 3 =  87    10      8.7
+   I 4 =  82    10      8.2
+   I 5 =  73    10      7.3
+   I 6 =  43     7      6.1
+   I 7 =   6     1      6.0
+   I 8 =  41     9      4.6
+   I 9 =  25     7      3.6
+   I10 =  23     9      2.6
+
+Breadth is faster than Best.
+ Depth = 91 || Best = 36 || Breath = 31
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  68     4     17.0
+   I 2 =  86    10      8.6
+   I 3 =  83    10      8.3
+   I 4 =  83    10      8.3
+   I 5 =  58     7      8.3
+   I 6 =  57    10      5.7
+   I 7 =  28     7      4.0
+   I 8 =  26     9      2.9
+   I 9 =  16     8      2.0
+   I10 =  15    10      1.5
+
+Breadth is faster than Best.
+ Depth = 95 || Best = 52 || Breath = 51
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =   8     1      8.0
+   I 2 =  48     7      6.9
+   I 3 =  54     8      6.8
+   I 4 =  59     9      6.6
+   I 5 =  42     7      6.0
+   I 6 =  42    10      4.2
+   I 7 =  33     8      4.1
+   I 8 =  37    10      3.7
+   I 9 =  24    10      2.4
+   I10 =   4     3      1.3
+
+Breadth is faster than Best.
+ Depth = 115 || Best = 41 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  77     6     12.8
+   I 2 =  54     5     10.8
+   I 3 =  49     5      9.8
+   I 4 =  91    10      9.1
+   I 5 =  88    10      8.8
+   I 6 =  51     7      7.3
+   I 7 =  37     6      6.2
+   I 8 =  34     6      5.7
+   I 9 =  22     5      4.4
+   I10 =  14     7      2.0
+
+Breadth is faster than Best.
+ Depth = 153 || Best = 71 || Breath = 68
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  58     4     14.5
+   I 2 =  92    10      9.2
+   I 3 =  80     9      8.9
+   I 4 =  88    10      8.8
+   I 5 =  78     9      8.7
+   I 6 =  77    10      7.7
+   I 7 =  61     9      6.8
+   I 8 =  63    10      6.3
+   I 9 =  20     7      2.9
+   I10 =  28    10      2.8
+
+Breadth is faster than Best.
+ Depth = 67 || Best = 37 || Breath = 36
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  61     4     15.2
+   I 2 =  87    10      8.7
+   I 3 =  85    10      8.5
+   I 4 =  76     9      8.4
+   I 5 =  68    10      6.8
+   I 6 =  58     9      6.4
+   I 7 =  15     5      3.0
+   I 8 =  14     7      2.0
+   I 9 =  20    10      2.0
+   I10 =  11    10      1.1
+
+Breadth is faster than Best.
+ Depth = 15 || Best = 10 || Breath = 9
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  97    10      9.7
+   I 2 =  69    10      6.9
+   I 3 =  31     7      4.4
+   I 4 =  38    10      3.8
+   I 5 =  35    10      3.5
+   I 6 =  23     9      2.6
+   I 7 =   7     3      2.3
+   I 8 =  22    10      2.2
+   I 9 =  16     9      1.8
+   I10 =  10     9      1.1
+
+Breadth is faster than Best.
+ Depth = 55 || Best = 23 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  66     6     11.0
+   I 2 =  91    10      9.1
+   I 3 =  84    10      8.4
+   I 4 =  74    10      7.4
+   I 5 =  57     8      7.1
+   I 6 =  48     9      5.3
+   I 7 =  51    10      5.1
+   I 8 =  27     9      3.0
+   I 9 =  18     6      3.0
+   I10 =  10     9      1.1
+
+Breadth is faster than Best.
+ Depth = 65 || Best = 35 || Breath = 33
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  92     7     13.1
+   I 2 =  98     9     10.9
+   I 3 =  86     8     10.8
+   I 4 =  83     9      9.2
+   I 5 =  52     7      7.4
+   I 6 =  45     7      6.4
+   I 7 =  57    10      5.7
+   I 8 =  44     8      5.5
+   I 9 =  32     8      4.0
+   I10 =  11     9      1.2
+
+Breadth is faster than Best.
+ Depth = 65 || Best = 33 || Breath = 32
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  45     4     11.2
+   I 2 =  98    10      9.8
+   I 3 =  68     9      7.6
+   I 4 =  55     8      6.9
+   I 5 =  58     9      6.4
+   I 6 =  45    10      4.5
+   I 7 =   8     2      4.0
+   I 8 =  32    10      3.2
+   I 9 =  18     6      3.0
+   I10 =  17     8      2.1
+
+Breadth is faster than Best.
+ Depth = 99 || Best = 53 || Breath = 51
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  66     5     13.2
+   I 2 =  79     9      8.8
+   I 3 =  80    10      8.0
+   I 4 =  65     9      7.2
+   I 5 =  69    10      6.9
+   I 6 =  50     8      6.2
+   I 7 =  34     8      4.2
+   I 8 =  33     9      3.7
+   I 9 =  16     7      2.3
+   I10 =  11    10      1.1
+
+Breadth is faster than Best.
+ Depth = 41 || Best = 20 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  87     2     43.5
+   I 2 =  96     9     10.7
+   I 3 =  60     6     10.0
+   I 4 =  53     6      8.8
+   I 5 =   4     1      4.0
+   I 6 =   9     3      3.0
+   I 7 =  20     7      2.9
+   I 8 =  28    10      2.8
+   I 9 =  19     9      2.1
+   I10 =  12     7      1.7
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 23 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  89     5     17.8
+   I 2 =  96     6     16.0
+   I 3 =  33     6      5.5
+   I 4 =  39     8      4.9
+   I 5 =  47    10      4.7
+   I 6 =  41     9      4.6
+   I 7 =  18     6      3.0
+   I 8 =  23    10      2.3
+   I 9 =  18     9      2.0
+   I10 =   6     3      2.0
+
+Breadth is faster than Best.
+ Depth = 95 || Best = 41 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  60     5     12.0
+   I 2 =  34     3     11.3
+   I 3 =  85     9      9.4
+   I 4 =  91    10      9.1
+   I 5 =  72     8      9.0
+   I 6 =  80     9      8.9
+   I 7 =  59    10      5.9
+   I 8 =  41     9      4.6
+   I 9 =  44    10      4.4
+   I10 =  21     9      2.3
+
+Breadth is faster than Best.
+ Depth = 31 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  69     5     13.8
+   I 2 =  67     5     13.4
+   I 3 =  65     9      7.2
+   I 4 =  24     5      4.8
+   I 5 =  12     3      4.0
+   I 6 =  29     8      3.6
+   I 7 =  25     8      3.1
+   I 8 =  16     7      2.3
+   I 9 =  15     9      1.7
+   I10 =   8     6      1.3
+
+Breadth is faster than Best.
+ Depth = 71 || Best = 36 || Breath = 34
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  81     5     16.2
+   I 2 =  13     1     13.0
+   I 3 =  97     9     10.8
+   I 4 =  97    10      9.7
+   I 5 =  91    10      9.1
+   I 6 =  72    10      7.2
+   I 7 =  36     8      4.5
+   I 8 =  30    10      3.0
+   I 9 =   5     3      1.7
+   I10 =   8     7      1.1
+
+Breadth is faster than Best.
+ Depth = 71 || Best = 41 || Breath = 39
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  71     6     11.8
+   I 2 =  80     7     11.4
+   I 3 =  97    10      9.7
+   I 4 =  69     9      7.7
+   I 5 =  67     9      7.4
+   I 6 =  56    10      5.6
+   I 7 =  42     8      5.2
+   I 8 =  47     9      5.2
+   I 9 =  39    10      3.9
+   I10 =  11     4      2.8
+
+Breadth is faster than Best.
+ Depth = 127 || Best = 50 || Breath = 48
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  83     2     41.5
+   I 2 =  39     3     13.0
+   I 3 =  78     8      9.8
+   I 4 =  84     9      9.3
+   I 5 =  93    10      9.3
+   I 6 =  83     9      9.2
+   I 7 =  75     9      8.3
+   I 8 =  71    10      7.1
+   I 9 =  15     8      1.9
+   I10 =  10     7      1.4
+
+Breadth is faster than Best.
+ Depth = 91 || Best = 44 || Breath = 42
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  21     1     21.0
+   I 2 =  64     7      9.1
+   I 3 =  81     9      9.0
+   I 4 =  72     8      9.0
+   I 5 =  69     8      8.6
+   I 6 =  43     7      6.1
+   I 7 =  45    10      4.5
+   I 8 =  35    10      3.5
+   I 9 =  17     7      2.4
+   I10 =  13    10      1.3
+
+Breadth is faster than Best.
+ Depth = 27 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  70     4     17.5
+   I 2 =  89     8     11.1
+   I 3 =  47     6      7.8
+   I 4 =  29     7      4.1
+   I 5 =  23     6      3.8
+   I 6 =  38    10      3.8
+   I 7 =  28    10      2.8
+   I 8 =  13     5      2.6
+   I 9 =  16     8      2.0
+   I10 =   4     2      2.0
+
+Breadth is faster than Best.
+ Depth = 55 || Best = 31 || Breath = 30
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  37     3     12.3
+   I 2 =  82     9      9.1
+   I 3 =  88    10      8.8
+   I 4 =  78     9      8.7
+   I 5 =  76    10      7.6
+   I 6 =  47    10      4.7
+   I 7 =  30     8      3.8
+   I 8 =  33    10      3.3
+   I 9 =   6     3      2.0
+   I10 =   6     3      2.0
+
+Breadth is faster than Best.
+ Depth = 117 || Best = 45 || Breath = 44
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  73     2     36.5
+   I 2 =  98     7     14.0
+   I 3 =  84     7     12.0
+   I 4 =  92     8     11.5
+   I 5 =  88     8     11.0
+   I 6 =  88    10      8.8
+   I 7 =  51     8      6.4
+   I 8 =  37     9      4.1
+   I 9 =  22    10      2.2
+   I10 =  17     8      2.1
+
+Breadth is faster than Best.
+ Depth = 123 || Best = 48 || Breath = 45
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  45     3     15.0
+   I 2 =  61     6     10.2
+   I 3 =  66     8      8.2
+   I 4 =  57     8      7.1
+   I 5 =  54     8      6.8
+   I 6 =  58     9      6.4
+   I 7 =  45     9      5.0
+   I 8 =  45     9      5.0
+   I 9 =  35     9      3.9
+   I10 =  15    10      1.5
+
+Breadth is faster than Best.
+ Depth = 267 || Best = 114 || Breath = 113
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  71     2     35.5
+   I 2 =  89     6     14.8
+   I 3 =  82     7     11.7
+   I 4 =  84     8     10.5
+   I 5 =  73     8      9.1
+   I 6 =  81     9      9.0
+   I 7 =  81     9      9.0
+   I 8 =  68     9      7.6
+   I 9 =  57     8      7.1
+   I10 =  40     8      5.0
+
+Breadth is faster than Best.
+ Depth = 179 || Best = 50 || Breath = 44
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  69     6     11.5
+   I 2 =  82     8     10.2
+   I 3 =  100    10     10.0
+   I 4 =  97    10      9.7
+   I 5 =  87     9      9.7
+   I 6 =  76     8      9.5
+   I 7 =  11     2      5.5
+   I 8 =  54    10      5.4
+   I 9 =  46     9      5.1
+   I10 =  45     9      5.0
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 27 || Breath = 24
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  70     7     10.0
+   I 2 =  74     8      9.2
+   I 3 =  90    10      9.0
+   I 4 =  72     8      9.0
+   I 5 =  39     8      4.9
+   I 6 =  34     7      4.9
+   I 7 =  11     3      3.7
+   I 8 =  31     9      3.4
+   I 9 =  22    10      2.2
+   I10 =  14     7      2.0
+
+Breadth is faster than Best.
+ Depth = 69 || Best = 34 || Breath = 32
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  57     7      8.1
+   I 2 =  72    10      7.2
+   I 3 =  48     7      6.9
+   I 4 =  59     9      6.6
+   I 5 =  55    10      5.5
+   I 6 =  25     7      3.6
+   I 7 =  23    10      2.3
+   I 8 =  13     7      1.9
+   I 9 =  14     9      1.6
+   I10 =  12     9      1.3
+
+Breadth is faster than Best.
+ Depth = 87 || Best = 43 || Breath = 42
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  37     1     37.0
+   I 2 =  98     3     32.7
+   I 3 =  71     7     10.1
+   I 4 =  92    10      9.2
+   I 5 =  89    10      8.9
+   I 6 =  85    10      8.5
+   I 7 =  78    10      7.8
+   I 8 =  67    10      6.7
+   I 9 =  40     8      5.0
+   I10 =  43     9      4.8
+
+Breadth is faster than Best.
+ Depth = 191 || Best = 91 || Breath = 87
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  76     2     38.0
+   I 2 =  84     4     21.0
+   I 3 =  91     7     13.0
+   I 4 =  92     9     10.2
+   I 5 =  85     9      9.4
+   I 6 =   9     1      9.0
+   I 7 =  78    10      7.8
+   I 8 =  78    10      7.8
+   I 9 =  58     9      6.4
+   I10 =  32     9      3.6
+
+Breadth is faster than Best.
+ Depth = 133 || Best = 64 || Breath = 63
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  77     6     12.8
+   I 2 =  12     1     12.0
+   I 3 =  90     9     10.0
+   I 4 =  83     9      9.2
+   I 5 =  81     9      9.0
+   I 6 =   8     1      8.0
+   I 7 =  45     7      6.4
+   I 8 =  34     7      4.9
+   I 9 =  17     8      2.1
+   I10 =   9     8      1.1
+
+Breadth is faster than Best.
+ Depth = 49 || Best = 37 || Breath = 34
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  87     7     12.4
+   I 2 =  71     7     10.1
+   I 3 =  71     7     10.1
+   I 4 =  91    10      9.1
+   I 5 =  86    10      8.6
+   I 6 =  45     9      5.0
+   I 7 =  42    10      4.2
+   I 8 =  17     5      3.4
+   I 9 =  22    10      2.2
+   I10 =  11    10      1.1
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  73     5     14.6
+   I 2 =  87     8     10.9
+   I 3 =  60     9      6.7
+   I 4 =  26     5      5.2
+   I 5 =  25     5      5.0
+   I 6 =  33     8      4.1
+   I 7 =  36    10      3.6
+   I 8 =  14     4      3.5
+   I 9 =  16     6      2.7
+   I10 =  13     7      1.9
+
+Breadth is faster than Best.
+ Depth = 113 || Best = 46 || Breath = 45
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  88     2     44.0
+   I 2 =  55     4     13.8
+   I 3 =  79     8      9.9
+   I 4 =  79     8      9.9
+   I 5 =  94    10      9.4
+   I 6 =  92    10      9.2
+   I 7 =  81    10      8.1
+   I 8 =  12     3      4.0
+   I 9 =   6     2      3.0
+   I10 =  26    10      2.6
+
+Breadth is faster than Best.
+ Depth = 29 || Best = 15 || Breath = 14
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  100     9     11.1
+   I 2 =  94    10      9.4
+   I 3 =  29     4      7.2
+   I 4 =  50     9      5.6
+   I 5 =  10     2      5.0
+   I 6 =  47    10      4.7
+   I 7 =  30     7      4.3
+   I 8 =  32     9      3.6
+   I 9 =  15     6      2.5
+   I10 =  17     9      1.9
+
+Breadth is faster than Best.
+ Depth = 77 || Best = 34 || Breath = 33
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  55     5     11.0
+   I 2 =  94    10      9.4
+   I 3 =  91    10      9.1
+   I 4 =  69     8      8.6
+   I 5 =  69     8      8.6
+   I 6 =  40     9      4.4
+   I 7 =  32     9      3.6
+   I 8 =  26     9      2.9
+   I 9 =  23    10      2.3
+   I10 =  12     9      1.3
+
+Breadth is faster than Best.
+ Depth = 31 || Best = 16 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  82     3     27.3
+   I 2 =  100    10     10.0
+   I 3 =  40    10      4.0
+   I 4 =  33     9      3.7
+   I 5 =  22     8      2.8
+   I 6 =   8     3      2.7
+   I 7 =  18     8      2.2
+   I 8 =  22    10      2.2
+   I 9 =  13     7      1.9
+   I10 =  13    10      1.3
+
+Breadth is faster than Best.
+ Depth = 65 || Best = 30 || Breath = 28
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  49     6      8.2
+   I 2 =  69    10      6.9
+   I 3 =  62    10      6.2
+   I 4 =  43     7      6.1
+   I 5 =  52    10      5.2
+   I 6 =  38     9      4.2
+   I 7 =  29     9      3.2
+   I 8 =  22     8      2.8
+   I 9 =  22    10      2.2
+   I10 =  17    10      1.7
+
+Breadth is faster than Best.
+ Depth = 29 || Best = 13 || Breath = 12
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  100    10     10.0
+   I 2 =  92    10      9.2
+   I 3 =  47     6      7.8
+   I 4 =  66    10      6.6
+   I 5 =  12     2      6.0
+   I 6 =  47    10      4.7
+   I 7 =  30     7      4.3
+   I 8 =  25     7      3.6
+   I 9 =  20    10      2.0
+   I10 =  13     9      1.4
+
+Breadth is faster than Best.
+ Depth = 187 || Best = 97 || Breath = 96
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  89     7     12.7
+   I 2 =  93     9     10.3
+   I 3 =  90     9     10.0
+   I 4 =  98    10      9.8
+   I 5 =  54     6      9.0
+   I 6 =  90    10      9.0
+   I 7 =  85    10      8.5
+   I 8 =  72    10      7.2
+   I 9 =  11     5      2.2
+   I10 =  12     6      2.0
+
+Breadth is faster than Best.
+ Depth = 19 || Best = 14 || Breath = 13
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  98     9     10.9
+   I 2 =  81     9      9.0
+   I 3 =  50     7      7.1
+   I 4 =  60    10      6.0
+   I 5 =   9     2      4.5
+   I 6 =  36     9      4.0
+   I 7 =  34    10      3.4
+   I 8 =  10     3      3.3
+   I 9 =  26     9      2.9
+   I10 =  12     8      1.5
+
+Breadth is faster than Best.
+ Depth = 111 || Best = 48 || Breath = 47
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  94     2     47.0
+   I 2 =  73     7     10.4
+   I 3 =  83    10      8.3
+   I 4 =  45     6      7.5
+   I 5 =  43     6      7.2
+   I 6 =  39     6      6.5
+   I 7 =  42     7      6.0
+   I 8 =  33     6      5.5
+   I 9 =  25     7      3.6
+   I10 =  23     8      2.9
+
+Breadth is faster than Best.
+ Depth = 87 || Best = 36 || Breath = 35
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  83     3     27.7
+   I 2 =  42     3     14.0
+   I 3 =  58     7      8.3
+   I 4 =  72    10      7.2
+   I 5 =  70    10      7.0
+   I 6 =  62     9      6.9
+   I 7 =  59     9      6.6
+   I 8 =   7     2      3.5
+   I 9 =  26     9      2.9
+   I10 =   4     3      1.3
+
+Breadth is faster than Best.
+ Depth = 37 || Best = 20 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  70     3     23.3
+   I 2 =  99     9     11.0
+   I 3 =  72     9      8.0
+   I 4 =  18     5      3.6
+   I 5 =  21     6      3.5
+   I 6 =  33    10      3.3
+   I 7 =  26     9      2.9
+   I 8 =  21     8      2.6
+   I 9 =  14     6      2.3
+   I10 =  10     7      1.4
+
+Breadth is faster than Best.
+ Depth = 135 || Best = 51 || Breath = 46
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  54     1     54.0
+   I 2 =  73     6     12.2
+   I 3 =  69     7      9.9
+   I 4 =  75     8      9.4
+   I 5 =  77     9      8.6
+   I 6 =  77     9      8.6
+   I 7 =  51     9      5.7
+   I 8 =  18    10      1.8
+   I 9 =  14     9      1.6
+   I10 =  10     9      1.1
+
+Breadth is faster than Best.
+ Depth = 61 || Best = 39 || Breath = 37
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  53     3     17.7
+   I 2 =  98    10      9.8
+   I 3 =  96    10      9.6
+   I 4 =  80     9      8.9
+   I 5 =  83    10      8.3
+   I 6 =  76    10      7.6
+   I 7 =  48     8      6.0
+   I 8 =  21     4      5.2
+   I 9 =  39     8      4.9
+   I10 =  11     4      2.8
+
+Breadth is faster than Best.
+ Depth = 59 || Best = 31 || Breath = 28
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  27     1     27.0
+   I 2 =  89    10      8.9
+   I 3 =  83    10      8.3
+   I 4 =  80    10      8.0
+   I 5 =  79    10      7.9
+   I 6 =  38     5      7.6
+   I 7 =  50     9      5.6
+   I 8 =  34    10      3.4
+   I 9 =  26     8      3.2
+   I10 =  21     8      2.6
+
+Breadth is faster than Best.
+ Depth = 105 || Best = 47 || Breath = 46
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  73     4     18.2
+   I 2 =  63     4     15.8
+   I 3 =  83     8     10.4
+   I 4 =  81     8     10.1
+   I 5 =  91    10      9.1
+   I 6 =  78     9      8.7
+   I 7 =  74     9      8.2
+   I 8 =  56     8      7.0
+   I 9 =  51     9      5.7
+   I10 =  11     5      2.2
+
+Breadth is faster than Best.
+ Depth = 33 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  87     1     87.0
+   I 2 =  93     4     23.2
+   I 3 =  81     9      9.0
+   I 4 =  47     9      5.2
+   I 5 =  18     4      4.5
+   I 6 =  15     4      3.8
+   I 7 =  25     7      3.6
+   I 8 =  31     9      3.4
+   I 9 =  17     6      2.8
+   I10 =  15     7      2.1
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 19 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  97     6     16.2
+   I 2 =  91     8     11.4
+   I 3 =  35     5      7.0
+   I 4 =  15     4      3.8
+   I 5 =   3     1      3.0
+   I 6 =  29    10      2.9
+   I 7 =  22     8      2.8
+   I 8 =  25    10      2.5
+   I 9 =   9     4      2.2
+   I10 =   7     6      1.2
+
+Breadth is faster than Best.
+ Depth = 113 || Best = 38 || Breath = 35
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  77     5     15.4
+   I 2 =  57     6      9.5
+   I 3 =  45     5      9.0
+   I 4 =  84    10      8.4
+   I 5 =  84    10      8.4
+   I 6 =  57     7      8.1
+   I 7 =  40     5      8.0
+   I 8 =  70    10      7.0
+   I 9 =  66    10      6.6
+   I10 =  28    10      2.8
+
+Breadth is faster than Best.
+ Depth = 107 || Best = 54 || Breath = 53
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  99     9     11.0
+   I 2 =  81    10      8.1
+   I 3 =  46     6      7.7
+   I 4 =  54     8      6.8
+   I 5 =  39     6      6.5
+   I 6 =  52     8      6.5
+   I 7 =  50     8      6.2
+   I 8 =  47     9      5.2
+   I 9 =  50    10      5.0
+   I10 =  16     8      2.0
+
+Breadth is faster than Best.
+ Depth = 73 || Best = 36 || Breath = 35
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  79     7     11.3
+   I 2 =  95    10      9.5
+   I 3 =  83     9      9.2
+   I 4 =  83     9      9.2
+   I 5 =  57     9      6.3
+   I 6 =  56     9      6.2
+   I 7 =  25     7      3.6
+   I 8 =   3     1      3.0
+   I 9 =  20     8      2.5
+   I10 =  10     7      1.4
+
+Breadth is faster than Best.
+ Depth = 71 || Best = 23 || Breath = 22
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  80     7     11.4
+   I 2 =  90     9     10.0
+   I 3 =  96    10      9.6
+   I 4 =  96    10      9.6
+   I 5 =  39     7      5.6
+   I 6 =  27     7      3.9
+   I 7 =  37    10      3.7
+   I 8 =  20     6      3.3
+   I 9 =   7     3      2.3
+   I10 =  20    10      2.0
+
+Breadth is faster than Best.
+ Depth = 41 || Best = 28 || Breath = 24
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  97     4     24.2
+   I 2 =  25     3      8.3
+   I 3 =  65     8      8.1
+   I 4 =  52    10      5.2
+   I 5 =  40     8      5.0
+   I 6 =  48    10      4.8
+   I 7 =   4     1      4.0
+   I 8 =  23     6      3.8
+   I 9 =  17     8      2.1
+   I10 =   3     2      1.5
+
+Breadth is faster than Best.
+ Depth = 121 || Best = 57 || Breath = 55
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  83     5     16.6
+   I 2 =  49     4     12.2
+   I 3 =  96     8     12.0
+   I 4 =  95     9     10.6
+   I 5 =  91     9     10.1
+   I 6 =  89     9      9.9
+   I 7 =  77    10      7.7
+   I 8 =  47     7      6.7
+   I 9 =  59    10      5.9
+   I10 =  19     6      3.2
+
+Breadth is faster than Best.
+ Depth = 53 || Best = 33 || Breath = 32
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  61     6     10.2
+   I 2 =  50     5     10.0
+   I 3 =  68     7      9.7
+   I 4 =  77     8      9.6
+   I 5 =  38     5      7.6
+   I 6 =  52     7      7.4
+   I 7 =  29     5      5.8
+   I 8 =  44     8      5.5
+   I 9 =  15     6      2.5
+   I10 =  12     8      1.5
+
+Breadth is faster than Best.
+ Depth = 131 || Best = 57 || Breath = 56
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  60     2     30.0
+   I 2 =  85     8     10.6
+   I 3 =  63     6     10.5
+   I 4 =  81     8     10.1
+   I 5 =  76     8      9.5
+   I 6 =  65     8      8.1
+   I 7 =  72     9      8.0
+   I 8 =  33     8      4.1
+   I 9 =  25     8      3.1
+   I10 =  21    10      2.1
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 24 || Breath = 22
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  78     9      8.7
+   I 2 =  58     7      8.3
+   I 3 =  81    10      8.1
+   I 4 =  40     5      8.0
+   I 5 =  40     8      5.0
+   I 6 =  40     9      4.4
+   I 7 =  21     7      3.0
+   I 8 =  27     9      3.0
+   I 9 =  19     7      2.7
+   I10 =  17     7      2.4
+
+Breadth is faster than Best.
+ Depth = 165 || Best = 104 || Breath = 95
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  68     2     34.0
+   I 2 =  81     6     13.5
+   I 3 =  81     7     11.6
+   I 4 =  84     8     10.5
+   I 5 =  85     9      9.4
+   I 6 =  84     9      9.3
+   I 7 =  74     8      9.2
+   I 8 =  79     9      8.8
+   I 9 =  15     3      5.0
+   I10 =  15     9      1.7
+
+Breadth is faster than Best.
+ Depth = 167 || Best = 65 || Breath = 57
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  67     3     22.3
+   I 2 =  95     7     13.6
+   I 3 =  87     7     12.4
+   I 4 =  98     8     12.2
+   I 5 =  96     8     12.0
+   I 6 =  99     9     11.0
+   I 7 =  93    10      9.3
+   I 8 =  58     8      7.2
+   I 9 =  50     9      5.6
+   I10 =  13     7      1.9
+
+Breadth is faster than Best.
+ Depth = 317 || Best = 138 || Breath = 116
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  55     1     55.0
+   I 2 =  77     6     12.8
+   I 3 =  99     8     12.4
+   I 4 =  94     8     11.8
+   I 5 =  90     8     11.2
+   I 6 =  85     8     10.6
+   I 7 =  82     8     10.2
+   I 8 =  82     8     10.2
+   I 9 =  73     9      8.1
+   I10 =  39    10      3.9
+
+Breadth is faster than Best.
+ Depth = 91 || Best = 40 || Breath = 39
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  86     2     43.0
+   I 2 =  49     3     16.3
+   I 3 =  62     9      6.9
+   I 4 =  62     9      6.9
+   I 5 =  67    10      6.7
+   I 6 =  56     9      6.2
+   I 7 =  48    10      4.8
+   I 8 =  25     8      3.1
+   I 9 =  24     8      3.0
+   I10 =  14     8      1.8
+
+Breadth is faster than Best.
+ Depth = 43 || Best = 27 || Breath = 26
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  81    10      8.1
+   I 2 =  60     8      7.5
+   I 3 =  20     5      4.0
+   I 4 =  30     9      3.3
+   I 5 =  13     4      3.2
+   I 6 =   3     1      3.0
+   I 7 =  14     6      2.3
+   I 8 =   9     4      2.2
+   I 9 =  16     9      1.8
+   I10 =   8     5      1.6
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 25 || Breath = 24
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  94     8     11.8
+   I 2 =  85    10      8.5
+   I 3 =  47     6      7.8
+   I 4 =  56     8      7.0
+   I 5 =  47     8      5.9
+   I 6 =  51     9      5.7
+   I 7 =  40     8      5.0
+   I 8 =  15     5      3.0
+   I 9 =  18    10      1.8
+   I10 =  16     9      1.8
+
+Breadth is faster than Best.
+ Depth = 117 || Best = 60 || Breath = 59
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  68     3     22.7
+   I 2 =  76     4     19.0
+   I 3 =  91     7     13.0
+   I 4 =  84     8     10.5
+   I 5 =  85     9      9.4
+   I 6 =  87    10      8.7
+   I 7 =  72     9      8.0
+   I 8 =  15     5      3.0
+   I 9 =  13     6      2.2
+   I10 =  15    10      1.5
+
+Breadth is faster than Best.
+ Depth = 123 || Best = 69 || Breath = 66
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  78     7     11.1
+   I 2 =  92     9     10.2
+   I 3 =  89     9      9.9
+   I 4 =  82     9      9.1
+   I 5 =  90    10      9.0
+   I 6 =  61     8      7.6
+   I 7 =  44     6      7.3
+   I 8 =  44     8      5.5
+   I 9 =  38     9      4.2
+   I10 =  13     4      3.2
+
+Breadth is faster than Best.
+ Depth = 213 || Best = 90 || Breath = 78
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  50     3     16.7
+   I 2 =  14     1     14.0
+   I 3 =  93    10      9.3
+   I 4 =  90    10      9.0
+   I 5 =  89    10      8.9
+   I 6 =  73     9      8.1
+   I 7 =  70     9      7.8
+   I 8 =  66     9      7.3
+   I 9 =  36     9      4.0
+   I10 =  33    10      3.3
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 18 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  93     8     11.6
+   I 2 =  100     9     11.1
+   I 3 =  34     5      6.8
+   I 4 =  37     7      5.3
+   I 5 =  37     7      5.3
+   I 6 =  41     8      5.1
+   I 7 =  35     7      5.0
+   I 8 =  37     9      4.1
+   I 9 =  28     8      3.5
+   I10 =  12     7      1.7
+
+Breadth is faster than Best.
+ Depth = 85 || Best = 50 || Breath = 46
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  75     1     75.0
+   I 2 =  70     5     14.0
+   I 3 =  88     8     11.0
+   I 4 =  94     9     10.4
+   I 5 =  99    10      9.9
+   I 6 =  98    10      9.8
+   I 7 =  89    10      8.9
+   I 8 =  32     6      5.3
+   I 9 =  31     9      3.4
+   I10 =  29     9      3.2
+
+Breadth is faster than Best.
+ Depth = 87 || Best = 48 || Breath = 46
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  63     5     12.6
+   I 2 =  94     9     10.4
+   I 3 =  94    10      9.4
+   I 4 =  73     8      9.1
+   I 5 =  82     9      9.1
+   I 6 =  72     9      8.0
+   I 7 =  21     4      5.2
+   I 8 =  14     6      2.3
+   I 9 =  22    10      2.2
+   I10 =   5     4      1.2
+
+Breadth is faster than Best.
+ Depth = 63 || Best = 34 || Breath = 32
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  73     5     14.6
+   I 2 =  91     9     10.1
+   I 3 =  10     1     10.0
+   I 4 =  91    10      9.1
+   I 5 =  87    10      8.7
+   I 6 =  61     8      7.6
+   I 7 =  22     6      3.7
+   I 8 =  21     7      3.0
+   I 9 =   8     4      2.0
+   I10 =  11     8      1.4
+
+Breadth is faster than Best.
+ Depth = 91 || Best = 45 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  37     1     37.0
+   I 2 =  71     3     23.7
+   I 3 =  94     9     10.4
+   I 4 =  98    10      9.8
+   I 5 =  96    10      9.6
+   I 6 =  89    10      8.9
+   I 7 =  54     9      6.0
+   I 8 =  28     8      3.5
+   I 9 =  20    10      2.0
+   I10 =   8     5      1.6
+
+Breadth is faster than Best.
+ Depth = 231 || Best = 105 || Breath = 104
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  83     4     20.8
+   I 2 =  87     9      9.7
+   I 3 =  87     9      9.7
+   I 4 =  84     9      9.3
+   I 5 =  87    10      8.7
+   I 6 =  65     9      7.2
+   I 7 =  58    10      5.8
+   I 8 =  49     9      5.4
+   I 9 =  52    10      5.2
+   I10 =  38     9      4.2
+
+Breadth is faster than Best.
+ Depth = 53 || Best = 32 || Breath = 31
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  52     4     13.0
+   I 2 =  93    10      9.3
+   I 3 =  92    10      9.2
+   I 4 =  68     8      8.5
+   I 5 =  73     9      8.1
+   I 6 =  22     5      4.4
+   I 7 =  29    10      2.9
+   I 8 =  15     6      2.5
+   I 9 =  15     6      2.5
+   I10 =  14     7      2.0
+
+Breadth is faster than Best.
+ Depth = 75 || Best = 42 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  46     3     15.3
+   I 2 =  88     6     14.7
+   I 3 =  68     7      9.7
+   I 4 =  76     9      8.4
+   I 5 =  67     8      8.4
+   I 6 =  71     9      7.9
+   I 7 =  57     8      7.1
+   I 8 =  44     8      5.5
+   I 9 =  23     6      3.8
+   I10 =  31     9      3.4
+
+Breadth is faster than Best.
+ Depth = 75 || Best = 45 || Breath = 43
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  100     6     16.7
+   I 2 =  64     7      9.1
+   I 3 =  85    10      8.5
+   I 4 =  65     8      8.1
+   I 5 =  27     4      6.8
+   I 6 =  27     4      6.8
+   I 7 =  33     5      6.6
+   I 8 =  36     6      6.0
+   I 9 =  45     9      5.0
+   I10 =  16     5      3.2
+
+Breadth is faster than Best.
+ Depth = 113 || Best = 59 || Breath = 53
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  80     5     16.0
+   I 2 =  97     9     10.8
+   I 3 =  96     9     10.7
+   I 4 =  99    10      9.9
+   I 5 =  73     8      9.1
+   I 6 =  80     9      8.9
+   I 7 =  12     3      4.0
+   I 8 =  39    10      3.9
+   I 9 =  37    10      3.7
+   I10 =   8     7      1.1
+
+Breadth is faster than Best.
+ Depth = 99 || Best = 56 || Breath = 54
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  47     2     23.5
+   I 2 =  84     7     12.0
+   I 3 =  88     9      9.8
+   I 4 =  77     8      9.6
+   I 5 =  57     6      9.5
+   I 6 =  72     8      9.0
+   I 7 =  80     9      8.9
+   I 8 =  38     8      4.8
+   I 9 =  19     8      2.4
+   I10 =   9     4      2.2
+
+Breadth is faster than Best.
+ Depth = 161 || Best = 82 || Breath = 81
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  72     7     10.3
+   I 2 =  75     8      9.4
+   I 3 =  76     9      8.4
+   I 4 =  70     9      7.8
+   I 5 =  71    10      7.1
+   I 6 =  43     7      6.1
+   I 7 =  52    10      5.2
+   I 8 =  33     7      4.7
+   I 9 =  35     8      4.4
+   I10 =  13     9      1.4
+
+Breadth is faster than Best.
+ Depth = 107 || Best = 51 || Breath = 46
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  63     6     10.5
+   I 2 =  73     9      8.1
+   I 3 =  79    10      7.9
+   I 4 =  78    10      7.8
+   I 5 =  67     9      7.4
+   I 6 =  70    10      7.0
+   I 7 =  25     6      4.2
+   I 8 =  26     8      3.2
+   I 9 =  18     9      2.0
+   I10 =  13    10      1.3
+
+Breadth is faster than Best.
+ Depth = 121 || Best = 50 || Breath = 46
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  77     7     11.0
+   I 2 =  94    10      9.4
+   I 3 =  54     6      9.0
+   I 4 =  88    10      8.8
+   I 5 =  32     4      8.0
+   I 6 =  37     5      7.4
+   I 7 =  36     5      7.2
+   I 8 =  55     9      6.1
+   I 9 =  50     9      5.6
+   I10 =  27     9      3.0
+
+Breadth is faster than Best.
+ Depth = 55 || Best = 22 || Breath = 20
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  90     7     12.9
+   I 2 =  91     9     10.1
+   I 3 =  27     4      6.8
+   I 4 =  38     7      5.4
+   I 5 =  33     7      4.7
+   I 6 =  36     8      4.5
+   I 7 =  39     9      4.3
+   I 8 =  20     7      2.9
+   I 9 =  12     5      2.4
+   I10 =  14     8      1.8
+
+Breadth is faster than Best.
+ Depth = 87 || Best = 37 || Breath = 36
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  75     5     15.0
+   I 2 =  91     7     13.0
+   I 3 =  88     7     12.6
+   I 4 =  89     8     11.1
+   I 5 =  83     8     10.4
+   I 6 =  84     9      9.3
+   I 7 =  72     9      8.0
+   I 8 =  49     7      7.0
+   I 9 =  28     7      4.0
+   I10 =  13     5      2.6
+
+Breadth is faster than Best.
+ Depth = 67 || Best = 41 || Breath = 37
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  58     5     11.6
+   I 2 =  100    10     10.0
+   I 3 =  86     9      9.6
+   I 4 =  91    10      9.1
+   I 5 =  88    10      8.8
+   I 6 =  85    10      8.5
+   I 7 =  32     6      5.3
+   I 8 =  47    10      4.7
+   I 9 =  15     6      2.5
+   I10 =   2     1      2.0
+
+Breadth is faster than Best.
+ Depth = 61 || Best = 30 || Breath = 29
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  76     2     38.0
+   I 2 =  99     7     14.1
+   I 3 =  99     7     14.1
+   I 4 =  91     7     13.0
+   I 5 =  92     9     10.2
+   I 6 =  57     9      6.3
+   I 7 =   7     2      3.5
+   I 8 =  14     6      2.3
+   I 9 =  18     8      2.2
+   I10 =  15     8      1.9
+
+Breadth is faster than Best.
+ Depth = 139 || Best = 71 || Breath = 70
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  51     2     25.5
+   I 2 =  80     7     11.4
+   I 3 =  78     7     11.1
+   I 4 =  98     9     10.9
+   I 5 =  84     8     10.5
+   I 6 =  79     8      9.9
+   I 7 =  59     7      8.4
+   I 8 =  57     9      6.3
+   I 9 =   6     1      6.0
+   I10 =  14     7      2.0
+
+Breadth is faster than Best.
+ Depth = 73 || Best = 36 || Breath = 34
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  77     7     11.0
+   I 2 =  76     9      8.4
+   I 3 =  41     7      5.9
+   I 4 =  46     8      5.8
+   I 5 =  45     8      5.6
+   I 6 =  43     9      4.8
+   I 7 =  37     9      4.1
+   I 8 =  39    10      3.9
+   I 9 =  16     8      2.0
+   I10 =  11     8      1.4
+
+Breadth is faster than Best.
+ Depth = 255 || Best = 125 || Breath = 124
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  89     7     12.7
+   I 2 =  96     9     10.7
+   I 3 =  84     8     10.5
+   I 4 =  91     9     10.1
+   I 5 =  99    10      9.9
+   I 6 =  86     9      9.6
+   I 7 =  80     9      8.9
+   I 8 =  80    10      8.0
+   I 9 =  29    10      2.9
+   I10 =  20     8      2.5
+
+Breadth is faster than Best.
+ Depth = 41 || Best = 14 || Breath = 13
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  67     7      9.6
+   I 2 =  92    10      9.2
+   I 3 =  79    10      7.9
+   I 4 =  76    10      7.6
+   I 5 =  37     7      5.3
+   I 6 =  30     9      3.3
+   I 7 =  17    10      1.7
+   I 8 =  16    10      1.6
+   I 9 =  13    10      1.3
+   I10 =  13    10      1.3
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 32 || Breath = 27
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  95     3     31.7
+   I 2 =  64     3     21.3
+   I 3 =  83     7     11.9
+   I 4 =  13     2      6.5
+   I 5 =  20     7      2.9
+   I 6 =  21     9      2.3
+   I 7 =  23    10      2.3
+   I 8 =  22    10      2.2
+   I 9 =  18     9      2.0
+   I10 =   7     5      1.4
+
+Breadth is faster than Best.
+ Depth = 87 || Best = 41 || Breath = 39
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  76     4     19.0
+   I 2 =  63     5     12.6
+   I 3 =  92     9     10.2
+   I 4 =  76     8      9.5
+   I 5 =  83     9      9.2
+   I 6 =  63     7      9.0
+   I 7 =  71     8      8.9
+   I 8 =  63    10      6.3
+   I 9 =  32     7      4.6
+   I10 =  17     9      1.9
+
+Breadth is faster than Best.
+ Depth = 103 || Best = 50 || Breath = 49
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  55     2     27.5
+   I 2 =  85     7     12.1
+   I 3 =  97     8     12.1
+   I 4 =  97     8     12.1
+   I 5 =  65     7      9.3
+   I 6 =  83     9      9.2
+   I 7 =  58     7      8.3
+   I 8 =  74     9      8.2
+   I 9 =  32     6      5.3
+   I10 =  14     9      1.6
+
+Breadth is faster than Best.
+ Depth = 31 || Best = 16 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  90     6     15.0
+   I 2 =  86     8     10.8
+   I 3 =  53     9      5.9
+   I 4 =  57    10      5.7
+   I 5 =  12     3      4.0
+   I 6 =  26     7      3.7
+   I 7 =  21     9      2.3
+   I 8 =  18    10      1.8
+   I 9 =   7     5      1.4
+   I10 =   8     7      1.1
+
+Breadth is faster than Best.
+ Depth = 33 || Best = 18 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  95     4     23.8
+   I 2 =  79    10      7.9
+   I 3 =  40     6      6.7
+   I 4 =  33     7      4.7
+   I 5 =  37     9      4.1
+   I 6 =   3     1      3.0
+   I 7 =  15     5      3.0
+   I 8 =  14     5      2.8
+   I 9 =  10     5      2.0
+   I10 =  13    10      1.3
+
+Breadth is faster than Best.
+ Depth = 149 || Best = 63 || Breath = 58
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  61     1     61.0
+   I 2 =  94     7     13.4
+   I 3 =  99     8     12.4
+   I 4 =  94     8     11.8
+   I 5 =  77     7     11.0
+   I 6 =  81     8     10.1
+   I 7 =  70     9      7.8
+   I 8 =  53     8      6.6
+   I 9 =  60    10      6.0
+   I10 =  35     8      4.4
+
+Breadth is faster than Best.
+ Depth = 61 || Best = 27 || Breath = 26
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  53     4     13.2
+   I 2 =  90     9     10.0
+   I 3 =  84     9      9.3
+   I 4 =  69    10      6.9
+   I 5 =  62    10      6.2
+   I 6 =  39    10      3.9
+   I 7 =  38    10      3.8
+   I 8 =   5     3      1.7
+   I 9 =  10     8      1.2
+   I10 =  11    10      1.1
+
+Breadth is faster than Best.
+ Depth = 67 || Best = 37 || Breath = 36
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  80     8     10.0
+   I 2 =  78     8      9.8
+   I 3 =  95    10      9.5
+   I 4 =  65     8      8.1
+   I 5 =  81    10      8.1
+   I 6 =  43     6      7.2
+   I 7 =   6     1      6.0
+   I 8 =  41    10      4.1
+   I 9 =  36    10      3.6
+   I10 =  22    10      2.2
+
+Breadth is faster than Best.
+ Depth = 37 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  20     1     20.0
+   I 2 =  98     9     10.9
+   I 3 =  70     8      8.8
+   I 4 =  34     7      4.9
+   I 5 =  29     6      4.8
+   I 6 =  22     7      3.1
+   I 7 =  25    10      2.5
+   I 8 =  10     7      1.4
+   I 9 =   4     3      1.3
+   I10 =   7     6      1.2
+
+Breadth is faster than Best.
+ Depth = 107 || Best = 56 || Breath = 53
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  54     3     18.0
+   I 2 =  79     6     13.2
+   I 3 =  94     8     11.8
+   I 4 =  90     8     11.2
+   I 5 =  87     8     10.9
+   I 6 =  74     7     10.6
+   I 7 =  73     7     10.4
+   I 8 =  55     8      6.9
+   I 9 =  39     6      6.5
+   I10 =  34     8      4.2
+
+Breadth is faster than Best.
+ Depth = 83 || Best = 46 || Breath = 42
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  46     2     23.0
+   I 2 =  69     4     17.2
+   I 3 =  99    10      9.9
+   I 4 =  84     9      9.3
+   I 5 =  84     9      9.3
+   I 6 =  72     8      9.0
+   I 7 =  74    10      7.4
+   I 8 =  33     7      4.7
+   I 9 =   7     3      2.3
+   I10 =  13    10      1.3
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 29 || Breath = 27
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  61     6     10.2
+   I 2 =  96    10      9.6
+   I 3 =  94    10      9.4
+   I 4 =  70     8      8.8
+   I 5 =  69     8      8.6
+   I 6 =  12     2      6.0
+   I 7 =  17     3      5.7
+   I 8 =  45    10      4.5
+   I 9 =  20     5      4.0
+   I10 =  25     7      3.6
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 20 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  82     5     16.4
+   I 2 =  79     6     13.2
+   I 3 =  79     9      8.8
+   I 4 =  25     5      5.0
+   I 5 =  30     7      4.3
+   I 6 =  35    10      3.5
+   I 7 =  20     6      3.3
+   I 8 =  20     6      3.3
+   I 9 =  12     6      2.0
+   I10 =   7     5      1.4
+
+Breadth is faster than Best.
+ Depth = 63 || Best = 28 || Breath = 27
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  70     7     10.0
+   I 2 =  93    10      9.3
+   I 3 =  59     7      8.4
+   I 4 =  61     8      7.6
+   I 5 =  53     8      6.6
+   I 6 =  39     7      5.6
+   I 7 =  39     8      4.9
+   I 8 =   8     2      4.0
+   I 9 =  11     5      2.2
+   I10 =  16     8      2.0
+
+Breadth is faster than Best.
+ Depth = 39 || Best = 26 || Breath = 24
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  78     7     11.1
+   I 2 =  97     9     10.8
+   I 3 =  64     7      9.1
+   I 4 =  62     8      7.8
+   I 5 =  57     8      7.1
+   I 6 =  53    10      5.3
+   I 7 =  20     7      2.9
+   I 8 =  22     9      2.4
+   I 9 =  14     6      2.3
+   I10 =  14    10      1.4
+
+Breadth is faster than Best.
+ Depth = 43 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  76     3     25.3
+   I 2 =  100     4     25.0
+   I 3 =  83     9      9.2
+   I 4 =  30     4      7.5
+   I 5 =  14     4      3.5
+   I 6 =  17     5      3.4
+   I 7 =  17     5      3.4
+   I 8 =  15     5      3.0
+   I 9 =  24     8      3.0
+   I10 =  23     8      2.9
+
+Breadth is faster than Best.
+ Depth = 123 || Best = 83 || Breath = 82
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  69     6     11.5
+   I 2 =  82     9      9.1
+   I 3 =  82     9      9.1
+   I 4 =  90    10      9.0
+   I 5 =  71     8      8.9
+   I 6 =  85    10      8.5
+   I 7 =  65     9      7.2
+   I 8 =  31     6      5.2
+   I 9 =  28     9      3.1
+   I10 =  12     4      3.0
+
+Breadth is faster than Best.
+ Depth = 217 || Best = 96 || Breath = 93
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  50     1     50.0
+   I 2 =  81     7     11.6
+   I 3 =  82     8     10.2
+   I 4 =  71     7     10.1
+   I 5 =  69     8      8.6
+   I 6 =  75     9      8.3
+   I 7 =  82    10      8.2
+   I 8 =  72     9      8.0
+   I 9 =  49     9      5.4
+   I10 =  13     9      1.4
+
+Breadth is faster than Best.
+ Depth = 85 || Best = 41 || Breath = 39
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  56     3     18.7
+   I 2 =  96     7     13.7
+   I 3 =  73     7     10.4
+   I 4 =  64     7      9.1
+   I 5 =  62     9      6.9
+   I 6 =  66    10      6.6
+   I 7 =  49     8      6.1
+   I 8 =  58    10      5.8
+   I 9 =  35    10      3.5
+   I10 =  10     8      1.2
+
+Breadth is faster than Best.
+ Depth = 43 || Best = 16 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  83     3     27.7
+   I 2 =  91     9     10.1
+   I 3 =  39     8      4.9
+   I 4 =  43     9      4.8
+   I 5 =  43     9      4.8
+   I 6 =  40     9      4.4
+   I 7 =  33    10      3.3
+   I 8 =  23     7      3.3
+   I 9 =  15     6      2.5
+   I10 =  14     6      2.3
+
+Breadth is faster than Best.
+ Depth = 89 || Best = 43 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  77     5     15.4
+   I 2 =  96     9     10.7
+   I 3 =  98    10      9.8
+   I 4 =  93    10      9.3
+   I 5 =  70     8      8.8
+   I 6 =  75    10      7.5
+   I 7 =  68    10      6.8
+   I 8 =   7     3      2.3
+   I 9 =   9     4      2.2
+   I10 =   9     8      1.1
+
+Breadth is faster than Best.
+ Depth = 65 || Best = 31 || Breath = 28
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  75     5     15.0
+   I 2 =  95    10      9.5
+   I 3 =  89    10      8.9
+   I 4 =  83    10      8.3
+   I 5 =  72    10      7.2
+   I 6 =  38     7      5.4
+   I 7 =  54    10      5.4
+   I 8 =  43     9      4.8
+   I 9 =  18     7      2.6
+   I10 =   3     2      1.5
+
+Breadth is faster than Best.
+ Depth = 39 || Best = 17 || Breath = 16
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  99     1     99.0
+   I 2 =  90     8     11.2
+   I 3 =  90     8     11.2
+   I 4 =  15     2      7.5
+   I 5 =  19     4      4.8
+   I 6 =  31     9      3.4
+   I 7 =  26     8      3.2
+   I 8 =   6     3      2.0
+   I 9 =   9     5      1.8
+   I10 =   3     2      1.5
+
+Breadth is faster than Best.
+ Depth = 65 || Best = 35 || Breath = 33
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  32     1     32.0
+   I 2 =  46     4     11.5
+   I 3 =  56     7      8.0
+   I 4 =  75    10      7.5
+   I 5 =  49     9      5.4
+   I 6 =  52    10      5.2
+   I 7 =  42     9      4.7
+   I 8 =  44    10      4.4
+   I 9 =  12     5      2.4
+   I10 =  14     9      1.6
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 23 || Breath = 22
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  39     3     13.0
+   I 2 =  91     8     11.4
+   I 3 =  100     9     11.1
+   I 4 =  45     6      7.5
+   I 5 =  49     7      7.0
+   I 6 =  47     8      5.9
+   I 7 =  40    10      4.0
+   I 8 =  16     8      2.0
+   I 9 =  18     9      2.0
+   I10 =  13     9      1.4
+
+Breadth is faster than Best.
+ Depth = 45 || Best = 23 || Breath = 22
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  90     2     45.0
+   I 2 =  87     7     12.4
+   I 3 =  42     7      6.0
+   I 4 =  49    10      4.9
+   I 5 =  25     6      4.2
+   I 6 =  19     5      3.8
+   I 7 =  18     5      3.6
+   I 8 =  16     6      2.7
+   I 9 =  15     7      2.1
+   I10 =   9     5      1.8
+
+Breadth is faster than Best.
+ Depth = 33 || Best = 18 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  59     4     14.8
+   I 2 =  97     9     10.8
+   I 3 =  78     9      8.7
+   I 4 =  74    10      7.4
+   I 5 =  58     9      6.4
+   I 6 =  19     8      2.4
+   I 7 =  12     7      1.7
+   I 8 =   9     6      1.5
+   I 9 =   8     6      1.3
+   I10 =  11     9      1.2
+
+Breadth is faster than Best.
+ Depth = 163 || Best = 77 || Breath = 71
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  78     3     26.0
+   I 2 =  83     6     13.8
+   I 3 =  97     8     12.1
+   I 4 =  83     7     11.9
+   I 5 =  87     8     10.9
+   I 6 =  87     8     10.9
+   I 7 =  63     7      9.0
+   I 8 =  43     8      5.4
+   I 9 =  34     9      3.8
+   I10 =  13    10      1.3
+
+Breadth is faster than Best.
+ Depth = 137 || Best = 55 || Breath = 54
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  42     3     14.0
+   I 2 =  75     7     10.7
+   I 3 =  73     7     10.4
+   I 4 =  67     7      9.6
+   I 5 =  86     9      9.6
+   I 6 =  66     7      9.4
+   I 7 =   8     1      8.0
+   I 8 =  72     9      8.0
+   I 9 =  38     8      4.8
+   I10 =   6     3      2.0
+
+Breadth is faster than Best.
+ Depth = 61 || Best = 33 || Breath = 30
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  87     6     14.5
+   I 2 =  85     8     10.6
+   I 3 =  93    10      9.3
+   I 4 =  80    10      8.0
+   I 5 =  51     8      6.4
+   I 6 =  45     8      5.6
+   I 7 =  45     9      5.0
+   I 8 =  35     8      4.4
+   I 9 =  20     9      2.2
+   I10 =  14     9      1.6
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 24 || Breath = 23
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  56     6      9.3
+   I 2 =  90    10      9.0
+   I 3 =  59     7      8.4
+   I 4 =  66    10      6.6
+   I 5 =   9     3      3.0
+   I 6 =  18     6      3.0
+   I 7 =  26     9      2.9
+   I 8 =   9     4      2.2
+   I 9 =  17     9      1.9
+   I10 =  14     8      1.8
+
+Breadth is faster than Best.
+ Depth = 57 || Best = 20 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  66     5     13.2
+   I 2 =  83    10      8.3
+   I 3 =  81    10      8.1
+   I 4 =  80    10      8.0
+   I 5 =  36     8      4.5
+   I 6 =  25     6      4.2
+   I 7 =  26     9      2.9
+   I 8 =  24     9      2.7
+   I 9 =  15     7      2.1
+   I10 =  11     6      1.8
+
+Breadth is faster than Best.
+ Depth = 179 || Best = 76 || Breath = 75
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  76     7     10.9
+   I 2 =  85     9      9.4
+   I 3 =  64     7      9.1
+   I 4 =  91    10      9.1
+   I 5 =  83    10      8.3
+   I 6 =  81    10      8.1
+   I 7 =  76    10      7.6
+   I 8 =  48     9      5.3
+   I 9 =  25     8      3.1
+   I10 =   7     6      1.2
+
+Breadth is faster than Best.
+ Depth = 33 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  92     3     30.7
+   I 2 =  80     7     11.4
+   I 3 =  73    10      7.3
+   I 4 =  18     4      4.5
+   I 5 =  29     7      4.1
+   I 6 =  36    10      3.6
+   I 7 =  32     9      3.6
+   I 8 =  26     8      3.2
+   I 9 =  18     7      2.6
+   I10 =   7     3      2.3
+
+Breadth is faster than Best.
+ Depth = 183 || Best = 85 || Breath = 83
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  88     3     29.3
+   I 2 =  75     3     25.0
+   I 3 =  85     7     12.1
+   I 4 =  98     9     10.9
+   I 5 =  97     9     10.8
+   I 6 =  91     9     10.1
+   I 7 =  81    10      8.1
+   I 8 =  78    10      7.8
+   I 9 =  71    10      7.1
+   I10 =  33     9      3.7
+
+Breadth is faster than Best.
+ Depth = 87 || Best = 38 || Breath = 36
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  57     7      8.1
+   I 2 =  73    10      7.3
+   I 3 =   7     1      7.0
+   I 4 =  69    10      6.9
+   I 5 =  67    10      6.7
+   I 6 =  38     6      6.3
+   I 7 =  29     8      3.6
+   I 8 =  23     7      3.3
+   I 9 =  16     5      3.2
+   I10 =  13    10      1.3
+
+Breadth is faster than Best.
+ Depth = 51 || Best = 23 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  72     5     14.4
+   I 2 =  96    10      9.6
+   I 3 =  95    10      9.5
+   I 4 =  89    10      8.9
+   I 5 =  59     9      6.6
+   I 6 =  48     9      5.3
+   I 7 =  45     9      5.0
+   I 8 =  30     7      4.3
+   I 9 =   4     1      4.0
+   I10 =  13     5      2.6
+
+Breadth is faster than Best.
+ Depth = 113 || Best = 62 || Breath = 59
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  65     2     32.5
+   I 2 =  100     6     16.7
+   I 3 =  94     8     11.8
+   I 4 =  92     8     11.5
+   I 5 =  86     8     10.8
+   I 6 =  95    10      9.5
+   I 7 =  84     9      9.3
+   I 8 =  66     8      8.2
+   I 9 =  45     9      5.0
+   I10 =  11     3      3.7
+
+Breadth is faster than Best.
+ Depth = 125 || Best = 66 || Breath = 60
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  69     2     34.5
+   I 2 =  62     3     20.7
+   I 3 =  95     9     10.6
+   I 4 =  94     9     10.4
+   I 5 =  84     9      9.3
+   I 6 =  82     9      9.1
+   I 7 =  90    10      9.0
+   I 8 =  80     9      8.9
+   I 9 =  35     9      3.9
+   I10 =  12     5      2.4
+
+Breadth is faster than Best.
+ Depth = 107 || Best = 56 || Breath = 53
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  80     1     80.0
+   I 2 =  60     7      8.6
+   I 3 =  84    10      8.4
+   I 4 =  42     6      7.0
+   I 5 =  49     7      7.0
+   I 6 =  53     8      6.6
+   I 7 =  52     8      6.5
+   I 8 =  44     9      4.9
+   I 9 =  35    10      3.5
+   I10 =  14    10      1.4
+
+Breadth is faster than Best.
+ Depth = 121 || Best = 71 || Breath = 69
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  53     3     17.7
+   I 2 =  68     7      9.7
+   I 3 =  61     7      8.7
+   I 4 =  57     7      8.1
+   I 5 =  62     9      6.9
+   I 6 =  60     9      6.7
+   I 7 =  57     9      6.3
+   I 8 =  50     9      5.6
+   I 9 =  25     7      3.6
+   I10 =   4     2      2.0
+
+Breadth is faster than Best.
+ Depth = 141 || Best = 64 || Breath = 57
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  64     3     21.3
+   I 2 =  81     9      9.0
+   I 3 =  89    10      8.9
+   I 4 =  88    10      8.8
+   I 5 =  84    10      8.4
+   I 6 =  16     2      8.0
+   I 7 =  53    10      5.3
+   I 8 =  19     9      2.1
+   I 9 =  13     7      1.9
+   I10 =  14     8      1.8
+
+Breadth is faster than Best.
+ Depth = 61 || Best = 21 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  70     7     10.0
+   I 2 =  93    10      9.3
+   I 3 =  87    10      8.7
+   I 4 =  83    10      8.3
+   I 5 =  39     5      7.8
+   I 6 =  62     9      6.9
+   I 7 =  34     7      4.9
+   I 8 =  24     7      3.4
+   I 9 =  16     6      2.7
+   I10 =  11     7      1.6
+
+Breadth is faster than Best.
+ Depth = 119 || Best = 75 || Breath = 62
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  28     1     28.0
+   I 2 =  23     1     23.0
+   I 3 =  99    10      9.9
+   I 4 =  94    10      9.4
+   I 5 =  93    10      9.3
+   I 6 =  88    10      8.8
+   I 7 =  82    10      8.2
+   I 8 =  35     8      4.4
+   I 9 =  23    10      2.3
+   I10 =   3     2      1.5
+
+Breadth is faster than Best.
+ Depth = 43 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  96     6     16.0
+   I 2 =  98    10      9.8
+   I 3 =  69     8      8.6
+   I 4 =  70     9      7.8
+   I 5 =  53     7      7.6
+   I 6 =   6     1      6.0
+   I 7 =  39     8      4.9
+   I 8 =  20     6      3.3
+   I 9 =  24     9      2.7
+   I10 =  21     8      2.6
+
+Breadth is faster than Best.
+ Depth = 33 || Best = 16 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  86     9      9.6
+   I 2 =  95    10      9.5
+   I 3 =  48     6      8.0
+   I 4 =  54     8      6.8
+   I 5 =  15     3      5.0
+   I 6 =  34     7      4.9
+   I 7 =  24     6      4.0
+   I 8 =  38    10      3.8
+   I 9 =  16     5      3.2
+   I10 =  16     6      2.7
+
+Breadth is faster than Best.
+ Depth = 33 || Best = 18 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  89     5     17.8
+   I 2 =  97     9     10.8
+   I 3 =  51     9      5.7
+   I 4 =  25     5      5.0
+   I 5 =  22     5      4.4
+   I 6 =  28     7      4.0
+   I 7 =  35    10      3.5
+   I 8 =  18     7      2.6
+   I 9 =   9     5      1.8
+   I10 =   8     6      1.3
+
+Breadth is faster than Best.
+ Depth = 87 || Best = 40 || Breath = 39
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  85     4     21.2
+   I 2 =  43     3     14.3
+   I 3 =  93     8     11.6
+   I 4 =  96     9     10.7
+   I 5 =  96    10      9.6
+   I 6 =  76    10      7.6
+   I 7 =  63    10      6.3
+   I 8 =  17     7      2.4
+   I 9 =  16     9      1.8
+   I10 =  12    10      1.2
+
+Breadth is faster than Best.
+ Depth = 69 || Best = 30 || Breath = 28
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  77     7     11.0
+   I 2 =  89    10      8.9
+   I 3 =  86    10      8.6
+   I 4 =  75     9      8.3
+   I 5 =  81    10      8.1
+   I 6 =  26     6      4.3
+   I 7 =  14     5      2.8
+   I 8 =  18     9      2.0
+   I 9 =  13     7      1.9
+   I10 =  18    10      1.8
+
+Breadth is faster than Best.
+ Depth = 71 || Best = 28 || Breath = 27
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  81     7     11.6
+   I 2 =  100     9     11.1
+   I 3 =  81     8     10.1
+   I 4 =  69     8      8.6
+   I 5 =  60     7      8.6
+   I 6 =  74    10      7.4
+   I 7 =  45     8      5.6
+   I 8 =  48    10      4.8
+   I 9 =  33    10      3.3
+   I10 =  25     8      3.1
+
+Breadth is faster than Best.
+ Depth = 41 || Best = 21 || Breath = 20
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  98     3     32.7
+   I 2 =  81     9      9.0
+   I 3 =  84    10      8.4
+   I 4 =  11     2      5.5
+   I 5 =  47    10      4.7
+   I 6 =   6     2      3.0
+   I 7 =  22     8      2.8
+   I 8 =  24     9      2.7
+   I 9 =  22    10      2.2
+   I10 =  11    10      1.1
+
+Breadth is faster than Best.
+ Depth = 101 || Best = 53 || Breath = 50
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  71     3     23.7
+   I 2 =  75     6     12.5
+   I 3 =  74     7     10.6
+   I 4 =  82     8     10.2
+   I 5 =  78     9      8.7
+   I 6 =  74     9      8.2
+   I 7 =  59     8      7.4
+   I 8 =  21    10      2.1
+   I 9 =  12     9      1.3
+   I10 =   6     5      1.2
+
+Breadth is faster than Best.
+ Depth = 107 || Best = 47 || Breath = 46
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  85     3     28.3
+   I 2 =  95     5     19.0
+   I 3 =  95     7     13.6
+   I 4 =  94     9     10.4
+   I 5 =  93     9     10.3
+   I 6 =  76     8      9.5
+   I 7 =  70     8      8.8
+   I 8 =  34     8      4.2
+   I 9 =  27    10      2.7
+   I10 =  11     8      1.4
+
+Breadth is faster than Best.
+ Depth = 57 || Best = 32 || Breath = 29
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  80     7     11.4
+   I 2 =  94    10      9.4
+   I 3 =  88    10      8.8
+   I 4 =  85    10      8.5
+   I 5 =  45     6      7.5
+   I 6 =  71    10      7.1
+   I 7 =  37     6      6.2
+   I 8 =  49     8      6.1
+   I 9 =  49     9      5.4
+   I10 =   4     2      2.0
+
+Breadth is faster than Best.
+ Depth = 77 || Best = 41 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  59     4     14.8
+   I 2 =  97     9     10.8
+   I 3 =  92    10      9.2
+   I 4 =  89    10      8.9
+   I 5 =  67     8      8.4
+   I 6 =  82    10      8.2
+   I 7 =  26     5      5.2
+   I 8 =  11     3      3.7
+   I 9 =  22     7      3.1
+   I10 =  13     9      1.4
+
+Breadth is faster than Best.
+ Depth = 63 || Best = 30 || Breath = 29
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  71     5     14.2
+   I 2 =  71     9      7.9
+   I 3 =  75    10      7.5
+   I 4 =  14     2      7.0
+   I 5 =  45     7      6.4
+   I 6 =  43     8      5.4
+   I 7 =  30     7      4.3
+   I 8 =  40    10      4.0
+   I 9 =  14     5      2.8
+   I10 =   7     5      1.4
+
+Breadth is faster than Best.
+ Depth = 61 || Best = 32 || Breath = 31
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  98     7     14.0
+   I 2 =  78     6     13.0
+   I 3 =  95    10      9.5
+   I 4 =  85    10      8.5
+   I 5 =  64     9      7.1
+   I 6 =  45     8      5.6
+   I 7 =  44     9      4.9
+   I 8 =  38     8      4.8
+   I 9 =  22     9      2.4
+   I10 =  17     9      1.9
+
+Breadth is faster than Best.
+ Depth = 31 || Best = 18 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  92     3     30.7
+   I 2 =  98     9     10.9
+   I 3 =  81    10      8.1
+   I 4 =   6     1      6.0
+   I 5 =  52     9      5.8
+   I 6 =  28     9      3.1
+   I 7 =  23     8      2.9
+   I 8 =  11     4      2.8
+   I 9 =  20     8      2.5
+   I10 =  12     6      2.0
+
+Breadth is faster than Best.
+ Depth = 239 || Best = 97 || Breath = 93
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  59     7      8.4
+   I 2 =  71     9      7.9
+   I 3 =  67     9      7.4
+   I 4 =  65     9      7.2
+   I 5 =  72    10      7.2
+   I 6 =  69    10      6.9
+   I 7 =  47     7      6.7
+   I 8 =  37    10      3.7
+   I 9 =  30     9      3.3
+   I10 =  22     8      2.8
+
+Breadth is faster than Best.
+ Depth = 55 || Best = 28 || Breath = 27
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  93     8     11.6
+   I 2 =  87     8     10.9
+   I 3 =  100    10     10.0
+   I 4 =  93    10      9.3
+   I 5 =  69     8      8.6
+   I 6 =  42     6      7.0
+   I 7 =  42     9      4.7
+   I 8 =  11     5      2.2
+   I 9 =  13     9      1.4
+   I10 =   7     6      1.2
+
+Breadth is faster than Best.
+ Depth = 79 || Best = 42 || Breath = 32
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  46     5      9.2
+   I 2 =  76    10      7.6
+   I 3 =  69    10      6.9
+   I 4 =  69    10      6.9
+   I 5 =  66    10      6.6
+   I 6 =  66    10      6.6
+   I 7 =  49     8      6.1
+   I 8 =  17     5      3.4
+   I 9 =  29    10      2.9
+   I10 =  21     9      2.3
+
+Breadth is faster than Best.
+ Depth = 113 || Best = 44 || Breath = 40
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  67     5     13.4
+   I 2 =  99    10      9.9
+   I 3 =  85    10      8.5
+   I 4 =  68     8      8.5
+   I 5 =  82    10      8.2
+   I 6 =  78    10      7.8
+   I 7 =  52     9      5.8
+   I 8 =  33    10      3.3
+   I 9 =  24     8      3.0
+   I10 =  24    10      2.4
+
+Breadth is faster than Best.
+ Depth = 31 || Best = 22 || Breath = 20
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  95    10      9.5
+   I 2 =  39     5      7.8
+   I 3 =  58     9      6.4
+   I 4 =  53     9      5.9
+   I 5 =  11     2      5.5
+   I 6 =  46     9      5.1
+   I 7 =  13     4      3.2
+   I 8 =  21     9      2.3
+   I 9 =  14     9      1.6
+   I10 =   9     7      1.3
+
+Breadth is faster than Best.
+ Depth = 31 || Best = 19 || Breath = 18
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  81     3     27.0
+   I 2 =  91     5     18.2
+   I 3 =  91     6     15.2
+   I 4 =  22     6      3.7
+   I 5 =  19     8      2.4
+   I 6 =  14     6      2.3
+   I 7 =  21     9      2.3
+   I 8 =   9     4      2.2
+   I 9 =  10     5      2.0
+   I10 =  15     9      1.7
+
+Breadth is faster than Best.
+ Depth = 77 || Best = 43 || Breath = 42
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  39     3     13.0
+   I 2 =  51     4     12.8
+   I 3 =  76     9      8.4
+   I 4 =  74     9      8.2
+   I 5 =  63     9      7.0
+   I 6 =  66    10      6.6
+   I 7 =  63    10      6.3
+   I 8 =  40     7      5.7
+   I 9 =   6     2      3.0
+   I10 =  13     6      2.2
+
+Breadth is faster than Best.
+ Depth = 29 || Best = 14 || Breath = 13
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  90     4     22.5
+   I 2 =  69     7      9.9
+   I 3 =  78     8      9.8
+   I 4 =  26     6      4.3
+   I 5 =  33    10      3.3
+   I 6 =   3     1      3.0
+   I 7 =  15     7      2.1
+   I 8 =  13     9      1.4
+   I 9 =  11     8      1.4
+   I10 =   4     3      1.3
+
+Breadth is faster than Best.
+ Depth = 37 || Best = 21 || Breath = 19
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  96     9     10.7
+   I 2 =  50     6      8.3
+   I 3 =  82    10      8.2
+   I 4 =  46     7      6.6
+   I 5 =  49     8      6.1
+   I 6 =  48    10      4.8
+   I 7 =  26     7      3.7
+   I 8 =  22    10      2.2
+   I 9 =  16     8      2.0
+   I10 =   8     6      1.3
+
+Breadth is faster than Best.
+ Depth = 63 || Best = 37 || Breath = 36
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  83     2     41.5
+   I 2 =  60     3     20.0
+   I 3 =  93     9     10.3
+   I 4 =  98    10      9.8
+   I 5 =  83     9      9.2
+   I 6 =  77     9      8.6
+   I 7 =  62     8      7.8
+   I 8 =  41     8      5.1
+   I 9 =  32     7      4.6
+   I10 =  16     8      2.0
+
+Breadth is faster than Best.
+ Depth = 129 || Best = 81 || Breath = 66
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  34     2     17.0
+   I 2 =  33     2     16.5
+   I 3 =  95    10      9.5
+   I 4 =  83    10      8.3
+   I 5 =  81    10      8.1
+   I 6 =  71     9      7.9
+   I 7 =  76    10      7.6
+   I 8 =  52    10      5.2
+   I 9 =  12     5      2.4
+   I10 =  12     6      2.0
+
+Breadth is faster than Best.
+ Depth = 121 || Best = 61 || Breath = 60
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  69     5     13.8
+   I 2 =  80     8     10.0
+   I 3 =  97    10      9.7
+   I 4 =  81     9      9.0
+   I 5 =  86    10      8.6
+   I 6 =  76     9      8.4
+   I 7 =  15     4      3.8
+   I 8 =  30     8      3.8
+   I 9 =  20     8      2.5
+   I10 =   9     8      1.1
+
+Breadth is faster than Best.
+ Depth = 95 || Best = 48 || Breath = 47
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  72     7     10.3
+   I 2 =  86     9      9.6
+   I 3 =  65     7      9.3
+   I 4 =  59     9      6.6
+   I 5 =  51     8      6.4
+   I 6 =  53    10      5.3
+   I 7 =  40     8      5.0
+   I 8 =  37     9      4.1
+   I 9 =  34    10      3.4
+   I10 =  28     9      3.1
+
+Breadth is faster than Best.
+ Depth = 43 || Best = 24 || Breath = 23
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  97     8     12.1
+   I 2 =  89     9      9.9
+   I 3 =  17     4      4.2
+   I 4 =  37    10      3.7
+   I 5 =  25     8      3.1
+   I 6 =  21     7      3.0
+   I 7 =  11     4      2.8
+   I 8 =   5     2      2.5
+   I 9 =  24    10      2.4
+   I10 =   7     4      1.8
+
+Breadth is faster than Best.
+ Depth = 37 || Best = 21 || Breath = 20
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  81     4     20.2
+   I 2 =  81     9      9.0
+   I 3 =  35     5      7.0
+   I 4 =  43    10      4.3
+   I 5 =  42    10      4.2
+   I 6 =  33     8      4.1
+   I 7 =  15     4      3.8
+   I 8 =  28     8      3.5
+   I 9 =  12     4      3.0
+   I10 =  11     8      1.4
+
+Breadth is faster than Best.
+ Depth = 59 || Best = 29 || Breath = 28
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  71     4     17.8
+   I 2 =  32     2     16.0
+   I 3 =  100     8     12.5
+   I 4 =  41     8      5.1
+   I 5 =  51    10      5.1
+   I 6 =  46    10      4.6
+   I 7 =  44    10      4.4
+   I 8 =  41    10      4.1
+   I 9 =  19    10      1.9
+   I10 =   8     7      1.1
+
+Breadth is faster than Best.
+ Depth = 85 || Best = 44 || Breath = 43
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  73     5     14.6
+   I 2 =  96    10      9.6
+   I 3 =  74     8      9.2
+   I 4 =  92    10      9.2
+   I 5 =  67     9      7.4
+   I 6 =  51     8      6.4
+   I 7 =  55    10      5.5
+   I 8 =  37     8      4.6
+   I 9 =  32     8      4.0
+   I10 =  28    10      2.8
+
+Breadth is faster than Best.
+ Depth = 99 || Best = 43 || Breath = 42
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  90     5     18.0
+   I 2 =  67     5     13.4
+   I 3 =  88     8     11.0
+   I 4 =  94     9     10.4
+   I 5 =  82     8     10.2
+   I 6 =  81     8     10.1
+   I 7 =  67     7      9.6
+   I 8 =  51     6      8.5
+   I 9 =  36     9      4.0
+   I10 =  29     8      3.6
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 16 || Breath = 15
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  75     5     15.0
+   I 2 =  77     8      9.6
+   I 3 =  55     7      7.9
+   I 4 =  24     6      4.0
+   I 5 =  27     7      3.9
+   I 6 =  34    10      3.4
+   I 7 =  22     7      3.1
+   I 8 =  12     6      2.0
+   I 9 =  13     8      1.6
+   I10 =  11     9      1.2
+
+Breadth is faster than Best.
+ Depth = 87 || Best = 51 || Breath = 49
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  80     6     13.3
+   I 2 =  46     4     11.5
+   I 3 =  60     7      8.6
+   I 4 =  57     8      7.1
+   I 5 =  64     9      7.1
+   I 6 =  63     9      7.0
+   I 7 =  65    10      6.5
+   I 8 =  51     9      5.7
+   I 9 =  28     6      4.7
+   I10 =   9     3      3.0
+
+Breadth is faster than Best.
+ Depth = 29 || Best = 15 || Breath = 14
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  78     6     13.0
+   I 2 =  76     8      9.5
+   I 3 =  46     8      5.8
+   I 4 =  51    10      5.1
+   I 5 =  23     6      3.8
+   I 6 =  34     9      3.8
+   I 7 =  33    10      3.3
+   I 8 =  10     4      2.5
+   I 9 =  16     8      2.0
+   I10 =  17     9      1.9
+
+Breadth is faster than Best.
+ Depth = 43 || Best = 19 || Breath = 17
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  64     4     16.0
+   I 2 =  98    10      9.8
+   I 3 =  92    10      9.2
+   I 4 =  84    10      8.4
+   I 5 =  46     7      6.6
+   I 6 =  53    10      5.3
+   I 7 =  29     9      3.2
+   I 8 =  21     8      2.6
+   I 9 =   9     5      1.8
+   I10 =  13     9      1.4
+
+Breadth is faster than Best.
+ Depth = 43 || Best = 22 || Breath = 21
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  85     8     10.6
+   I 2 =  67     7      9.6
+   I 3 =  85    10      8.5
+   I 4 =  71     9      7.9
+   I 5 =  53     7      7.6
+   I 6 =  11     3      3.7
+   I 7 =  18     8      2.2
+   I 8 =  13     6      2.2
+   I 9 =  21    10      2.1
+   I10 =   6     5      1.2
+
+Breadth is faster than Best.
+ Depth = 35 || Best = 22 || Breath = 20
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  95     6     15.8
+   I 2 =  85     6     14.2
+   I 3 =  69     8      8.6
+   I 4 =   7     1      7.0
+   I 5 =  11     3      3.7
+   I 6 =  32    10      3.2
+   I 7 =   9     3      3.0
+   I 8 =  11     4      2.8
+   I 9 =  14     6      2.3
+   I10 =   2     1      2.0
+
+Breadth is faster than Best.
+ Depth = 163 || Best = 80 || Breath = 77
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  38     2     19.0
+   I 2 =  85     9      9.4
+   I 3 =  37     4      9.2
+   I 4 =  89    10      8.9
+   I 5 =  88    10      8.8
+   I 6 =  82    10      8.2
+   I 7 =  71    10      7.1
+   I 8 =  49    10      4.9
+   I 9 =   7     2      3.5
+   I10 =  20     9      2.2
+
+Breadth is faster than Best.
+ Depth = 89 || Best = 45 || Breath = 41
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  71     6     11.8
+   I 2 =  97     9     10.8
+   I 3 =  86     8     10.8
+   I 4 =  94     9     10.4
+   I 5 =  81     8     10.1
+   I 6 =  57     8      7.1
+   I 7 =  28     6      4.7
+   I 8 =  46    10      4.6
+   I 9 =  42    10      4.2
+   I10 =  29     7      4.1
+
+Breadth is faster than Best.
+ Depth = 31 || Best = 14 || Breath = 13
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  83     2     41.5
+   I 2 =  96     9     10.7
+   I 3 =  67    10      6.7
+   I 4 =  28     6      4.7
+   I 5 =  38     9      4.2
+   I 6 =   4     1      4.0
+   I 7 =  31     8      3.9
+   I 8 =  18     9      2.0
+   I 9 =  13     7      1.9
+   I10 =  14    10      1.4
+
+Breadth is faster than Best.
+ Depth = 203 || Best = 61 || Breath = 55
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  59     7      8.4
+   I 2 =  62     8      7.8
+   I 3 =  75    10      7.5
+   I 4 =  73    10      7.3
+   I 5 =  73    10      7.3
+   I 6 =  54     8      6.8
+   I 7 =  58     9      6.4
+   I 8 =  43     9      4.8
+   I 9 =  28     7      4.0
+   I10 =  31    10      3.1
+
+Breadth is faster than Best.
+ Depth = 149 || Best = 64 || Breath = 60
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  64     3     21.3
+   I 2 =  68     5     13.6
+   I 3 =  78     7     11.1
+   I 4 =  81     9      9.0
+   I 5 =  75     9      8.3
+   I 6 =  71     9      7.9
+   I 7 =  75    10      7.5
+   I 8 =  63     9      7.0
+   I 9 =  27    10      2.7
+   I10 =  15    10      1.5
+
+Breadth is faster than Best.
+ Depth = 55 || Best = 29 || Breath = 28
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  98     2     49.0
+   I 2 =  79     8      9.9
+   I 3 =  34     4      8.5
+   I 4 =  43    10      4.3
+   I 5 =  30     8      3.8
+   I 6 =  36    10      3.6
+   I 7 =  28     9      3.1
+   I 8 =  23     9      2.6
+   I 9 =  12     8      1.5
+   I10 =  12     8      1.5
+
+Breadth is faster than Best.
+ Depth = 49 || Best = 23 || Breath = 22
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  88     9      9.8
+   I 2 =  93    10      9.3
+   I 3 =  90    10      9.0
+   I 4 =  89    10      8.9
+   I 5 =  82    10      8.2
+   I 6 =  33     8      4.1
+   I 7 =  30     8      3.8
+   I 8 =  31    10      3.1
+   I 9 =  10     7      1.4
+   I10 =   6     5      1.2
+
+Breadth is faster than Best.
+ Depth = 105 || Best = 37 || Breath = 34
+ Item = p[i]  w[i]  p[i]/w[i]
+   I 1 =  90     5     18.0
+   I 2 =  52     3     17.3
+   I 3 =  62     7      8.9
+   I 4 =  69     9      7.7
+   I 5 =  66     9      7.3
+   I 6 =  65     9      7.2
+   I 7 =  47     7      6.7
+   I 8 =   4     1      4.0
+   I 9 =  14     7      2.0
+   I10 =  13     9      1.4
+
+total problem is 499
