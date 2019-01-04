@@ -16,5 +16,5 @@
 | Week_12 | 1. 찾기함수 <br> 2. 표시형식 | [link]() | |
 | Week_13 | 1. 목록 <br> 2. 반올림 <br> 3. 조건 | [link]() | |
 | Week_14 | 1. 순위 <br> 2. median <br> 3. 논리함수 | [link]() | |
-| Week_15 | | [link]() | |
-| Week_16 | | [link]() | |
+| Week_15 | 1. 콤보박스 <br> 2. 매크로 | [link]() | |
+| Week_16 | 1. 기말고사 | [link]() | |

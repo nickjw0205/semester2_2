@@ -9,9 +9,6 @@ def print_array(s):
 		else:
 			print("%2.0d]"%i)
 
-
-
-
 # 숫자를 저장할 배열을 선언
 s = [0]*6
 
