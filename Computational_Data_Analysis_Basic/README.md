@@ -8,13 +8,13 @@
 | Week_4 | 1. if <br> 2. else if <br> 3. if else | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_4) | X |
 | Week_5 | 1. Array <br> 2. Tuple | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_5) | X |
 | Week_6 | 1. for <br> 2. while | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_6) | X |
-| Week_7 | 1. for문의 활용 | | |
+| Week_7 | 1. for문의 활용 | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_7) | |
 | Week_8 | 중간고사 | X | X |
 | Week_9 | 1. 시험리뷰 | X | X |
-| Week_10 | 1. 함수 선언 |  | X |
+| Week_10 | 1. 함수 선언 | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_10) | X |
 | Week_11 | 1. 휴강 | X | X |
-| Week_12 | 1. 함수 선언 추가 설명 |  | X |
-| Week_13 | 1. turtle | | X |
-| Week_14 | 1. turtle | [link]() | X |
-| Week_15 | 1. turtle <br> 2. class | [link]() | X |
+| Week_12 | 1. 함수 선언 추가 설명 | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_12) | X |
+| Week_13 | 1. turtle | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_13) | X |
+| Week_14 | 1. turtle | [[link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_14)  | X |
+| Week_15 | 1. turtle <br> 2. class | [link](https://github.com/nickjw0205/semester2_2/tree/master/Computational_Data_Analysis_Basic/Week_15)  | X |
 | Week_16 | 1. 기말고사 | [link]() | X |
